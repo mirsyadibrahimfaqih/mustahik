@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilh bank --PT BANK RAKYAT INDONE_3287af (1)</name>
+   <tag></tag>
+   <elementGuidId>fa755f7a-d6aa-49d8-9b66-5f3eeeb3129c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='lembaga-bank_nama']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lembaga-bank_nama</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5e9677cd-8939-45f8-b92e-a3fc1057e685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lembaga-bank_nama</value>
+      <webElementGuid>3df51609-97ce-4260-a872-85cee7654474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9f1ff10c-e065-4d48-96ea-7acf2ceba6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Lembaga[bank_nama]</value>
+      <webElementGuid>5522b884-94a2-4d40-a4e6-3317f2de1a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Pilh bank --
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+PT BANK MANDIRI (PERSERO) Tbk
+PT BANK NEGARA INDONESIA (PERSERO) Tbk
+PT BANK TABUNGAN NEGARA (PERSERO) Tbk
+PT BANK DANAMON INDONESIA Tbk
+PT BANK PERMATA Tbk
+PT BANK CENTRAL ASIA Tbk
+PT BANK MAYBANK  INDONESIA Tbk
+PT PAN INDONESIA BANK Tbk
+PT BANK CIMB NIAGA Tbk
+PT BANK UOB INDONESIA
+PT BANK OCBC NISP Tbk
+PT BANK ARTHA GRAHA INTERNASIONAL Tbk
+PT BANK BUMI ARTA Tbk
+PT BANK HSBC INDONESIA
+PT BANK JTRUST INDONESIA Tbk
+PT BANK MAYAPADA INTERNATIONAL Tbk
+PT BANK OF INDIA INDONESIA Tbk
+PT BANK MUAMALAT INDONESIA Tbk
+PT BANK MESTIKA DHARMA Tbk
+PT BANK SHINHAN INDONESIA
+PT BANK SINARMAS Tbk
+PT BANK MASPION INDONESIA Tbk
+PT BANK GANESHA Tbk
+PT BANK ICBC INDONESIA
+PT BANK QNB INDONESIA Tbk
+PT BANK WOORI SAUDARA INDONESIA 1906 Tbk
+PT BANK MEGA Tbk
+PT BANK SYARIAH INDONESIA Tbk
+PT BANK KB BUKOPIN Tbk
+PT BANK KEB HANA INDONESIA
+PT BANK MNC INTERNASIONAL Tbk
+PT BANK RAYA INDONESIA Tbk
+PT BANK SBI INDONESIA
+PT BANK MEGA SYARIAH
+PT BANK INDEX SELINDO
+PT BANK MAYORA
+PT BANK CHINA CONSTRUCTION BANK INDONESIA Tbk
+PT BANK DBS INDONESIA
+PT BANK RESONA PERDANIA
+PT BANK MIZUHO INDONESIA
+PT BANK CAPITAL INDONESIA Tbk
+PT BANK BNP PARIBAS INDONESIA
+PT BANK ANZ INDONESIA
+PT BANK IBK INDONESIA Tbk
+PT BANK ALADIN SYARIAH Tbk
+PT BANK CTBC INDONESIA
+PT BANK COMMONWEALTH
+PT BANK BTPN Tbk
+PT BANK VICTORIA SYARIAH
+PT BANK JABAR BANTEN SYARIAH
+PT KROM BANK INDONESIA Tbk
+PT BANK JASA JAKARTA
+PT BANK NEO COMMERCE Tbk
+PT BANK DIGITAL BCA
+PT BANK NATIONALNOBU Tbk
+PT BANK INA PERDANA Tbk
+PT BANK PANIN DUBAI SYARIAH Tbk
+PT BANK KB BUKOPIN SYARIAH
+PT BANK SAHABAT SAMPOERNA
+PT BANK OKE INDONESIA Tbk
+PT BANK AMAR INDONESIA
+PT BANK SEABANK INDONESIA
+PT BANK BCA SYARIAH
+PT BANK JAGO TBK
+PT BANK TABUNGAN PENSIUNAN NASIONAL SYARIAH Tbk
+PT BANK MULTIARTA SENTOSA
+PT SUPER BANK INDONESIA
+PT BANK MANDIRI TASPEN
+PT BANK VICTORIA INTERNATIONAL Tbk
+PT ALLO BANK INDONESIA Tbk
+PT Bank Nano Syariah
+PT BPD JAWA BARAT DAN BANTEN Tbk
+PT BPD DKIGd. Prasada Sasana Karya
+PT BPD DAERAH ISTIMEWA YOGYAKARTA
+PT BPD JAWA TENGAHGedung Grinatha
+PT BPD JAWA TIMUR Tbk
+PT BPD JAMBI
+PT BANK ACEH SYARIAH
+PT BPD SUMATERA UTARA
+PT BANK NAGARI
+PT BPD RIAU KEPRI SYARIAH
+PT BPD SUMATERA SELATAN DAN BANGKA BELITUNG
+PT BPD LAMPUNG
+PT BPD KALIMANTAN SELATAN
+PT BPD KALIMANTAN BARAT
+PT BPD KALIMANTAN TIMUR DAN KALIMANTAN UTARA
+PT BPD KALIMANTAN TENGAH
+PT BPD SULAWESI SELATAN DAN SULAWESI BARAT
+PT BPD SULAWESI UTARA DAN  GORONTALO
+PT BANK NTB SYARIAH
+PT BPD BALI
+PT BPD NUSA TENGGARA TIMUR
+PT BPD MALUKU DAN MALUKU UTARA
+PT BPD PAPUA
+PT BPD BENGKULU
+PT BPD SULAWESI TENGAH
+PT BPD SULAWESI TENGGARA
+PT BPD BANTEN Tbk
+CITIBANK N.A.
+JP MORGAN CHASE BANK N.A.
+BANK OF AMERICA N.A.
+MUFG BANK LTD
+STANDARD CHARTERED BANK
+DEUTSCHE BANK AG
+BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
+</value>
+      <webElementGuid>0ee8a590-eae4-4bb4-956f-493eba339103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lembaga-bank_nama&quot;)</value>
+      <webElementGuid>745dae9e-ce92-4675-b336-95c4ae0f44bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='lembaga-bank_nama']</value>
+      <webElementGuid>c230cb5f-f759-408b-a73b-0d40c373666f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/div/div[2]/div[5]/div[2]/div/select</value>
+      <webElementGuid>d0fe5707-d815-4c7c-a33f-0768e82bafad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Bank'])[1]/following::select[1]</value>
+      <webElementGuid>723375e4-e344-414c-90c5-2fb2b5ef199d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Rekening'])[1]/following::select[1]</value>
+      <webElementGuid>f9c67831-94c5-42c3-9ee0-e2ceb62397a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atas Nama'])[1]/preceding::select[1]</value>
+      <webElementGuid>fdc9ab6a-b10e-460e-b7fa-97c238efe919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Rekening'])[1]/preceding::select[1]</value>
+      <webElementGuid>77074fe0-57f4-4f23-8e4e-48f4f7307743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div[2]/div/select</value>
+      <webElementGuid>5ad9159c-a27e-45f2-84bb-711bb12aba01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'lembaga-bank_nama' and @name = 'Lembaga[bank_nama]' and (text() = '
+-- Pilh bank --
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+PT BANK MANDIRI (PERSERO) Tbk
+PT BANK NEGARA INDONESIA (PERSERO) Tbk
+PT BANK TABUNGAN NEGARA (PERSERO) Tbk
+PT BANK DANAMON INDONESIA Tbk
+PT BANK PERMATA Tbk
+PT BANK CENTRAL ASIA Tbk
+PT BANK MAYBANK  INDONESIA Tbk
+PT PAN INDONESIA BANK Tbk
+PT BANK CIMB NIAGA Tbk
+PT BANK UOB INDONESIA
+PT BANK OCBC NISP Tbk
+PT BANK ARTHA GRAHA INTERNASIONAL Tbk
+PT BANK BUMI ARTA Tbk
+PT BANK HSBC INDONESIA
+PT BANK JTRUST INDONESIA Tbk
+PT BANK MAYAPADA INTERNATIONAL Tbk
+PT BANK OF INDIA INDONESIA Tbk
+PT BANK MUAMALAT INDONESIA Tbk
+PT BANK MESTIKA DHARMA Tbk
+PT BANK SHINHAN INDONESIA
+PT BANK SINARMAS Tbk
+PT BANK MASPION INDONESIA Tbk
+PT BANK GANESHA Tbk
+PT BANK ICBC INDONESIA
+PT BANK QNB INDONESIA Tbk
+PT BANK WOORI SAUDARA INDONESIA 1906 Tbk
+PT BANK MEGA Tbk
+PT BANK SYARIAH INDONESIA Tbk
+PT BANK KB BUKOPIN Tbk
+PT BANK KEB HANA INDONESIA
+PT BANK MNC INTERNASIONAL Tbk
+PT BANK RAYA INDONESIA Tbk
+PT BANK SBI INDONESIA
+PT BANK MEGA SYARIAH
+PT BANK INDEX SELINDO
+PT BANK MAYORA
+PT BANK CHINA CONSTRUCTION BANK INDONESIA Tbk
+PT BANK DBS INDONESIA
+PT BANK RESONA PERDANIA
+PT BANK MIZUHO INDONESIA
+PT BANK CAPITAL INDONESIA Tbk
+PT BANK BNP PARIBAS INDONESIA
+PT BANK ANZ INDONESIA
+PT BANK IBK INDONESIA Tbk
+PT BANK ALADIN SYARIAH Tbk
+PT BANK CTBC INDONESIA
+PT BANK COMMONWEALTH
+PT BANK BTPN Tbk
+PT BANK VICTORIA SYARIAH
+PT BANK JABAR BANTEN SYARIAH
+PT KROM BANK INDONESIA Tbk
+PT BANK JASA JAKARTA
+PT BANK NEO COMMERCE Tbk
+PT BANK DIGITAL BCA
+PT BANK NATIONALNOBU Tbk
+PT BANK INA PERDANA Tbk
+PT BANK PANIN DUBAI SYARIAH Tbk
+PT BANK KB BUKOPIN SYARIAH
+PT BANK SAHABAT SAMPOERNA
+PT BANK OKE INDONESIA Tbk
+PT BANK AMAR INDONESIA
+PT BANK SEABANK INDONESIA
+PT BANK BCA SYARIAH
+PT BANK JAGO TBK
+PT BANK TABUNGAN PENSIUNAN NASIONAL SYARIAH Tbk
+PT BANK MULTIARTA SENTOSA
+PT SUPER BANK INDONESIA
+PT BANK MANDIRI TASPEN
+PT BANK VICTORIA INTERNATIONAL Tbk
+PT ALLO BANK INDONESIA Tbk
+PT Bank Nano Syariah
+PT BPD JAWA BARAT DAN BANTEN Tbk
+PT BPD DKIGd. Prasada Sasana Karya
+PT BPD DAERAH ISTIMEWA YOGYAKARTA
+PT BPD JAWA TENGAHGedung Grinatha
+PT BPD JAWA TIMUR Tbk
+PT BPD JAMBI
+PT BANK ACEH SYARIAH
+PT BPD SUMATERA UTARA
+PT BANK NAGARI
+PT BPD RIAU KEPRI SYARIAH
+PT BPD SUMATERA SELATAN DAN BANGKA BELITUNG
+PT BPD LAMPUNG
+PT BPD KALIMANTAN SELATAN
+PT BPD KALIMANTAN BARAT
+PT BPD KALIMANTAN TIMUR DAN KALIMANTAN UTARA
+PT BPD KALIMANTAN TENGAH
+PT BPD SULAWESI SELATAN DAN SULAWESI BARAT
+PT BPD SULAWESI UTARA DAN  GORONTALO
+PT BANK NTB SYARIAH
+PT BPD BALI
+PT BPD NUSA TENGGARA TIMUR
+PT BPD MALUKU DAN MALUKU UTARA
+PT BPD PAPUA
+PT BPD BENGKULU
+PT BPD SULAWESI TENGAH
+PT BPD SULAWESI TENGGARA
+PT BPD BANTEN Tbk
+CITIBANK N.A.
+JP MORGAN CHASE BANK N.A.
+BANK OF AMERICA N.A.
+MUFG BANK LTD
+STANDARD CHARTERED BANK
+DEUTSCHE BANK AG
+BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
+' or . = '
+-- Pilh bank --
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+PT BANK MANDIRI (PERSERO) Tbk
+PT BANK NEGARA INDONESIA (PERSERO) Tbk
+PT BANK TABUNGAN NEGARA (PERSERO) Tbk
+PT BANK DANAMON INDONESIA Tbk
+PT BANK PERMATA Tbk
+PT BANK CENTRAL ASIA Tbk
+PT BANK MAYBANK  INDONESIA Tbk
+PT PAN INDONESIA BANK Tbk
+PT BANK CIMB NIAGA Tbk
+PT BANK UOB INDONESIA
+PT BANK OCBC NISP Tbk
+PT BANK ARTHA GRAHA INTERNASIONAL Tbk
+PT BANK BUMI ARTA Tbk
+PT BANK HSBC INDONESIA
+PT BANK JTRUST INDONESIA Tbk
+PT BANK MAYAPADA INTERNATIONAL Tbk
+PT BANK OF INDIA INDONESIA Tbk
+PT BANK MUAMALAT INDONESIA Tbk
+PT BANK MESTIKA DHARMA Tbk
+PT BANK SHINHAN INDONESIA
+PT BANK SINARMAS Tbk
+PT BANK MASPION INDONESIA Tbk
+PT BANK GANESHA Tbk
+PT BANK ICBC INDONESIA
+PT BANK QNB INDONESIA Tbk
+PT BANK WOORI SAUDARA INDONESIA 1906 Tbk
+PT BANK MEGA Tbk
+PT BANK SYARIAH INDONESIA Tbk
+PT BANK KB BUKOPIN Tbk
+PT BANK KEB HANA INDONESIA
+PT BANK MNC INTERNASIONAL Tbk
+PT BANK RAYA INDONESIA Tbk
+PT BANK SBI INDONESIA
+PT BANK MEGA SYARIAH
+PT BANK INDEX SELINDO
+PT BANK MAYORA
+PT BANK CHINA CONSTRUCTION BANK INDONESIA Tbk
+PT BANK DBS INDONESIA
+PT BANK RESONA PERDANIA
+PT BANK MIZUHO INDONESIA
+PT BANK CAPITAL INDONESIA Tbk
+PT BANK BNP PARIBAS INDONESIA
+PT BANK ANZ INDONESIA
+PT BANK IBK INDONESIA Tbk
+PT BANK ALADIN SYARIAH Tbk
+PT BANK CTBC INDONESIA
+PT BANK COMMONWEALTH
+PT BANK BTPN Tbk
+PT BANK VICTORIA SYARIAH
+PT BANK JABAR BANTEN SYARIAH
+PT KROM BANK INDONESIA Tbk
+PT BANK JASA JAKARTA
+PT BANK NEO COMMERCE Tbk
+PT BANK DIGITAL BCA
+PT BANK NATIONALNOBU Tbk
+PT BANK INA PERDANA Tbk
+PT BANK PANIN DUBAI SYARIAH Tbk
+PT BANK KB BUKOPIN SYARIAH
+PT BANK SAHABAT SAMPOERNA
+PT BANK OKE INDONESIA Tbk
+PT BANK AMAR INDONESIA
+PT BANK SEABANK INDONESIA
+PT BANK BCA SYARIAH
+PT BANK JAGO TBK
+PT BANK TABUNGAN PENSIUNAN NASIONAL SYARIAH Tbk
+PT BANK MULTIARTA SENTOSA
+PT SUPER BANK INDONESIA
+PT BANK MANDIRI TASPEN
+PT BANK VICTORIA INTERNATIONAL Tbk
+PT ALLO BANK INDONESIA Tbk
+PT Bank Nano Syariah
+PT BPD JAWA BARAT DAN BANTEN Tbk
+PT BPD DKIGd. Prasada Sasana Karya
+PT BPD DAERAH ISTIMEWA YOGYAKARTA
+PT BPD JAWA TENGAHGedung Grinatha
+PT BPD JAWA TIMUR Tbk
+PT BPD JAMBI
+PT BANK ACEH SYARIAH
+PT BPD SUMATERA UTARA
+PT BANK NAGARI
+PT BPD RIAU KEPRI SYARIAH
+PT BPD SUMATERA SELATAN DAN BANGKA BELITUNG
+PT BPD LAMPUNG
+PT BPD KALIMANTAN SELATAN
+PT BPD KALIMANTAN BARAT
+PT BPD KALIMANTAN TIMUR DAN KALIMANTAN UTARA
+PT BPD KALIMANTAN TENGAH
+PT BPD SULAWESI SELATAN DAN SULAWESI BARAT
+PT BPD SULAWESI UTARA DAN  GORONTALO
+PT BANK NTB SYARIAH
+PT BPD BALI
+PT BPD NUSA TENGGARA TIMUR
+PT BPD MALUKU DAN MALUKU UTARA
+PT BPD PAPUA
+PT BPD BENGKULU
+PT BPD SULAWESI TENGAH
+PT BPD SULAWESI TENGGARA
+PT BPD BANTEN Tbk
+CITIBANK N.A.
+JP MORGAN CHASE BANK N.A.
+BANK OF AMERICA N.A.
+MUFG BANK LTD
+STANDARD CHARTERED BANK
+DEUTSCHE BANK AG
+BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
+')]</value>
+      <webElementGuid>fac59900-31f8-4328-b87c-73fe93514ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ADATIDAK ADA (1)</name>
+   <tag></tag>
+   <elementGuidId>40f97b1a-8bd2-48dc-97f8-64a1ad17dcf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='lembaga-legalitas']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lembaga-legalitas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>083a3b97-f217-4fb6-909f-7c802770ddce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lembaga-legalitas</value>
+      <webElementGuid>a0e103ca-9376-49ec-9d97-405e88c748c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>5234aaf6-3652-4ec1-b443-1dedc7c51617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Lembaga[legalitas]</value>
+      <webElementGuid>f033f87a-a324-42f7-aea5-3e4d3f1d2bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ADA
+TIDAK ADA
+</value>
+      <webElementGuid>a57ed864-0726-4483-9e55-a3998d33c3e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lembaga-legalitas&quot;)</value>
+      <webElementGuid>4356b07e-f9a9-43ca-890e-e92cfab77183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='lembaga-legalitas']</value>
+      <webElementGuid>9efc5aec-4d92-4510-986c-8dc288fc8375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/div/div/div[5]/div[2]/div/select</value>
+      <webElementGuid>f4936c8d-9adf-452c-a7bf-0a46c8ef2194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legalitas'])[1]/following::select[1]</value>
+      <webElementGuid>2e0fbf74-a29b-45cc-b5a8-4a84b639a351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[2]</value>
+      <webElementGuid>69d515d9-9907-4b49-b839-c45fe51aa4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lembaga'])[1]/preceding::select[1]</value>
+      <webElementGuid>8454e31d-d8a4-4375-8daa-bfb42b3071b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/preceding::select[1]</value>
+      <webElementGuid>15a78d46-c091-45a6-98a8-d3c33390b8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/select</value>
+      <webElementGuid>9374bd17-5de5-4124-9629-82229df21fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'lembaga-legalitas' and @name = 'Lembaga[legalitas]' and (text() = '
+ADA
+TIDAK ADA
+' or . = '
+ADA
+TIDAK ADA
+')]</value>
+      <webElementGuid>ea73a083-f37e-458c-ae5c-9115b3ea1780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

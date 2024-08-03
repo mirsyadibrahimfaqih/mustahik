@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nomor Penyaluran</name>
+   <tag></tag>
+   <elementGuidId>7ee73f59-a70c-4855-9d95-167b073114a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/thead/tr/th[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cfaac330-1c92-4d1a-b933-6ea7317e6edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=bantuan-penyaluran%2Findex&amp;sort=nomor_penyaluran</value>
+      <webElementGuid>f7251d8c-d131-4019-a1ec-57a4d97e6a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>nomor_penyaluran</value>
+      <webElementGuid>a97b577a-4c53-41a7-a153-53c1b7b1ccd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Penyaluran</value>
+      <webElementGuid>b28b48fd-1774-4668-bb11-6edebf187005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[1]/th[3]/a[1]</value>
+      <webElementGuid>276c8a86-baf2-4a34-999b-cf506f66e13f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/thead/tr/th[3]/a</value>
+      <webElementGuid>665cc688-1307-4b78-b5cb-c07570867ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nomor Penyaluran')]</value>
+      <webElementGuid>5f835366-7e8b-47b1-822f-6ed3de22a4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[1]</value>
+      <webElementGuid>699aff5f-cb96-47b1-9951-d3309d2511e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/following::a[1]</value>
+      <webElementGuid>b6563ed3-8fdf-4129-8656-d7a9bf5f5977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Bantuan'])[2]/preceding::a[1]</value>
+      <webElementGuid>4d06b09d-eebe-4e50-9695-3bf3eaf7d361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Penyaluran'])[1]/preceding::a[1]</value>
+      <webElementGuid>22e1bb56-7fcc-434f-984c-44287a12d5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor Penyaluran']/parent::*</value>
+      <webElementGuid>d4b950b4-67a0-481a-982e-0f16d61c49e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=bantuan-penyaluran%2Findex&amp;sort=nomor_penyaluran')]</value>
+      <webElementGuid>1d2a752b-eed7-4223-8ffc-57da25b81372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/a</value>
+      <webElementGuid>1a85750e-75cd-4ee3-888e-f02af0a62186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=bantuan-penyaluran%2Findex&amp;sort=nomor_penyaluran' and (text() = 'Nomor Penyaluran' or . = 'Nomor Penyaluran')]</value>
+      <webElementGuid>7962fcb2-bdeb-4afc-9e25-c8bfee363b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

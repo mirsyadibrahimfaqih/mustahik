@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nomor Pengajuan</name>
+   <tag></tag>
+   <elementGuidId>c7603f51-d17f-42cd-a591-910d80cc0dc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/thead/tr/th[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be5097fc-aa35-4d92-b4cb-86a0be7c4ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=bantuan%2Findex&amp;sort=nomor_pengajuan</value>
+      <webElementGuid>28f254da-0b97-4389-afd8-54f51b2e605a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>nomor_pengajuan</value>
+      <webElementGuid>f8fd52e9-928b-4a34-a0ac-d926b7d3793b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Pengajuan</value>
+      <webElementGuid>c552499a-5a70-4a4b-9d84-fe8cbbbc4b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[1]/th[3]/a[1]</value>
+      <webElementGuid>a04c45df-a164-4874-b33f-1cafcd056a84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/thead/tr/th[3]/a</value>
+      <webElementGuid>1abce15d-aaa4-405a-bf70-9c6d6d8e8204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nomor Pengajuan')]</value>
+      <webElementGuid>ad99c18d-b0e4-493d-95fa-c07c0f6a1bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[1]</value>
+      <webElementGuid>433ef996-92e1-4d2d-b55d-62862acd0310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/following::a[1]</value>
+      <webElementGuid>c73500a8-e32f-408e-a33d-4bfaa2853e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Bantuan'])[2]/preceding::a[1]</value>
+      <webElementGuid>e295edb7-d188-4118-b593-1fec7de31982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Pengajuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8d3569d-5cb9-4690-9ce1-aa8d110b8d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=bantuan%2Findex&amp;sort=nomor_pengajuan')]</value>
+      <webElementGuid>e3d4fac9-8678-435d-be74-744819ba4466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/a</value>
+      <webElementGuid>1ce3a8bc-97f1-448b-ab29-931e6df4d684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=bantuan%2Findex&amp;sort=nomor_pengajuan' and (text() = 'Nomor Pengajuan' or . = 'Nomor Pengajuan')]</value>
+      <webElementGuid>947511d6-33f1-4b06-a06a-8e705c612a05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

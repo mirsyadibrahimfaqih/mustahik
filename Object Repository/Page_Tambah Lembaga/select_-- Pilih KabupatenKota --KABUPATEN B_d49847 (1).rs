@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih KabupatenKota --KABUPATEN B_d49847 (1)</name>
+   <tag></tag>
+   <elementGuidId>f65dfa2c-33e1-46de-a2ef-4000018e122f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='lembaga-kota_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lembaga-kota_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f8732178-deac-475b-8f85-474dfea9f663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lembaga-kota_id</value>
+      <webElementGuid>8e6b1c52-7cca-42d4-9a70-275e7607ddfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9e2e7a1c-4708-4f4b-aefc-56b16ab9d8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Lembaga[kota_id]</value>
+      <webElementGuid>4851634d-4a91-4455-b861-0c658c66088c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>
+                                $.get( &quot;/backend/web/index.php?r=mustahik%2Flist-kecamatan&quot;, { param: $(this).val() } )
+                                    .done(function( data ) {
+                                        $( &quot;#lembaga-kecamatan_id&quot; ).html( data );
+                                    }
+                                );
+                                                    </value>
+      <webElementGuid>12cca54f-5ab7-418c-b615-18720115789a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA</value>
+      <webElementGuid>3b8d15cb-2a95-4581-8fb0-7257f9b53fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lembaga-kota_id&quot;)</value>
+      <webElementGuid>f0307b79-1e0d-48a4-9a18-a1364e99122a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='lembaga-kota_id']</value>
+      <webElementGuid>a876e458-becb-46cc-bbe9-dcd3e880d6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/div/div/div[7]/div[2]/div/select</value>
+      <webElementGuid>5edc0f57-51b4-47b5-abcd-6a1b7619c74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/following::select[1]</value>
+      <webElementGuid>34a6d559-bdcf-414b-b38e-9d9caa858403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/following::select[2]</value>
+      <webElementGuid>2d4cc8e8-86db-4bf6-9dea-e6cb5f547c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/preceding::select[1]</value>
+      <webElementGuid>a606044e-ed68-41b1-8648-721c119e0ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa'])[1]/preceding::select[2]</value>
+      <webElementGuid>b5a00528-e105-4cca-8e78-86cd5271ace5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/select</value>
+      <webElementGuid>83985b86-f69c-4023-ae12-634e14d32137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'lembaga-kota_id' and @name = 'Lembaga[kota_id]' and (text() = '-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA' or . = '-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA')]</value>
+      <webElementGuid>e7547abc-8a24-4bbf-a776-c7d881b369d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

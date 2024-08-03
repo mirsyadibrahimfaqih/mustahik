@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Kecamatan --BANDAR KEDUNG M_70a2e7 (1)</name>
+   <tag></tag>
+   <elementGuidId>3d84cbf9-955b-4057-81bd-715f14a6bf69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='lembaga-kecamatan_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lembaga-kecamatan_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dd328354-95c4-481d-b4c1-031a14761bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lembaga-kecamatan_id</value>
+      <webElementGuid>e64ddfca-bb45-4acb-8a7b-0116f63b03ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>016c4f54-467a-4b05-8691-6c5e8e51c52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Lembaga[kecamatan_id]</value>
+      <webElementGuid>ab9ec182-367c-4849-ba77-65d3ccbaabe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>
+                                $.get( &quot;/backend/web/index.php?r=mustahik%2Flist-desa&quot;, { param: $(this).val() } )
+                                    .done(function( data ) {
+                                        $( &quot;#lembaga-desa_id&quot; ).html( data );
+                                    }
+                                );
+                                </value>
+      <webElementGuid>ac50b4e5-2624-4ba2-9520-7848066f5334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM</value>
+      <webElementGuid>73200bde-e2f7-46d8-94cf-3f791ad6e1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lembaga-kecamatan_id&quot;)</value>
+      <webElementGuid>d5dd61cc-edea-48f6-8098-f4935a374dab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='lembaga-kecamatan_id']</value>
+      <webElementGuid>d757de09-ff13-4341-90d8-bb32ce50e16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/div/div/div[8]/div[2]/div/select</value>
+      <webElementGuid>001884a8-65be-4524-8e2c-6fe8e245593e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/following::select[1]</value>
+      <webElementGuid>a4058e83-50d7-4277-baca-107699feef86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/following::select[2]</value>
+      <webElementGuid>b0cd8e0f-e699-4a6f-935b-d0208b43467b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa'])[1]/preceding::select[1]</value>
+      <webElementGuid>89448e8e-636f-4d1c-9386-92ac4c4280dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/preceding::select[2]</value>
+      <webElementGuid>7aa59f85-bc06-4a33-b80c-8baca313c089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/select</value>
+      <webElementGuid>4cc2bca6-4c62-454e-8384-c09ee4578e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'lembaga-kecamatan_id' and @name = 'Lembaga[kecamatan_id]' and (text() = '-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM' or . = '-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM')]</value>
+      <webElementGuid>a72f7adf-7e24-495c-9c99-2c68fffcc4f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

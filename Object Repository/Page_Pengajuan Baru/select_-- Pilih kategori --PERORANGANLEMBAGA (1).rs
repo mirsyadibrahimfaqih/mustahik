@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih kategori --PERORANGANLEMBAGA (1)</name>
+   <tag></tag>
+   <elementGuidId>60bfcbec-994a-40b5-b9a1-d293159a4607</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='bantuan-kategori_penerima']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bantuan-kategori_penerima</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>80bcc169-d813-45b3-81e9-875da0baf81e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bantuan-kategori_penerima</value>
+      <webElementGuid>c5b0ec59-a868-407e-9aa2-57a9774ee261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f84af668-4deb-49c1-96c9-3890ea82dd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Bantuan[kategori_penerima]</value>
+      <webElementGuid>5f17c16a-21a1-4ba6-a839-aa930f023389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Pilih kategori --
+PERORANGAN
+LEMBAGA
+</value>
+      <webElementGuid>28c607f1-f147-43d0-83c4-8112f4828deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bantuan-kategori_penerima&quot;)</value>
+      <webElementGuid>7d336930-a32f-4401-8bce-b0c618189214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='bantuan-kategori_penerima']</value>
+      <webElementGuid>d8b37397-7eef-4eda-b972-0c3eed0ae547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/div[2]/div/div/div/div[2]/div/select</value>
+      <webElementGuid>c5106d7c-78cf-4156-81c9-e333454c64a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Kategori Pengaju'])[1]/following::select[1]</value>
+      <webElementGuid>76809e7f-7d0d-43c5-a675-e01a604dbb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pengaju'])[1]/following::select[1]</value>
+      <webElementGuid>de3ce41b-0776-46f4-a9f5-9d34e3a11119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Pilih Lembaga'])[1]/preceding::select[1]</value>
+      <webElementGuid>72483540-1557-463b-9cb1-7e535439c1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Kategori Lembaga'])[1]/preceding::select[2]</value>
+      <webElementGuid>7e97eedb-e21e-4aaa-95b2-195aa1f1abf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/select</value>
+      <webElementGuid>9e4d056b-d8f8-4ceb-b9aa-2017cc1fd50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'bantuan-kategori_penerima' and @name = 'Bantuan[kategori_penerima]' and (text() = '
+-- Pilih kategori --
+PERORANGAN
+LEMBAGA
+' or . = '
+-- Pilih kategori --
+PERORANGAN
+LEMBAGA
+')]</value>
+      <webElementGuid>5490d672-c100-4e71-b136-ccb066351e59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

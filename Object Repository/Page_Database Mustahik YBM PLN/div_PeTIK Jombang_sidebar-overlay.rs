@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PeTIK Jombang_sidebar-overlay</name>
+   <tag></tag>
+   <elementGuidId>730192e7-12c1-4487-b751-325991be7b42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-overlay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sidebar-overlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e3f3b6a-eb7a-44e1-83d5-165b8f2a3095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sidebar-overlay</value>
+      <webElementGuid>f16cedc4-8642-4e83-b47e-afcd90e6596e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-overlay&quot;)</value>
+      <webElementGuid>70d6bef2-35cf-4c4c-b58a-27e4468b9915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-overlay']</value>
+      <webElementGuid>0565339b-2d20-4f6a-9f15-ff74bc650a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>478d9133-f29e-4706-a78a-8a898f89b6b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'sidebar-overlay']</value>
+      <webElementGuid>82c4dbc9-309c-403e-bcf1-c651e3fc57f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

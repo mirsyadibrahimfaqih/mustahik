@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Jenis Pelanggan --PLNNONPELANGGAN</name>
+   <tag></tag>
+   <elementGuidId>93c1cd38-1677-4a0b-a613-a17ad1218567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='mustahik-jenis_pelanggan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mustahik-jenis_pelanggan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>680dc74b-26e6-447d-bbf8-1aacb22b512f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mustahik-jenis_pelanggan</value>
+      <webElementGuid>6c2a1c0b-2fba-46dc-8126-0927eeb259a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b3481b9a-7d4f-4583-b935-70d9e21d7865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Mustahik[jenis_pelanggan]</value>
+      <webElementGuid>d1b0222d-b11a-468c-8b64-8439511181d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Pilih Jenis Pelanggan --
+PLN
+NONPELANGGAN
+</value>
+      <webElementGuid>1d6bea79-3d3d-4ac6-8088-04ecfb6ab8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mustahik-jenis_pelanggan&quot;)</value>
+      <webElementGuid>1287acf6-805d-4df7-9c6a-d054173e6471</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='mustahik-jenis_pelanggan']</value>
+      <webElementGuid>22fed14d-f9e3-40c7-b80b-42f13890643d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create-mustahik']/div/div/div[8]/select</value>
+      <webElementGuid>1a71f023-ecc6-443c-80c8-9d0fb1807d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pelanggan'])[1]/following::select[1]</value>
+      <webElementGuid>a537e639-22ef-4e75-838e-299bc3d9a7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/following::select[2]</value>
+      <webElementGuid>d42b43a6-e5e4-42c7-a845-cd2cbebcf26a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDPEL'])[1]/preceding::select[1]</value>
+      <webElementGuid>ec1c3a3a-e1fe-4f7d-bc46-28065bd80547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Daftar'])[1]/preceding::select[1]</value>
+      <webElementGuid>43b66e22-4c95-491b-aa68-c2f3609b222e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/select</value>
+      <webElementGuid>803adeb3-ade3-4893-b81e-ed66985fc607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'mustahik-jenis_pelanggan' and @name = 'Mustahik[jenis_pelanggan]' and (text() = '
+-- Pilih Jenis Pelanggan --
+PLN
+NONPELANGGAN
+' or . = '
+-- Pilih Jenis Pelanggan --
+PLN
+NONPELANGGAN
+')]</value>
+      <webElementGuid>3e2d95da-11c7-4c06-be85-d917888d0ead</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

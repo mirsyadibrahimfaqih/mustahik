@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Bantuan Dana Tupen Anak Pegawai Smki Uta_d62bfe</name>
+   <tag></tag>
+   <elementGuidId>fc0f2901-5dbe-47df-81fa-9b864f7740ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>86e74daa-e21a-4d66-b66b-63180bd67bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bantuan Dana Tupen Anak Pegawai Smki Utama Bulan Mei 2024  - 15 Pm </value>
+      <webElementGuid>e196c127-f6f1-47ca-bdff-1aec5b7afe1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>64b505f7-53ff-4b6e-a3e0-eca171e87658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/tbody/tr/td[4]</value>
+      <webElementGuid>98d26a50-cf0e-436d-955b-b3c652142002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RD-0745/U10/EKOPEN/VII/2024'])[1]/following::td[1]</value>
+      <webElementGuid>4769d8ac-9680-4fb2-ada8-58087e26db3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUBMITTED'])[2]/following::td[2]</value>
+      <webElementGuid>dbd911d9-c115-4bd6-a3e6-99e009ad612f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 6.160.000'])[1]/preceding::td[2]</value>
+      <webElementGuid>a7b36244-b594-4a15-bf50-ec282055ecda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDIDIKAN'])[3]/preceding::td[3]</value>
+      <webElementGuid>a97bdf66-5772-4b58-beee-ac4c0ab5da29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>3dbe039d-63d2-40ec-b492-ca61be3c7781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bantuan Dana Tupen Anak Pegawai Smki Utama Bulan Mei 2024  - 15 Pm ' or . = 'Bantuan Dana Tupen Anak Pegawai Smki Utama Bulan Mei 2024  - 15 Pm ')]</value>
+      <webElementGuid>e75985fb-5446-4cdf-b5f5-29b154bd27ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

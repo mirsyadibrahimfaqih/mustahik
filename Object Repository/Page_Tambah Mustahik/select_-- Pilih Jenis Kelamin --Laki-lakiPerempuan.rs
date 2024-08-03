@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Jenis Kelamin --Laki-lakiPerempuan</name>
+   <tag></tag>
+   <elementGuidId>c0e2b81d-7d19-4c7b-8ac3-51c8df538969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='mustahik-gender_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mustahik-gender_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>73c2efe9-a2af-46d7-9fae-06c4210521f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mustahik-gender_id</value>
+      <webElementGuid>3fc8dd7e-bf24-46f7-b762-3c3811d3ff22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b3f27cd6-fb77-4a9a-be6b-ffd46fedd1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Mustahik[gender_id]</value>
+      <webElementGuid>090a6614-aa79-4321-a791-1308b03465f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Pilih Jenis Kelamin --
+Laki-laki
+Perempuan
+</value>
+      <webElementGuid>624cf7a1-2b0d-4e49-9677-220d7963d117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mustahik-gender_id&quot;)</value>
+      <webElementGuid>60a9c317-2cb6-48c2-8a41-873f440df6b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='mustahik-gender_id']</value>
+      <webElementGuid>17b17c7b-37f8-4670-8b69-aaa508337606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create-mustahik']/div/div/div[7]/select</value>
+      <webElementGuid>fb264223-f738-401d-9050-cb0276f78053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/following::select[1]</value>
+      <webElementGuid>3cb7c026-bd29-4434-9016-901c3c6d7480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telepon'])[1]/following::select[1]</value>
+      <webElementGuid>540a62d9-74e4-410e-94b4-38066f0ef020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pelanggan'])[1]/preceding::select[1]</value>
+      <webElementGuid>1de12b3e-66fa-41de-950a-b6fec4946776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDPEL'])[1]/preceding::select[2]</value>
+      <webElementGuid>05e8793b-b1fd-4167-b5d9-07ceac9837d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>83760366-ef2c-4ae6-a881-6552afa2d220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'mustahik-gender_id' and @name = 'Mustahik[gender_id]' and (text() = '
+-- Pilih Jenis Kelamin --
+Laki-laki
+Perempuan
+' or . = '
+-- Pilih Jenis Kelamin --
+Laki-laki
+Perempuan
+')]</value>
+      <webElementGuid>ecd39e12-c76b-431c-8683-e1b4e01334f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

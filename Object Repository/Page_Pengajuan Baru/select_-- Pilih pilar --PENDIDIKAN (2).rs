@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih pilar --PENDIDIKAN (2)</name>
+   <tag></tag>
+   <elementGuidId>68f90d76-8352-4ee5-9fe0-7cacff47bd1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='bantuan-pilar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bantuan-pilar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ddd9a29b-c919-4020-b520-5405cfd31bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bantuan-pilar</value>
+      <webElementGuid>9486147b-54b7-4c0f-bc0e-adfbc1d60c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4972b607-5553-499d-98d3-b9e91ee1f53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Bantuan[pilar]</value>
+      <webElementGuid>ebfce2d5-d442-43fc-af37-612e2d382977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Pilih pilar --
+PENDIDIKAN
+</value>
+      <webElementGuid>41346a16-3b94-40a7-9af6-b596ce08abd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bantuan-pilar&quot;)</value>
+      <webElementGuid>5af2e77b-2376-4164-963b-6f9628b85b8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='bantuan-pilar']</value>
+      <webElementGuid>eb8be57b-cb52-442b-a51b-c4a39ca97bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/div/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>2ef705d1-41c0-4b16-abb9-4f445f86db1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Pilar'])[1]/following::select[1]</value>
+      <webElementGuid>4abdafb5-23d4-4008-b933-46834ae100ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Judul'])[1]/following::select[1]</value>
+      <webElementGuid>9202a65b-e738-4853-8031-8945661e0b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Deskripsi'])[1]/preceding::select[1]</value>
+      <webElementGuid>e0d0cdfb-16bb-4a8f-af0e-84252d88ad46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Lokasi Penyaluran'])[1]/preceding::select[1]</value>
+      <webElementGuid>d1fd875a-4370-4de9-a64a-f2e370b61857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>cb2c92a9-c71c-4a31-9cd2-36a33057d28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'bantuan-pilar' and @name = 'Bantuan[pilar]' and (text() = '
+-- Pilih pilar --
+PENDIDIKAN
+' or . = '
+-- Pilih pilar --
+PENDIDIKAN
+')]</value>
+      <webElementGuid>52ab9520-a3b5-4b76-98b8-d76fac701d35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

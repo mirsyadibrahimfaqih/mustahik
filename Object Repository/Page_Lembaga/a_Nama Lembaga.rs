@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nama Lembaga</name>
+   <tag></tag>
+   <elementGuidId>a00a2398-33f8-4909-89f7-88622351abd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/thead/tr/th[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c46f6a4-9822-4600-bd6a-236cd8add092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=lembaga%2Findex&amp;sort=nama</value>
+      <webElementGuid>fb529371-5d3d-42ce-a0d2-748157c18ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>nama</value>
+      <webElementGuid>0536dcfa-cc01-4cc9-bf19-0ccc603d9860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Lembaga</value>
+      <webElementGuid>fa45a5cf-4bb2-4147-8be5-1b3ddfd347b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/thead[1]/tr[1]/th[2]/a[1]</value>
+      <webElementGuid>32584a79-1dd8-4f62-a839-62c29ad1faaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/thead/tr/th[2]/a</value>
+      <webElementGuid>4163bcd0-6393-480f-8273-c51fc40a36a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nama Lembaga')]</value>
+      <webElementGuid>bb205c0a-ffa2-429f-a90e-2f80cc5a0cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/following::a[1]</value>
+      <webElementGuid>9039124d-5489-49a4-aa3d-9c649615eac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menampilkan 1-20 dari 471 data'])[1]/following::a[1]</value>
+      <webElementGuid>c2abd2a9-0dec-475c-806f-601b2f3bd8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/preceding::a[1]</value>
+      <webElementGuid>8b81c368-508a-426c-904b-f5b5dbb680b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[2]/preceding::a[2]</value>
+      <webElementGuid>b7876fe3-1c31-41ef-af96-cdb05154e724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Lembaga']/parent::*</value>
+      <webElementGuid>2b09282e-7062-4835-887e-ea73f4b38514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=lembaga%2Findex&amp;sort=nama')]</value>
+      <webElementGuid>f121e380-657c-4e63-b054-c9160fecab69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/a</value>
+      <webElementGuid>e0d7387b-442b-4155-b24a-870c05540bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=lembaga%2Findex&amp;sort=nama' and (text() = 'Nama Lembaga' or . = 'Nama Lembaga')]</value>
+      <webElementGuid>a5e7bc12-1043-46d0-b310-cd88f67402b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TEMPLATE IMPORT MUSTAHIK.xlsx</name>
+   <tag></tag>
+   <elementGuidId>ace4d402-99db-4d66-b15e-405ff7b4456b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='w0']/div/div/div/div[2]/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80f9a4f2-d566-4e1a-b010-4a7cb29cdc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/template/template-mustahik.xlsx</value>
+      <webElementGuid>6f80599e-daac-4b9f-86c3-e9b6a9428809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>download</name>
+      <type>Main</type>
+      <value>template-mustahik.xlsx</value>
+      <webElementGuid>94ec4027-56be-446c-ac3f-d96edcb8a9da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TEMPLATE IMPORT MUSTAHIK.xlsx</value>
+      <webElementGuid>9d370b68-43b3-446a-8e5d-06e5c83cc274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/p[2]/a[1]</value>
+      <webElementGuid>e316de4c-7af4-4523-9d04-742d4eaee137</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/div/div[2]/p[2]/a</value>
+      <webElementGuid>b51c6b84-8b8b-4dcd-9d3b-31d8d094a5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TEMPLATE IMPORT MUSTAHIK.xlsx')]</value>
+      <webElementGuid>e386b78d-e585-4949-a919-143c03fb3030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Data'])[1]/following::a[1]</value>
+      <webElementGuid>a12a6d77-defe-4dd1-9240-6f25f3e297af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/following::a[1]</value>
+      <webElementGuid>926734d5-05c3-4482-afd2-a597b73466b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KODE WILAYAH.xlsx'])[1]/preceding::a[1]</value>
+      <webElementGuid>a127d22c-7da5-4684-8909-719cf09120a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TEMPLATE IMPORT MUSTAHIK.xlsx']/parent::*</value>
+      <webElementGuid>b5abb8c9-d244-450b-9559-22674e3ed7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/template/template-mustahik.xlsx')]</value>
+      <webElementGuid>32826d79-57c0-4817-9500-c282f248350c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>7983bd1a-a4f4-4fb5-b3a5-4e1d806ca44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/template/template-mustahik.xlsx' and (text() = 'TEMPLATE IMPORT MUSTAHIK.xlsx' or . = 'TEMPLATE IMPORT MUSTAHIK.xlsx')]</value>
+      <webElementGuid>6a43215e-0c09-49f6-a0cb-dc6f9b2475ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
