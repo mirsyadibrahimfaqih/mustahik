@@ -21,36 +21,36 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mustahikdev.petikjombang.com/backend/web/index.php?r=site%2Flogin')
 
-WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (11)'), 'adminprogram@ybmpln.org')
+WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (44)'), 'adminprogram@ybmpln.org')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (11)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (44)'), 
     'U54oLL1U6TIkPGb6YLpL4w==')
 
 WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (11)'))
+WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (44)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (10)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (42)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Data Master (3)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Data Master (4)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Pilar (3)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Pilar (4)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Pilar/a_Unit PLN Pusat_btn btn-success (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Pilar/a_Unit PLN Pusat_btn btn-success (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sosial Kemanusiaan/a_Tambah Program'))
+WebUI.click(findTestObject('Object Repository/Page_Sosial Kemanusiaan/a_Tambah Program (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Tambah Program/input_Kategori_Kategorinama'), 'tes')
+WebUI.setText(findTestObject('Object Repository/Page_Tambah Program/input_Kategori_Kategorinama (1)'), 'tes')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Tambah Program/button_Simpan'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Tambah Program/button_Simpan (1)'))
 
-WebUI.clickOffset(findTestObject('Object Repository/Page_tes/a_Update'), 0, 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_tes/a_Update (10)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Update Kategori tes/input_Kategori_Kategorinama'), 'tes123')
+WebUI.setText(findTestObject('Object Repository/Page_Update Kategori tes/input_Kategori_Kategorinama (1)'), 'tes123')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Update Kategori tes/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/Page_Update Kategori tes/button_Simpan (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_tes123/a_Hapus'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_tes123/a_Hapus (2)'))
 
 WebUI.closeBrowser()
 

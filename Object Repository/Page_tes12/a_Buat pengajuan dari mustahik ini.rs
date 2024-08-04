@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buat pengajuan dari mustahik ini</name>
+   <tag></tag>
+   <elementGuidId>2b8ae273-d785-40e9-982f-b46faee84924</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-detail']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f084a2da-3b35-435e-8184-264c230e0862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>b950bf19-4410-41b2-bb34-ea36809b4182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=bantuan%2Fcreate&amp;mustahik=11491</value>
+      <webElementGuid>497a9294-d9c0-4fed-aaf9-4d0e6218de13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Buat pengajuan dari mustahik ini</value>
+      <webElementGuid>c8b25845-ccb7-4dc3-a581-ff6d7cfdaa34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-detail&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/a[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>d1152073-a83f-439c-b636-abb8d59474d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-detail']/div/div[2]/a</value>
+      <webElementGuid>017dca43-a903-4838-96b5-82d9cfbf7f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buat pengajuan dari mustahik ini')]</value>
+      <webElementGuid>d06e1f3e-6570-4026-a5ab-cdc916b5d0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Pengajuan'])[1]/following::a[1]</value>
+      <webElementGuid>45ad8775-2fb8-4c51-982c-6e7bd6334957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::a[1]</value>
+      <webElementGuid>f43f16c3-6b86-4abd-8aed-4f4c3242b15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f8dd3e8-b1fa-4f7e-979e-883a4c80e9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Bantuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>732772d7-41dd-4109-a296-71520deccbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat pengajuan dari mustahik ini']/parent::*</value>
+      <webElementGuid>919fa181-5381-47b9-ab1e-4439c49c1a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=bantuan%2Fcreate&amp;mustahik=11491')]</value>
+      <webElementGuid>a04f7bb0-5063-4886-9dfa-ac1e522ed10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/a</value>
+      <webElementGuid>036c196e-d85c-4356-87f0-979b98f99fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=bantuan%2Fcreate&amp;mustahik=11491' and (text() = ' Buat pengajuan dari mustahik ini' or . = ' Buat pengajuan dari mustahik ini')]</value>
+      <webElementGuid>11a4d8d8-969e-4e49-9971-6fca85f5afa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

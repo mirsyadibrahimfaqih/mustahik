@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Mencetak detail dan mencetak disposisi</name>
+   <name>Mengecek detail, mencetak detail dan mencetak disposisi</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d8ec485e-95ca-4836-abe7-79f246296f7f</testCaseGuid>

@@ -21,30 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mustahikdev.petikjombang.com/backend/web/index.php?r=site%2Flogin')
 
-WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (6)'), 'adminprogram@ybmpln.org')
+WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (52)'), 'adminprogram@ybmpln.org')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (6)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (52)'), 
     'U54oLL1U6TIkPGb6YLpL4w==')
 
 WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (6)'))
+WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (52)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (5)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (50)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Bantuan (18)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Bantuan (29)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Usulan 55 (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Usulan 55 (5)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/a_Terakhir'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Usulan/a_'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/a_Pertama'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Usulan/a__1'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/a_'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/a__1'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/a_2'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Usulan/a_2'))
 
 WebUI.closeBrowser()
 

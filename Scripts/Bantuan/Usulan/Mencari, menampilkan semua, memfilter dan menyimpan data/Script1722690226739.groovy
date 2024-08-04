@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_P
 
 WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Bantuan (16)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Usulan 55'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Usulan 55'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Usulan/input_Judul Bantuan_judul'), 'Pegawai')
 
@@ -42,7 +42,7 @@ WebUI.click(findTestObject('Object Repository/Page_Usulan/button_Terapkan Pencar
 
 WebUI.click(findTestObject('Object Repository/Page_Usulan/a_Tampilkan Semua'))
 
-WebUI.click(findTestObject('Object Repository/Page_Usulan/a_Nomor Usulan'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Usulan/a_Nomor Usulan'))
 
 WebUI.click(findTestObject('Object Repository/Page_Usulan/button_Download Excel'))
 

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hapus (1)</name>
+   <tag></tag>
+   <elementGuidId>f994a607-7046-4db7-a377-39833e3d293f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='return confirm(&quot;Yakin hapus mustahik ini?&quot;);']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e31f3063-fe99-4511-ac14-46fbda8dd3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger mr-2</value>
+      <webElementGuid>5215a657-5ab8-4469-addc-509a5d757223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=bantuan-mustahik%2Fdelete&amp;id=12435</value>
+      <webElementGuid>dd5242bf-ef31-470d-aef0-898ea2aa53db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return confirm(&quot;Yakin hapus mustahik ini?&quot;);</value>
+      <webElementGuid>e01f39b4-2512-4bb1-8056-84e77520c764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hapus</value>
+      <webElementGuid>329d4656-483b-4634-a2a6-0411ff2e1b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-detail&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[2]/td[5]/a[@class=&quot;btn btn-danger mr-2&quot;]</value>
+      <webElementGuid>1df91757-7409-4c10-88ae-92f763023c83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='return confirm(&quot;Yakin hapus mustahik ini?&quot;);']</value>
+      <webElementGuid>35f38548-2a47-49a5-8ed6-992577cb4a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-detail']/div[2]/div/table/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>0186c1f5-5f67-40bb-98ba-8e9544922c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hapus')]</value>
+      <webElementGuid>3b7f1ce7-c477-4a20-8cc4-4ecccb6195c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imam Mubaidillah'])[1]/following::a[1]</value>
+      <webElementGuid>4d1b9243-a785-47f6-adf8-9cfb42b6b077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::a[1]</value>
+      <webElementGuid>9b3bb534-1e93-482b-b264-d2295ced0d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Mustahik'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5a0ed57-5960-4089-91bd-88fd4991e085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Usulan Bantuan'])[1]/preceding::a[2]</value>
+      <webElementGuid>0e035373-a61c-4012-b71c-d61d16886430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
+      <webElementGuid>25ac38b2-cab2-400e-b1d4-82296faacbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=bantuan-mustahik%2Fdelete&amp;id=12435')]</value>
+      <webElementGuid>1fb17093-72ef-4695-b925-e574a6adc296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>73212153-7707-4634-8b13-74cebe1222d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=bantuan-mustahik%2Fdelete&amp;id=12435' and (text() = ' Hapus' or . = ' Hapus')]</value>
+      <webElementGuid>95233f5d-474d-4791-a3e1-e6cb8b0d4249</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

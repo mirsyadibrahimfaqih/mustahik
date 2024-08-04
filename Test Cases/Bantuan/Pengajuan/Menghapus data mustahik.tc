@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Menerapkan pencarian dan menampilkan data keseluruhan</name>
+   <name>Menghapus data mustahik</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>881a3c35-20fb-4744-8d15-df5b57c6e649</testCaseGuid>
+   <testCaseGuid>ccad43d8-2066-405c-a8be-152a11c67757</testCaseGuid>
 </TestCaseEntity>

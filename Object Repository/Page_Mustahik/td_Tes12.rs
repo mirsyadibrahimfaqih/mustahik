@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Tes12</name>
+   <tag></tag>
+   <elementGuidId>8d3d2dd0-4e73-4c68-b055-818f551ab893</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7c00d8e3-13e2-4911-9c3f-6c16b0ed7c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tes12</value>
+      <webElementGuid>e8116750-2e73-4f26-9e91-906bd42d2a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>9742adfd-6db6-4caa-9828-784eeaf30458</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/tbody/tr/td[4]</value>
+      <webElementGuid>5945070e-a8f6-4d01-9ff8-2c7ac804a907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERDAFTAR'])[1]/following::td[2]</value>
+      <webElementGuid>6ff45595-1a38-4ce3-86cf-94d09bc3ffd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Terdaftar'])[1]/following::td[4]</value>
+      <webElementGuid>f7467173-7c6a-4f37-aa61-e8dc85fe8d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balita'])[1]/preceding::td[2]</value>
+      <webElementGuid>16563381-1a05-41ed-a68f-690820d23101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[3]/preceding::td[3]</value>
+      <webElementGuid>409a3d1b-c0dd-4c7a-8374-5254217aa6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tes12']/parent::*</value>
+      <webElementGuid>0e27934a-80e1-4943-98d9-b315dc78f0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>9dfeae9c-a2cb-4c12-b9b3-e59e1b916980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tes12' or . = 'Tes12')]</value>
+      <webElementGuid>d598fa65-489d-4afb-8bef-c4f50644dbe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

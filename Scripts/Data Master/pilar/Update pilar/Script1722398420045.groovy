@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_P
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Pilar/a_Unit PLN Pusat_btn btn-success'))
 
-WebUI.clickOffset(findTestObject('Object Repository/Page_Sosial Kemanusiaan/a_Update'), 0, 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Sosial Kemanusiaan/a_Update'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Update Kategori Sosial Kemanusiaan/input_Kategori_Kategorinama'), 'Sosial Kemanusiaan1')
 

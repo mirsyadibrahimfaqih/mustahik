@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_M
 
 WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Data Mustahik (3)'))
 
-WebUI.clickOffset(findTestObject('Object Repository/Page_Mustahik/td_Mardalina'), 0, 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/td_Mardalina'))
 
 WebUI.click(findTestObject('Object Repository/Page_Mardalina/a_Riwayat Bantuan'))
 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>df3019a9-bb1d-400e-8783-a8845df45600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td:nth-of-type(6) > a.btn.btn-primary > svg.svg-inline--fa.fa-pen.fa-w-16 > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c76ed4d2-8cfa-43d0-be71-1e1fa7c28745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>48a1348b-0959-4fb4-8037-8210d28459c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M290.74 93.24l128.02 128.02-277.99 277.99-114.14 12.6C11.35 513.54-1.56 500.62.14 485.34l12.7-114.22 277.9-277.88zm207.2-19.06l-60.11-60.11c-18.75-18.75-49.16-18.75-67.91 0l-56.55 56.55 128.02 128.02 56.55-56.55c18.75-18.76 18.75-49.16 0-67.91z</value>
+      <webElementGuid>f5a80d1c-0056-4624-967a-c8370bca64dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body p-0&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[5]/td[6]/a[@class=&quot;btn btn-primary&quot;]/svg[@class=&quot;svg-inline--fa fa-pen fa-w-16&quot;]/path[1]</value>
+      <webElementGuid>12de240b-782d-4524-8187-9209253c4aa1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

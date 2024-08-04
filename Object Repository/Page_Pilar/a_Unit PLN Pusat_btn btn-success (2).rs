@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Unit PLN Pusat_btn btn-success (2)</name>
+   <tag></tag>
+   <elementGuidId>df003628-5720-46e8-9625-4349ba84a879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w1']/table/tbody/tr/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>913fecbd-a354-441b-8598-4255a9ee441e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>4189d5af-b4d8-4245-9a97-b1eb201b8d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=kategori%2Fview&amp;id=1</value>
+      <webElementGuid>763b0329-d989-4504-be54-e0b8fbbd6c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w1&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[6]/a[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>957ba785-705f-4cb2-b5a1-9ca5f95fd197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w1']/table/tbody/tr/td[6]/a</value>
+      <webElementGuid>8bc1ffdc-d33e-4fe4-8966-c158e1ec2118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[2]/following::a[1]</value>
+      <webElementGuid>64a3696a-3214-4bf0-9e3c-f4611e4a8046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sosial Kemanusiaan'])[1]/following::a[1]</value>
+      <webElementGuid>aeca8247-8222-408a-aea8-efd1ffb931df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[1]/preceding::a[1]</value>
+      <webElementGuid>64ec713e-7396-487c-8d9f-8178bfc54068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[3]/preceding::a[1]</value>
+      <webElementGuid>b0c5edea-61f4-4f49-aadc-2ef324e2aea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fview&amp;id=1')]</value>
+      <webElementGuid>30555552-0f3c-45cd-ab43-6823b17adfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>ae66737e-ec1b-4a81-b609-9987a8e85616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=kategori%2Fview&amp;id=1']</value>
+      <webElementGuid>11fc3c91-a571-4b54-97b8-a759754267f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

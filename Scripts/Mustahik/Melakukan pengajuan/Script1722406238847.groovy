@@ -21,32 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mustahikdev.petikjombang.com/backend/web/index.php?r=site%2Flogin')
 
-WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (9)'), 'adminprogram@ybmpln.org')
+WebUI.setText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (46)'), 'adminprogram@ybmpln.org')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (9)'), 
+WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormusername (46)'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/input_PeTIK MUSTAHIK_LoginFormpassword (46)'), 
     'U54oLL1U6TIkPGb6YLpL4w==')
 
 WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (9)'))
+WebUI.click(findTestObject('Object Repository/Page_PeTIK MUSTAHIK/button_Masuk (46)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (8)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Profil_toggle-sidebar (44)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Mustahik (5)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Mustahik (9)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Data Mustahik (5)'))
+WebUI.click(findTestObject('Object Repository/Page_Database Mustahik YBM PLN/a_Data Mustahik (9)'))
 
-WebUI.clickOffset(findTestObject('Object Repository/Page_Mustahik/td_Mardalina (2)'), 0, 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Mustahik/td_Tes12'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Mardalina/a_Buat pengajuan dari mustahik ini (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_tes12/a_Buat pengajuan dari mustahik ini'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pengajuan Baru/a_Load dari Template (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Pengajuan Baru/a_Load dari Template (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tambah Bantuan/span_---- Pilih Bantuan ----'))
+WebUI.click(findTestObject('Object Repository/Page_Tambah Bantuan/span_---- Pilih Bantuan ---- (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tambah Bantuan/button_Simpan (1)'))
+WebUI.setText(findTestObject('Object Repository/Page_Tambah Bantuan/input_PeTIK Jombang_select2-search__field (2)'), 'tes')
 
-WebUI.click(findTestObject('Object Repository/Page_Update PB-1878U10EKOPENVII2024/button_Simpan Pengajuan'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Tambah Bantuan/input_PeTIK Jombang_select2-search__field (2)'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_Tambah Bantuan/button_Simpan (9)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Update PB-1900U10EKOPENVIII2024/button_Simpan Pengajuan'))
 
 WebUI.closeBrowser()
 
