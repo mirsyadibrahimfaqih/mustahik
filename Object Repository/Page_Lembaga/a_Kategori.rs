@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Kategori&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2b7ac6fe-7d04-48d1-a914-4338d11737ba</webElementGuid>
+      <webElementGuid>ebef967d-aa43-41f4-8531-58586e6ee1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=lembaga%2Findex&amp;sort=kategori</value>
-      <webElementGuid>2718b594-2527-4eb0-8f70-5da4c4e5d022</webElementGuid>
+      <webElementGuid>076a7275-afd0-41db-b46e-51ec45c307d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>data-sort</name>
       <type>Main</type>
       <value>kategori</value>
-      <webElementGuid>9ea0617d-3d0a-4413-bdd6-f05af87f182e</webElementGuid>
+      <webElementGuid>69e4b040-0fe5-4067-bf24-f2ab4fc1b9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kategori</value>
-      <webElementGuid>146571d4-5e8c-41e1-acdf-14a06924a47f</webElementGuid>
+      <webElementGuid>108c187a-215d-4bb9-a8b6-03c8b27f5ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;data&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/thead[1]/tr[1]/th[3]/a[1]</value>
-      <webElementGuid>f1928e7e-e963-446e-bb16-7205a241818c</webElementGuid>
+      <webElementGuid>e9ed2bf9-2041-49b9-9c79-f26f7b2e4845</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='data']/table/thead/tr/th[3]/a</value>
-      <webElementGuid>e45e06cf-318b-47ed-bb6a-bb321489d65a</webElementGuid>
+      <webElementGuid>7a8a582d-1a1f-405b-a3bb-d23cb0707c42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kategori')]</value>
-      <webElementGuid>ef282cbb-70c8-41c5-99ea-b28aaab1f48e</webElementGuid>
+      <webElementGuid>93a38460-5354-47a5-970e-769a9c9028ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lembaga'])[1]/following::a[1]</value>
-      <webElementGuid>4c3858f5-e450-4108-b17e-f03994cc9f89</webElementGuid>
+      <webElementGuid>55a8dcb7-54ee-4069-8180-275cbc4768c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/following::a[2]</value>
-      <webElementGuid>7d58d0c1-f2f4-459b-9b6a-7bf2051ae495</webElementGuid>
+      <webElementGuid>2e1e602c-2810-4af4-93d9-53078beca3e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[2]/preceding::a[1]</value>
-      <webElementGuid>2bb2f4ef-c78f-48c3-a715-f6865161b42e</webElementGuid>
+      <webElementGuid>1a8f06bc-5a7e-4b0a-a086-466a59847077</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[2]/preceding::a[2]</value>
-      <webElementGuid>b4d5b737-0be5-475d-aee8-7fc9f624af3f</webElementGuid>
+      <webElementGuid>8f17c6d7-2799-4e21-b22d-fd8271da71e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=lembaga%2Findex&amp;sort=kategori')]</value>
-      <webElementGuid>920c0c97-c964-4b67-8c07-35563f338a71</webElementGuid>
+      <webElementGuid>356a9f6c-d2af-43a5-87c7-b51cae4d3e19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[3]/a</value>
-      <webElementGuid>94836b6c-6aef-498f-9c24-32722d59b564</webElementGuid>
+      <webElementGuid>c079105f-53c3-4cb9-a598-42f05aa25b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=lembaga%2Findex&amp;sort=kategori' and (text() = 'Kategori' or . = 'Kategori')]</value>
-      <webElementGuid>6355ff91-a5cf-446d-9399-522fd647e373</webElementGuid>
+      <webElementGuid>55e60f28-d2b5-4f9b-8fde-addd74c23e6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

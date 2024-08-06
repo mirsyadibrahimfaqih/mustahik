@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-005 - Mengecek pencetakan detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f76499e-f30b-448a-a6f6-3225a877f385</testCaseGuid>
+</TestCaseEntity>

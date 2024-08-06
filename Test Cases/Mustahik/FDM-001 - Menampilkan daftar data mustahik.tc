@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-001 - Menampilkan daftar data mustahik</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86e76e33-01b7-448a-8bca-8f05465103cf</testCaseGuid>
+</TestCaseEntity>

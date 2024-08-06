@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-alamat</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>98b47bcb-4308-45b0-8f84-a6f56e079070</webElementGuid>
+      <webElementGuid>247677fe-de9e-4901-9b60-3f3403afce3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-alamat</value>
-      <webElementGuid>c438f1de-df18-427c-8674-33776112c1d2</webElementGuid>
+      <webElementGuid>be1d718c-e468-4411-8f4a-c12e1d62cf77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>df151f15-2b64-4795-839a-910f310ebf0e</webElementGuid>
+      <webElementGuid>aeb13607-3428-4e08-81ff-c6adfa41c9af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[alamat]</value>
-      <webElementGuid>c3dc1a9c-dd93-45ce-82ab-241faeb1d6a1</webElementGuid>
+      <webElementGuid>fac17a07-7d09-47cf-b563-4b9d70c8ee52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>677cb31f-61bb-4af2-ab9c-1ac5f3214e48</webElementGuid>
+      <webElementGuid>7d453c4b-424a-4e18-b361-5758ae4216b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-alamat&quot;)</value>
-      <webElementGuid>e83c0510-2f7d-4afb-ad73-5eac391c265c</webElementGuid>
+      <webElementGuid>a4d5803b-f329-4b0b-93be-df83870e3be1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='lembaga-alamat']</value>
-      <webElementGuid>c4961260-cab4-4bfc-b235-615d37cb8766</webElementGuid>
+      <webElementGuid>9a1b2e4b-dc1c-4741-9e40-379ce964551d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[10]/div[2]/div/textarea</value>
-      <webElementGuid>3273e0be-7d66-4a30-8734-dc6287ffd817</webElementGuid>
+      <webElementGuid>26eb64b1-0967-4bff-ad59-3e24cbb6711d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>4a9bb759-1afd-4f13-b7ec-0979d7a6a40c</webElementGuid>
+      <webElementGuid>2bb3a924-f317-4e0b-bb7f-eed7bc9ff94c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'lembaga-alamat' and @name = 'Lembaga[alamat]']</value>
-      <webElementGuid>6df914a0-d5b5-4924-85b1-bc9c6ed92e23</webElementGuid>
+      <webElementGuid>27c40146-06d3-4383-b677-7d1bc5e97162</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

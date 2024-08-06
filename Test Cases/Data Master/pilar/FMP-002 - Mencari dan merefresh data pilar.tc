@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FMP-002 - Mencari dan merefresh data pilar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b8b5e86-d5c3-4994-a1af-46d6b1e713e1</testCaseGuid>
+</TestCaseEntity>

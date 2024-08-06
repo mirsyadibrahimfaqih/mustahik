@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-006 - Melakukan pencetakan detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8952297-844c-4c42-a304-f6ec265ec2f5</testCaseGuid>
+</TestCaseEntity>

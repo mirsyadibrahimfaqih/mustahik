@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-008 - Mengecek detail mustahik</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37ea0815-656c-4e29-909e-8c1cd42e2f65</testCaseGuid>
+</TestCaseEntity>

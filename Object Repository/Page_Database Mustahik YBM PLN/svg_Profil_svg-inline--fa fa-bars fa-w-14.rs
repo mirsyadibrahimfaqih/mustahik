@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#toggle-sidebar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>6a4df616-d1af-401d-b254-61df19ab6cc9</webElementGuid>
+      <webElementGuid>0560ccdf-7e89-4927-86e9-94299192bf2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>svg-inline--fa fa-bars fa-w-14</value>
-      <webElementGuid>4cd00498-e57a-4ea4-821e-bbb5d9167eba</webElementGuid>
+      <webElementGuid>8b4913b9-7b9c-4176-be60-bfde2afbe568</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a306e3a1-e316-415c-94a7-f1e2bc6f81bb</webElementGuid>
+      <webElementGuid>6495fbe5-dda9-4b4a-bdfc-c66749b84952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>data-prefix</name>
       <type>Main</type>
       <value>fas</value>
-      <webElementGuid>87098365-48e9-4ad3-82bc-7d8199cad822</webElementGuid>
+      <webElementGuid>3e7608db-ca68-4fdf-8d9d-8de5432e08df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>data-icon</name>
       <type>Main</type>
       <value>bars</value>
-      <webElementGuid>e1c905bc-e85b-44a8-8095-1c5672c89827</webElementGuid>
+      <webElementGuid>dcf6c781-16ac-4526-a6e3-0483cca73088</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d4f2af07-d897-424d-8e54-71ec499768c4</webElementGuid>
+      <webElementGuid>82b1141e-2cf4-44cb-a634-b0e9a843cb9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>2cd1264d-0116-484d-8481-4f6612a9124a</webElementGuid>
+      <webElementGuid>28bc9c4f-8ef6-4672-8fc0-99eddc14efd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 448 512</value>
-      <webElementGuid>a81372d8-5f5b-40e5-9390-e92ecd576b8a</webElementGuid>
+      <webElementGuid>7a7eeb9e-fa01-480f-85b7-f8872a93762b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,6 +93,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;toggle-sidebar&quot;)/svg[@class=&quot;svg-inline--fa fa-bars fa-w-14&quot;]</value>
-      <webElementGuid>62dd732a-681a-47f5-8df1-6256bffb7949</webElementGuid>
+      <webElementGuid>c23b0c89-c4da-49fd-b80c-7c91a9e4029f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

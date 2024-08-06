@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-nik_referensi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>532d6d44-11c8-42ac-959e-75378306a001</webElementGuid>
+      <webElementGuid>4211c2d3-4c45-4a4e-9188-e364a819af3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c0e823f3-25ef-48c7-b679-0422a4bd9990</webElementGuid>
+      <webElementGuid>bfc5f1a6-345b-46fb-8d04-dfe4a5a51ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-nik_referensi</value>
-      <webElementGuid>269cdd55-a30c-494c-96ac-52d1eb630d16</webElementGuid>
+      <webElementGuid>77b48bdc-0b11-4a97-b4e1-a00a42782114</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>1c9cb14d-db20-4c89-9459-67c83c385c54</webElementGuid>
+      <webElementGuid>aa4209fd-50fe-4f62-bfcb-f680eed395e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[nik_referensi]</value>
-      <webElementGuid>21e54a49-ed2f-4e1a-8b0e-c227599e93a3</webElementGuid>
+      <webElementGuid>ac655dd3-0f40-4e37-bf6a-60723d4c0274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>7b18b135-3176-4c35-8987-5a785dce2d41</webElementGuid>
+      <webElementGuid>e9a299bb-53f6-4815-abf3-8581153897a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-nik_referensi&quot;)</value>
-      <webElementGuid>04c350cb-e70f-4154-925f-e26e24a05923</webElementGuid>
+      <webElementGuid>def6ba42-501e-4800-96d0-721889549dd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-nik_referensi']</value>
-      <webElementGuid>2c402ee6-996e-4c8b-8689-eeda0de05e21</webElementGuid>
+      <webElementGuid>d0f28b85-131e-435f-9d42-fd3aaaa03157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div[9]/div[2]/div/input</value>
+      <webElementGuid>9b1debc0-75c1-4931-82f7-9901d864215c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[9]/div[2]/div/input</value>
+      <webElementGuid>9b4471c4-c277-4d3a-8c2c-3a8340ce3aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-nik_referensi' and @name = 'Bantuan[nik_referensi]']</value>
+      <webElementGuid>5a3f5c99-41d4-4960-8bdd-b5cc0a57a369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,13 +126,5 @@
       <type>Main</type>
       <value>//div[9]/div[2]/div/input</value>
       <webElementGuid>65c5563a-3c8b-412d-a4f0-718a159395d5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-nik_referensi' and @name = 'Bantuan[nik_referensi]']</value>
-      <webElementGuid>63cff441-2ef3-4343-95a4-c5e3f4d6ccbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

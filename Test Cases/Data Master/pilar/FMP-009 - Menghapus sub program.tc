@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FMP-009 - Menghapus sub program</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ad49f48-bc8d-4f4b-b7d5-bb1806cc8b86</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-002 - Mencari, menampilkan semua, memfilter dan menyimpan data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>979cc663-e01e-4c73-89c3-58674fdbdfcd</testCaseGuid>
+</TestCaseEntity>

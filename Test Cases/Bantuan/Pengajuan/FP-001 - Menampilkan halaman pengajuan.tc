@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-001 - Menampilkan halaman pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd2cfb1b-563a-431a-9805-202935ab4349</testCaseGuid>
+</TestCaseEntity>

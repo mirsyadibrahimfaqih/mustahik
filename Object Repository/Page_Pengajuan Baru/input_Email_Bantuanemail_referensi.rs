@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-email_referensi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d92a2e1e-71f5-4cd7-8d36-d2d060ae84ab</webElementGuid>
+      <webElementGuid>f5cef5c6-7cd5-4c69-afb0-2178965ca863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d5a81e94-a8af-4f66-aadc-bcd5b82af14b</webElementGuid>
+      <webElementGuid>69394ab6-899d-420f-8d07-74743b4d883b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-email_referensi</value>
-      <webElementGuid>bf12e9c8-b631-4068-8bc6-d076b306a16f</webElementGuid>
+      <webElementGuid>0d2aa694-b3e5-434b-9960-25b08b1bb20f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ff840991-0365-48b4-9b63-29fa0be0c6a0</webElementGuid>
+      <webElementGuid>c3688280-9285-4d3a-8bea-58f345796261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[email_referensi]</value>
-      <webElementGuid>67587d84-6505-41d8-bd02-9a1c0c77acdd</webElementGuid>
+      <webElementGuid>e58a5acb-47cc-4a3b-a701-043a59d42c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>a687fa69-61f4-487b-b53c-04eef52f2fff</webElementGuid>
+      <webElementGuid>106fc7e2-e735-4ded-854f-c1f91e08863a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-email_referensi&quot;)</value>
-      <webElementGuid>d32806c5-55bd-473f-beb9-22c1f86458e4</webElementGuid>
+      <webElementGuid>a61e6dd3-5a9b-4b7b-8512-12db9dd7538d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-email_referensi']</value>
-      <webElementGuid>259dfa88-802b-4b1b-8e66-7eb4a778b128</webElementGuid>
+      <webElementGuid>1823e537-49b5-4bbc-a4a1-4f26245a0d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div[11]/div[2]/div/input</value>
+      <webElementGuid>85cd809f-c238-458b-8436-e364231115b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[11]/div[2]/div/input</value>
+      <webElementGuid>72850066-6975-4b22-be9c-87e21ccca29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-email_referensi' and @name = 'Bantuan[email_referensi]']</value>
+      <webElementGuid>dbf528c2-844b-4a29-8399-442a9819bada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,13 +126,5 @@
       <type>Main</type>
       <value>//div[11]/div[2]/div/input</value>
       <webElementGuid>aa5003a5-c2fd-40e0-8f9d-8831d3b83352</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-email_referensi' and @name = 'Bantuan[email_referensi]']</value>
-      <webElementGuid>a5116283-c823-442b-9575-09b4212f5d85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

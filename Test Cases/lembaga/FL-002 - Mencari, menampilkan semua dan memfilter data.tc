@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FL-002 - Mencari, menampilkan semua dan memfilter data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47ed2d66-b22d-4098-a515-2068feab1ca5</testCaseGuid>
+</TestCaseEntity>

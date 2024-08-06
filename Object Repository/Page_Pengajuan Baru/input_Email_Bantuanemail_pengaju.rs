@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-email_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8191b1cd-aebe-463c-b5a0-a19f109595f7</webElementGuid>
+      <webElementGuid>005604f9-d348-45b2-88d9-e47cffa53f14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>509b6473-7c67-456f-be89-a6119c67c234</webElementGuid>
+      <webElementGuid>c6bc28f1-c0a0-4ad3-87ef-aca6254adfe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-email_pengaju</value>
-      <webElementGuid>7536606a-94cc-4a7b-901c-7f1d4563d811</webElementGuid>
+      <webElementGuid>5ab00595-b789-40b8-bbc9-885d19338eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f41f094c-f062-437e-a1e6-44ad4428e665</webElementGuid>
+      <webElementGuid>407ea3c7-7b9e-415a-a514-5b792f3a3e88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[email_pengaju]</value>
-      <webElementGuid>90b29a0e-7baf-468a-9f17-d0edfa0066b5</webElementGuid>
+      <webElementGuid>3e795805-f54c-4a56-a1ff-27ade9d9318c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>93494f46-f1fb-4033-9875-b455a393d157</webElementGuid>
+      <webElementGuid>b6b8586d-3eec-40f1-8921-021c96f296a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-email_pengaju&quot;)</value>
-      <webElementGuid>070dd473-0c3c-4661-b5c5-dfeb8e427d54</webElementGuid>
+      <webElementGuid>b6f4658c-e616-4959-ba6a-b06c79d057bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-email_pengaju']</value>
-      <webElementGuid>1c1260ab-9c1f-4b8f-b29f-aa98754a54e5</webElementGuid>
+      <webElementGuid>9c5de42b-39f9-400e-881b-9311349acbe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div-perorangan']/div[5]/div[2]/div/input</value>
-      <webElementGuid>eaedffae-3648-4dfd-a1c4-389d7582ee4c</webElementGuid>
+      <webElementGuid>024347ce-0ebb-4066-a1b0-5be189043b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[5]/div[2]/div/input</value>
-      <webElementGuid>c9d23d8e-e51d-4bcf-b46c-a36c619e8537</webElementGuid>
+      <webElementGuid>2ef6580f-dd15-46ca-8947-6290fc219c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'bantuan-email_pengaju' and @name = 'Bantuan[email_pengaju]']</value>
-      <webElementGuid>c5dc651a-18da-4ccb-b96d-1a8b34e611f0</webElementGuid>
+      <webElementGuid>eaecc609-cf26-403d-90ca-6932dbc2bd35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

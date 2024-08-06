@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-pilar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a7a118db-202d-4e59-8876-6acdbc0abce3</webElementGuid>
+      <webElementGuid>77fcb03d-bde9-4615-872b-9984dd451472</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-pilar</value>
-      <webElementGuid>16b4aca2-c584-44e1-ba2f-3092c9d1d3e8</webElementGuid>
+      <webElementGuid>b5ae5839-5261-4e89-a069-d96298a9f80c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>c6688f21-3818-4bbf-a18a-ba6fe51549bc</webElementGuid>
+      <webElementGuid>94073b2a-eb76-4d0a-844d-5b57e64d70f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[pilar]</value>
-      <webElementGuid>cd1dbc45-9f79-4d84-aea7-cd61084498c0</webElementGuid>
+      <webElementGuid>e79eea2d-bf1e-4682-8780-e0db465757eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +64,7 @@
 -- Pilih pilar --
 PENDIDIKAN
 </value>
-      <webElementGuid>08d21cea-1fc2-466a-86a6-e65caab6bbba</webElementGuid>
+      <webElementGuid>ec75155d-78f8-416d-b3a1-beaefb512345</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +72,7 @@ PENDIDIKAN
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-pilar&quot;)</value>
-      <webElementGuid>1658842f-6f0a-43ab-99ae-a6be84bf098a</webElementGuid>
+      <webElementGuid>6d2ad759-dc1a-4cab-8be5-13231157c075</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,15 +80,15 @@ PENDIDIKAN
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='bantuan-pilar']</value>
-      <webElementGuid>792f9785-0ab6-4b89-ac74-794b62fa0df5</webElementGuid>
+      <webElementGuid>6a43fe68-af44-4ec9-9ece-651b6e62b20b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='w0']/div[2]/div/div/div/div[2]/div[2]/div/select</value>
-      <webElementGuid>f7350235-4172-4618-9cae-3410e5f374c8</webElementGuid>
+      <value>//form[@id='w0']/div[3]/div/div/div/div[5]/div[2]/div/select</value>
+      <webElementGuid>d6eb590a-bfa6-44e8-b317-ead7c9d03e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +96,7 @@ PENDIDIKAN
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Pilar'])[1]/following::select[1]</value>
-      <webElementGuid>de4ba31b-0dce-49e7-accf-21089582f605</webElementGuid>
+      <webElementGuid>9a3da818-47f1-4eb1-a63b-d4ab957dfc69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +104,7 @@ PENDIDIKAN
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Judul'])[1]/following::select[1]</value>
-      <webElementGuid>4d05104e-2f66-4e82-8cfb-0f394a65348d</webElementGuid>
+      <webElementGuid>f692d300-f7ed-4b1f-8dfb-adca64aaa099</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +112,7 @@ PENDIDIKAN
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Deskripsi'])[1]/preceding::select[1]</value>
-      <webElementGuid>2a62c57a-4c5e-4155-b4a2-1e2a7e70b896</webElementGuid>
+      <webElementGuid>b5f63f69-750f-4f63-aea4-d31bf0122204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +120,7 @@ PENDIDIKAN
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Lokasi Penyaluran'])[1]/preceding::select[1]</value>
-      <webElementGuid>d59aeac5-b8fd-434b-8746-0dda37a38787</webElementGuid>
+      <webElementGuid>01adffe9-4b9d-473d-969e-4c3c02b1a959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +128,7 @@ PENDIDIKAN
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>1f7af7ad-7404-4353-a9ec-c83efc07c250</webElementGuid>
+      <webElementGuid>15d4c3f0-73e1-4332-8913-4271bbb5174d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +142,14 @@ PENDIDIKAN
 -- Pilih pilar --
 PENDIDIKAN
 ')]</value>
-      <webElementGuid>ca0937ce-22e5-446c-9188-b82487bd773c</webElementGuid>
+      <webElementGuid>8a19e1ef-2204-49bc-93ba-2fc394b7dafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/div/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>f7350235-4172-4618-9cae-3410e5f374c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

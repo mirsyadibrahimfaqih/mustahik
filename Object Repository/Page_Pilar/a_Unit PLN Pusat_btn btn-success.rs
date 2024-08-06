@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Sosial Kemanusiaan1 Unit PLN Pusat 8 120&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>39b9a9e8-1f7f-4c3c-af50-c011a3ae67e7</webElementGuid>
+      <webElementGuid>db8fc612-a9c0-4ace-b646-5f5298d5da1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>571d909c-3d47-4c21-96db-c32717419a59</webElementGuid>
+      <webElementGuid>48d59588-046e-46dc-b0d1-e42b47aa19cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=kategori%2Fview&amp;id=1</value>
-      <webElementGuid>b2373eb6-44e4-4e76-8f3e-97288cd8975e</webElementGuid>
+      <webElementGuid>c2822f8b-06cc-4569-9160-e7f244ab96aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w1&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[6]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>cba8c86e-d088-43dd-9338-cb8cca1b3b99</webElementGuid>
+      <webElementGuid>b04feb7f-eb77-4fe0-aaf2-3460266e2f2c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='w1']/table/tbody/tr/td[6]/a</value>
-      <webElementGuid>21a3b40c-8053-4a05-a466-48f4a2c2485d</webElementGuid>
+      <webElementGuid>4ba0fbdf-5736-422f-a1de-cb91790dc1f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +69,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[2]/following::a[1]</value>
-      <webElementGuid>57005543-7dda-4aea-b6ae-215d72b6f3e4</webElementGuid>
+      <webElementGuid>98be3057-8fee-48b7-ac17-cdb6dd8d90eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sosial Kemanusiaan1'])[1]/following::a[1]</value>
+      <webElementGuid>b1114311-63b5-4050-9061-efa139323cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[1]/preceding::a[1]</value>
+      <webElementGuid>21e1d4dc-507c-417f-bd61-9c4fa977cdf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[3]/preceding::a[1]</value>
+      <webElementGuid>7f6d2b44-2068-4307-a5e8-3bbb2bd2d4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fview&amp;id=1')]</value>
+      <webElementGuid>c20def4c-bb97-4cf2-a4ba-b2bf3b7ed39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>7643819b-3e83-4e05-96f9-d87233c569a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=kategori%2Fview&amp;id=1']</value>
+      <webElementGuid>4524d6fd-2557-4774-81a3-9809ac7cc60c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,45 +126,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sosial Kemanusiaan'])[1]/following::a[1]</value>
       <webElementGuid>ba9730b2-a2c8-41e1-8ba8-dffe21b66117</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[1]/preceding::a[1]</value>
-      <webElementGuid>bb612a1b-5350-4cfa-98b7-3518e3f03450</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[3]/preceding::a[1]</value>
-      <webElementGuid>da920840-6331-4fab-b834-c036f9d6d287</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fview&amp;id=1')]</value>
-      <webElementGuid>97daa906-0ff1-42b9-9221-64fbf3ea3ae6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[6]/a</value>
-      <webElementGuid>99548b4f-2fcf-41a2-bda9-2b69bfa9bef5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/backend/web/index.php?r=kategori%2Fview&amp;id=1']</value>
-      <webElementGuid>5ee7a837-8392-466d-9fda-823e9a924f53</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

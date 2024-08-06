@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6c39e4ae-200e-4ddf-ac02-9c3d84d47400</webElementGuid>
+      <webElementGuid>5916ca77-4f35-4f3a-b3e9-2fe7dfc34c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>0fabd944-0881-4882-8dd5-8413237b9404</webElementGuid>
+      <webElementGuid>35fee728-6db8-491d-8dcb-d9dc7551f708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>ddac6395-e4d4-4510-9143-999d6496b6d6</webElementGuid>
+      <webElementGuid>f0836e97-b4a1-40ae-a75d-db14e057a576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Simpan Approval</value>
-      <webElementGuid>b8150bcd-7324-4509-b447-4e3e197a373f</webElementGuid>
+      <webElementGuid>85ac6104-874f-4720-899c-e65ee906a2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>0338a4c2-6d9a-4744-990d-bab28ef4a658</webElementGuid>
+      <webElementGuid>8476402a-8d77-43a2-b114-24b93b0775c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>91294245-eff1-4da4-8612-b294a5fcacfc</webElementGuid>
+      <webElementGuid>25424ecd-2745-4d49-b6fe-339c3c5285e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[6]/button</value>
-      <webElementGuid>0a6b9210-0d17-46b7-8413-f588657c7e5c</webElementGuid>
+      <webElementGuid>a5481186-1350-460f-9954-398af3355170</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unselect all'])[1]/following::button[1]</value>
-      <webElementGuid>258f324c-965e-4662-a0b2-004f90e0e03e</webElementGuid>
+      <webElementGuid>00bf6acf-74ec-46d4-bcb7-c45325a7a83b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all'])[1]/following::button[1]</value>
-      <webElementGuid>2f031693-e0d9-48d7-83b6-bb50887cdb71</webElementGuid>
+      <webElementGuid>dd818e3a-0816-4190-8d92-f9672422ba6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PeTIK Jombang'])[1]/preceding::button[1]</value>
-      <webElementGuid>efe3b8c3-5e8c-4934-8c4d-b9dbfb1e6c08</webElementGuid>
+      <webElementGuid>ed89280a-f46a-4f13-9d12-d4b1bbdf4fcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Simpan Approval']/parent::*</value>
-      <webElementGuid>fdbe216a-1027-4205-a910-da9db51bd28e</webElementGuid>
+      <webElementGuid>f6c84adc-bf12-41b7-aac0-08d5dc716685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>1b1e939a-a602-4e34-9225-e65cebb66632</webElementGuid>
+      <webElementGuid>da5f857c-d667-4d47-b23f-1d20af6ad7fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Simpan Approval' or . = ' Simpan Approval')]</value>
-      <webElementGuid>4bc21ff2-2820-471c-9fc4-f2daab005f91</webElementGuid>
+      <webElementGuid>1aee5ec7-92a2-4935-b73a-222c03a56b6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

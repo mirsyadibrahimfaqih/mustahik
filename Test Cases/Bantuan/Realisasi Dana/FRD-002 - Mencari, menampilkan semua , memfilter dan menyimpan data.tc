@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRD-002 - Mencari, menampilkan semua , memfilter dan menyimpan data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18f9ae70-acd0-437d-95d7-13d337014d45</testCaseGuid>
+</TestCaseEntity>

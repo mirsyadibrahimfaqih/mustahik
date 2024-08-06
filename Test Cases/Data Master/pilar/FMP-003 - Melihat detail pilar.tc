@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FMP-003 - Melihat detail pilar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62ab7c0b-8aa9-4849-b4f3-5965ac35334b</testCaseGuid>
+</TestCaseEntity>

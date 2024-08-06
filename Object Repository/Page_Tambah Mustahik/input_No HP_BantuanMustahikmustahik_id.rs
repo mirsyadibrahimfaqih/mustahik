@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 0987654321 Sri Rejeki RT 03 RW 02 Gowongan 0987654321 089765432123&quot;i] >> #bantuanmustahik-mustahik_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>85192bb3-7cfc-4f68-b337-01a85796e055</webElementGuid>
+      <webElementGuid>0d8c2973-545e-46fc-905e-2264c8e15bb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>4999c847-822d-4464-8de1-c78bfb281c19</webElementGuid>
+      <webElementGuid>f631be70-712d-41ed-acb5-90dc6d614d03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuanmustahik-mustahik_id</value>
-      <webElementGuid>858eb38c-e899-49e0-90a5-342b9c0ce860</webElementGuid>
+      <webElementGuid>566375ca-c5d6-4158-9ef0-dc5cc35e73af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BantuanMustahik[mustahik_id][]</value>
-      <webElementGuid>e2516b09-843c-439e-9956-df053cccea9a</webElementGuid>
+      <webElementGuid>42c7a17d-3b33-46dd-aa64-7bbebef8aa05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>33</value>
-      <webElementGuid>74bac746-d684-46a5-b147-bf250290cc1e</webElementGuid>
+      <webElementGuid>704dde26-2439-412e-ac91-88454016d205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>options</name>
       <type>Main</type>
       <value>{&quot;class&quot;:&quot;checkbox-row&quot;}</value>
-      <webElementGuid>c38c6af0-8ba0-420a-8249-0b0ea8575647</webElementGuid>
+      <webElementGuid>d7f0a735-08e2-4513-a0ab-6fa789f2cd99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;form-group field-bantuanmustahik-mustahik_id&quot;]/input[@id=&quot;bantuanmustahik-mustahik_id&quot;]</value>
-      <webElementGuid>201ce4c0-11bc-4ca3-b1b0-a19711840ff9</webElementGuid>
+      <webElementGuid>399f5656-7fa7-46e5-84e8-c936793bf167</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuanmustahik-mustahik_id']</value>
-      <webElementGuid>a3aeb862-9609-4a64-ac24-eec33ce8a84b</webElementGuid>
+      <webElementGuid>51f5c1b8-4c92-40aa-89cc-e7d1355632a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div/div/div[2]/div/table/tbody/tr/td/div/input[2]</value>
-      <webElementGuid>9310cae2-e54c-4f24-9545-a122951ec832</webElementGuid>
+      <webElementGuid>15289cb4-37f8-4c93-aa34-b8179841a0dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>abf9e400-9c9a-43d0-995f-ece48a2fa9d4</webElementGuid>
+      <webElementGuid>76fffc15-aa2d-430c-8259-db0015cd1707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'bantuanmustahik-mustahik_id' and @name = 'BantuanMustahik[mustahik_id][]']</value>
-      <webElementGuid>a4995171-5a70-4898-849e-b011aa24417d</webElementGuid>
+      <webElementGuid>e79ca973-22a3-4c52-86ce-973b86340ed5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

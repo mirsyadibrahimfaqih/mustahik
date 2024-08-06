@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-011 - Menampilkan halaman riwayat nonaktif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e33f8b2-ee51-4ca4-b28b-8b45692ea887</testCaseGuid>
+</TestCaseEntity>

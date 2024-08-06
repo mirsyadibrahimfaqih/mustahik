@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Terapkan Pencarian&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e273a33b-4539-400c-b251-454f0a61f6c7</webElementGuid>
+      <webElementGuid>43a6c901-fa6f-415c-9275-89f62207f320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fe729567-4bbf-44d3-9a88-7a61783614ba</webElementGuid>
+      <webElementGuid>9a8f784b-e9b7-44c3-a50a-c9305f682bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>13b0e251-32eb-48ea-877c-6a79e4776998</webElementGuid>
+      <webElementGuid>31fd891c-01ac-460c-9b1e-90a5006b629f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Terapkan Pencarian</value>
-      <webElementGuid>7edef3f1-0a9c-4a0a-b8b4-cc79464a4dae</webElementGuid>
+      <webElementGuid>d51ed533-58a6-476d-b903-51478d0701da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;card-header p-2&quot;]/button[@class=&quot;btn btn-info&quot;]</value>
-      <webElementGuid>eb5c2e6c-f713-4e6f-a94d-6055e51c28b9</webElementGuid>
+      <webElementGuid>618efbbf-c1d0-4e92-8176-6afe22797269</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>d5128122-11f3-4260-9929-3cb891b8f589</webElementGuid>
+      <webElementGuid>13c67d14-9d93-4714-b0b3-cee09e4621b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/button</value>
-      <webElementGuid>d33c8413-8898-44b4-a8b3-ce1408597cf1</webElementGuid>
+      <webElementGuid>20891bce-2dc5-40dc-ab57-970e910b22f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan'])[3]/following::button[1]</value>
-      <webElementGuid>8659a7ca-6b0f-455d-bdc8-3626a0c40161</webElementGuid>
+      <webElementGuid>61e878e2-d832-490c-9738-63e490d2f86d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::button[1]</value>
-      <webElementGuid>bec65134-3b72-4978-8a55-776cd01c38d9</webElementGuid>
+      <webElementGuid>0899a560-79ee-438b-9810-4d6332dd404e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Semua'])[1]/preceding::button[1]</value>
-      <webElementGuid>020bd6ae-ceb0-430b-b918-6163717136dd</webElementGuid>
+      <webElementGuid>ae977140-9cff-462d-bc3a-f433a25837f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Baru'])[1]/preceding::button[1]</value>
-      <webElementGuid>315ff518-46df-414e-91be-589e4ce79bc8</webElementGuid>
+      <webElementGuid>6b475358-7537-4cf2-85ed-590c69640141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Terapkan Pencarian']/parent::*</value>
-      <webElementGuid>d3577592-94f9-4a71-bb2a-8ff8625172d2</webElementGuid>
+      <webElementGuid>1dfb1a54-a792-4963-8787-6791e1c40fb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>ae2c2248-84b0-4d39-b8f0-7ccb436d348f</webElementGuid>
+      <webElementGuid>7e16ea85-a034-42a0-acb0-a5956081b5d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Terapkan Pencarian' or . = ' Terapkan Pencarian')]</value>
-      <webElementGuid>6ec68364-5b29-478c-88ac-e66d3c877e36</webElementGuid>
+      <webElementGuid>1d24a427-eeb3-491b-bd5d-6ab5938b34e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

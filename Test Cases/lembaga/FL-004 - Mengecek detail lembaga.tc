@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FL-004 - Mengecek detail lembaga</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81ab92be-f413-4e04-82e3-dda3c6421c78</testCaseGuid>
+</TestCaseEntity>

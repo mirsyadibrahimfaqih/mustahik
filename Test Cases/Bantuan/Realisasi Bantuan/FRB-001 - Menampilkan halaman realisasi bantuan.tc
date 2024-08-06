@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-001 - Menampilkan halaman realisasi bantuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abbc5089-deda-4620-8150-5587869855b6</testCaseGuid>
+</TestCaseEntity>

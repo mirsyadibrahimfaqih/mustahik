@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-provinsi_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>ad08aec9-e013-408b-9aba-29ce7e937c5e</webElementGuid>
+      <webElementGuid>2922433f-454b-44ea-a129-fbe5e8972dad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-provinsi_id</value>
-      <webElementGuid>1079c657-9f0b-43c7-becf-c186284aa4e6</webElementGuid>
+      <webElementGuid>cc5a0a7e-b557-4abc-b14f-aba09bbf0f92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>293243c8-44cd-45bc-8e1e-c643afb32789</webElementGuid>
+      <webElementGuid>94561e53-3d8f-471e-a960-c08ab8ba672a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[provinsi_id]</value>
-      <webElementGuid>4dc35ad7-2363-40ca-afd9-725df4118f16</webElementGuid>
+      <webElementGuid>589ff9c6-b4e0-44c9-a2ba-0ccfd6ff3a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +67,7 @@
                                         }
                                     );
                                     </value>
-      <webElementGuid>05c12100-55f1-4e3f-b790-88aa36e4f825</webElementGuid>
+      <webElementGuid>a1dd24fc-8dbc-4534-bd29-67e386179454</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -104,7 +111,7 @@ MALUKU UTARA
 PAPUA BARAT
 PAPUA
 </value>
-      <webElementGuid>043c5048-23e7-4781-b428-688325b9bf1e</webElementGuid>
+      <webElementGuid>e1ef1570-9398-4e58-be64-67b71baabe2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -112,7 +119,7 @@ PAPUA
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-provinsi_id&quot;)</value>
-      <webElementGuid>08552813-d8cb-479a-b103-1a7413c78c67</webElementGuid>
+      <webElementGuid>eed9224f-5443-4a1c-9d84-bbbd36c4c7de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -120,7 +127,7 @@ PAPUA
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-provinsi_id']</value>
-      <webElementGuid>acd0b2bd-7487-4b70-b5b3-1e1a2fc8944c</webElementGuid>
+      <webElementGuid>71f748f9-9b57-4767-bc11-e3868b68f805</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +135,7 @@ PAPUA
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[6]/div[2]/div/select</value>
-      <webElementGuid>a3d5124d-bb15-4cdd-9c96-86dadc15110a</webElementGuid>
+      <webElementGuid>67752041-eda2-4b18-8da3-da06b3d577cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +143,7 @@ PAPUA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/following::select[1]</value>
-      <webElementGuid>e40c01af-7415-45d2-94ef-2b17a8a88381</webElementGuid>
+      <webElementGuid>ba21b461-c7cc-49af-bdd9-68f845e7a5a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +151,7 @@ PAPUA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lembaga'])[1]/following::select[1]</value>
-      <webElementGuid>c83a37f1-d151-44b1-b468-c83aaec6320f</webElementGuid>
+      <webElementGuid>8542b2b7-1aa7-48e1-afb7-351c15bc23d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,7 +159,7 @@ PAPUA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/preceding::select[1]</value>
-      <webElementGuid>e54712ed-8a1e-4e0f-a6df-cfa8e9025664</webElementGuid>
+      <webElementGuid>e62ebef3-de7b-48ac-b63e-b82f768dd460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,7 +167,7 @@ PAPUA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/preceding::select[2]</value>
-      <webElementGuid>671771e9-fdd0-4259-b287-9ce15cddf6ca</webElementGuid>
+      <webElementGuid>6b22a65f-8fe2-4ff5-816a-389eb93b1ee3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,7 +175,7 @@ PAPUA
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/div/select</value>
-      <webElementGuid>f70e3889-f3f7-4e38-9b6d-830a2510838b</webElementGuid>
+      <webElementGuid>0a19e307-ae82-4b9a-9cb7-e326409f3093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -248,6 +255,6 @@ MALUKU UTARA
 PAPUA BARAT
 PAPUA
 ')]</value>
-      <webElementGuid>c238c1fc-4442-4099-9de1-9d492dc5fd42</webElementGuid>
+      <webElementGuid>0f7ddca7-2b8f-4300-8556-12c3a5daef60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

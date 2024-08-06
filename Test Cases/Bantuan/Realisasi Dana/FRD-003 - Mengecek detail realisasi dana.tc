@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRD-003 - Mengecek detail realisasi dana</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea42e39f-c06b-4cef-8c6e-944ab6f8e6e0</testCaseGuid>
+</TestCaseEntity>

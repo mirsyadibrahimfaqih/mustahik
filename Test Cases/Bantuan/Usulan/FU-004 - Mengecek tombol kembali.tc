@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-004 - Mengecek tombol kembali</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24b03d3d-7e7a-4ec0-bed6-57d0fae25f27</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-009 - Mengecek pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dce973f1-6e77-44cd-ac2b-5e4c97e07dee</testCaseGuid>
+</TestCaseEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tampilkan Semua&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0536f789-9177-4228-99be-c3bcb570c4ee</webElementGuid>
+      <webElementGuid>8c0a9231-2384-4dce-94c0-ed448e4ba2e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>7bb7bee7-b367-48c0-bb5a-b29e7e13b976</webElementGuid>
+      <webElementGuid>bca75ee7-b827-425f-83be-32808ef07b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=bantuan%2Findex</value>
-      <webElementGuid>160f91d3-afd9-427f-9417-465fdd6218f5</webElementGuid>
+      <webElementGuid>1d26ba1b-0e85-4e41-b28a-594c65470f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tampilkan Semua</value>
-      <webElementGuid>72506156-4dfa-477b-af08-31d3155ac24f</webElementGuid>
+      <webElementGuid>e3e4e25d-90dd-4109-a82b-25f8b10c88ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;card-header p-2&quot;]/a[@class=&quot;btn btn-info&quot;]</value>
-      <webElementGuid>0211b44f-4274-462b-8279-451f015ece18</webElementGuid>
+      <webElementGuid>7d2cb823-4e16-455e-99fd-b7194e7e7a96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/a</value>
-      <webElementGuid>9a07b187-1804-4cc8-9b26-8b632942c4a4</webElementGuid>
+      <webElementGuid>863c35d2-0737-4b7e-8641-6623169dfce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tampilkan Semua')]</value>
-      <webElementGuid>1cb39d93-19c3-4e40-9ad4-10e47f313113</webElementGuid>
+      <webElementGuid>041d3d4d-8d0b-4b07-98d0-fb82e01fdd33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan Pencarian'])[1]/following::a[1]</value>
-      <webElementGuid>f0790029-6e9f-4663-8d39-7e26333bd599</webElementGuid>
+      <webElementGuid>ca6561ed-1588-49e4-ac51-644d2565f7dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan'])[3]/following::a[1]</value>
-      <webElementGuid>dd761297-72a7-4d89-83f8-46444687e9ca</webElementGuid>
+      <webElementGuid>0d331866-9bc8-49be-95e6-cc29da8bf1bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Baru'])[1]/preceding::a[1]</value>
-      <webElementGuid>f13b978d-554a-4d3c-987e-9bdb55c97c86</webElementGuid>
+      <webElementGuid>2f42534d-17ca-4279-821f-b1bbf13db760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tampilkan Semua']/parent::*</value>
-      <webElementGuid>d8f3a7f6-ad67-4541-865e-77dad65f5bef</webElementGuid>
+      <webElementGuid>cf53cf3c-6aa6-4702-a2c4-0ae8898f222c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/backend/web/index.php?r=bantuan%2Findex')])[2]</value>
-      <webElementGuid>658ed91b-303e-4ed9-a3f5-73edb019839a</webElementGuid>
+      <webElementGuid>92499680-f1c0-4a84-8e4b-2adb8d590364</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/a</value>
-      <webElementGuid>7b99cc03-8553-49a2-a597-d74c75cde899</webElementGuid>
+      <webElementGuid>3e2b3c7c-ca65-4073-8a3c-de16eb6a7d75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=bantuan%2Findex' and (text() = ' Tampilkan Semua' or . = ' Tampilkan Semua')]</value>
-      <webElementGuid>f32db593-f02e-4138-aae0-d547dd81c052</webElementGuid>
+      <webElementGuid>2da23c64-8119-4639-8845-bc2a1d8afe97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

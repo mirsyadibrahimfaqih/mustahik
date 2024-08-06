@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-nama_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed9709af-df0f-4e82-acb8-37106382edf7</webElementGuid>
+      <webElementGuid>c0960e04-3030-40b3-a84e-8ce6b973d351</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6b77299b-3f34-46eb-a35c-f40fcb120169</webElementGuid>
+      <webElementGuid>2f04667c-de09-410d-88c3-f80be6552beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-nama_pengaju</value>
-      <webElementGuid>6326f3bb-8c69-4104-9c8e-d072690a5010</webElementGuid>
+      <webElementGuid>458d34ee-5801-466b-9291-face17fbd5ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>43577cca-f90a-489a-ae36-968ac057c527</webElementGuid>
+      <webElementGuid>25c15c1d-365f-4ba5-abb4-2f739b6d902d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[nama_pengaju]</value>
-      <webElementGuid>a34c996c-2b7c-4332-bb64-fb45a76e69dc</webElementGuid>
+      <webElementGuid>74f46189-c289-4445-9c04-e9a27c82ccb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>333ba619-0c32-4824-b107-b9174cefd385</webElementGuid>
+      <webElementGuid>237fa386-8ff5-438a-9c24-dd82976d2612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-nama_pengaju&quot;)</value>
-      <webElementGuid>49f580ec-77b9-46f4-8e63-e7c1b830d992</webElementGuid>
+      <webElementGuid>ee6a096f-3689-4bde-b923-fe19bf36b0b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-nama_pengaju']</value>
-      <webElementGuid>3e48caa1-bc42-4c7e-b718-53521e9ff85c</webElementGuid>
+      <webElementGuid>e2f61672-08e4-4401-b6cd-f2996a62c7d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div-perorangan']/div[2]/div[2]/div/input</value>
-      <webElementGuid>69e6974e-f567-4970-8c51-2f81a9101666</webElementGuid>
+      <webElementGuid>7976990a-5398-480b-8761-45c3bc646949</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/input</value>
-      <webElementGuid>ddb1e8ec-9d60-41d2-bd51-ce5f7c8da96f</webElementGuid>
+      <webElementGuid>d964ba68-fe7e-48bd-ad29-e1fc6403bf9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'bantuan-nama_pengaju' and @name = 'Bantuan[nama_pengaju]']</value>
-      <webElementGuid>0dc5abf7-2557-4ce3-b2b0-156d4abeff13</webElementGuid>
+      <webElementGuid>fffecebf-5301-4e2c-a9a1-8bac00413a35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Nominal Minimal&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>18711c70-5be2-428c-a7cc-942dd1519332</webElementGuid>
+      <webElementGuid>b26f1860-d0f7-4c94-9de6-52f2d5b058e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>4c36b5d5-1749-4eca-beee-38e14a8fe246</webElementGuid>
+      <webElementGuid>3dc13b04-34e1-44b7-9c5c-c7898d161284</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>unitapproval-nominal_minimal</value>
-      <webElementGuid>2fb0ff51-6fdd-4eca-8fb8-69bc718bae45</webElementGuid>
+      <webElementGuid>f6868c05-388c-409e-a47c-ee7d77fd935b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a2b4607f-8281-41a7-aa3a-72b5e37074e8</webElementGuid>
+      <webElementGuid>1d6579ce-f65a-4333-8790-1147c69c8907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +61,15 @@
       <name>name</name>
       <type>Main</type>
       <value>UnitApproval[nominal_minimal]</value>
-      <webElementGuid>d6d375df-2fc9-4b22-8725-2c18385e5e02</webElementGuid>
+      <webElementGuid>199f5a74-9581-40ee-baa6-bc37a250a0b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>de073d7d-bfe1-46d9-a934-c745f4d3fd6d</webElementGuid>
+      <value>500</value>
+      <webElementGuid>643c3de7-ac6f-4169-a421-ad0639dd48a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;unitapproval-nominal_minimal&quot;)</value>
-      <webElementGuid>96f7b16d-371f-47ab-b030-5cd2a505b07d</webElementGuid>
+      <webElementGuid>9fa03b63-3017-4a60-99fe-f22316bfd0e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='unitapproval-nominal_minimal']</value>
-      <webElementGuid>2453e5ae-1068-4691-b535-0c6ad2070dd7</webElementGuid>
+      <webElementGuid>d0128a82-cae2-4b53-8603-034382067f41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[3]/input</value>
-      <webElementGuid>be317072-436a-4a97-882e-100d39c8b069</webElementGuid>
+      <webElementGuid>16d096f8-27cc-4448-91ab-435d208671bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>7eef096f-fed8-41c6-ad4c-469496ddab1b</webElementGuid>
+      <webElementGuid>e6bb00d5-27f9-4153-b237-53e9989ea62b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @id = 'unitapproval-nominal_minimal' and @name = 'UnitApproval[nominal_minimal]']</value>
-      <webElementGuid>7c7ffd04-50a3-451c-ba17-492a74a3732e</webElementGuid>
+      <webElementGuid>06a9ddb4-07a6-4c03-bc16-f8d46b024fe2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

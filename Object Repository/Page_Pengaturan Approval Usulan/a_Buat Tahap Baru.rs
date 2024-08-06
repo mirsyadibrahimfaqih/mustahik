@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Buat Tahap Baru&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e5cf30ec-9be9-453b-b7dc-6bec9e7a8af5</webElementGuid>
+      <webElementGuid>d50866fc-3cb6-4f52-b06d-fba862333006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>71e1ecf3-9c7b-43c2-bd27-41e6cb1f62ad</webElementGuid>
+      <webElementGuid>11dcf47d-4475-40ab-a394-937bee4ab94b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=unit-approval%2Fcreate&amp;jenis=usulan</value>
-      <webElementGuid>6ae3c010-f7f5-4010-b9d1-b553e4610e46</webElementGuid>
+      <webElementGuid>9c2b2403-2305-43f1-bc9a-579f429d2e14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Buat Tahap Baru</value>
-      <webElementGuid>2bd680d7-9a82-4c67-9347-6ed595bc2ed0</webElementGuid>
+      <webElementGuid>963a94e2-4407-4da8-aa28-f2d0c70ad356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;card-tools float-right&quot;]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>94b4dcce-703d-4986-8636-e5ab35947cb2</webElementGuid>
+      <webElementGuid>32ac8565-a52c-43e9-92d5-d3545b5c0a73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Buat Tahap Baru')]</value>
-      <webElementGuid>23fa026c-ed3b-4f46-864d-f1e7528b43c2</webElementGuid>
+      <webElementGuid>76da2936-8099-4685-99a4-7babeb3e69c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikut adalah urutan approval usulan yang ada di Unit PLN Pusat'])[1]/following::a[1]</value>
-      <webElementGuid>89e3f47e-4db5-4655-af53-f26912f7833e</webElementGuid>
+      <webElementGuid>3113ff39-fc71-4481-810b-a7170f05474c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan Approval Usulan'])[3]/following::a[1]</value>
-      <webElementGuid>9093b63b-5e8a-4ec1-8292-0d6087f26f6b</webElementGuid>
+      <webElementGuid>dc6c8f20-398e-44bb-9510-9e2f1adc9a96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahap'])[1]/preceding::a[1]</value>
-      <webElementGuid>fa9b28c5-ba1f-421d-b667-ae95d8e28fd3</webElementGuid>
+      <webElementGuid>3004263d-33fa-4857-a7d1-0aa9258d3f25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Approver'])[1]/preceding::a[1]</value>
-      <webElementGuid>c8c868b9-2602-43e7-b285-f4257af8e0a5</webElementGuid>
+      <webElementGuid>de217040-5b60-478b-883e-781ff552bbd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Buat Tahap Baru']/parent::*</value>
-      <webElementGuid>09b73402-434f-409a-83be-116ccc3c677d</webElementGuid>
+      <webElementGuid>1249e1b9-ce86-4be6-9359-b83be1ce3189</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=unit-approval%2Fcreate&amp;jenis=usulan')]</value>
-      <webElementGuid>4b2a3995-fc98-4552-b4c6-5e9795895c2a</webElementGuid>
+      <webElementGuid>bab6ed0c-c3d8-43f6-aa38-46042b49b7b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>493e3d9a-a7fe-4b93-a072-2a2523703a4a</webElementGuid>
+      <webElementGuid>f9e8e713-92a9-43a8-be91-ed917bfe573a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=unit-approval%2Fcreate&amp;jenis=usulan' and (text() = ' Buat Tahap Baru' or . = ' Buat Tahap Baru')]</value>
-      <webElementGuid>2e8ae23b-2a02-42f9-adbc-2001b96d76e3</webElementGuid>
+      <webElementGuid>6f6d0f0d-cfba-463f-8021-848955153591</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

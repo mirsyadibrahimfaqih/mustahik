@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAU-004 - Menghapus approval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b69dccc2-fd0b-4aad-aba7-ec46194e7176</testCaseGuid>
+</TestCaseEntity>

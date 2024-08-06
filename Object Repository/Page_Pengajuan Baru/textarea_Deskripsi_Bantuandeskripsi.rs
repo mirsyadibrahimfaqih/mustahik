@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-deskripsi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>03b3b0a7-ac09-4467-b6f0-37c3d30727ad</webElementGuid>
+      <webElementGuid>6f4982d5-62c2-4ecb-9382-8ddd1422b598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-deskripsi</value>
-      <webElementGuid>baee2437-7255-4499-8378-ef9378ff7542</webElementGuid>
+      <webElementGuid>736fc076-794a-4420-90ba-672aab004cff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>82aa6b6e-7939-46ef-8892-165e851f744f</webElementGuid>
+      <webElementGuid>8cdd0b22-92f7-4d0a-9e16-cbeacd8cb56e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[deskripsi]</value>
-      <webElementGuid>da927d7f-ccd9-47b3-bff9-9f572d08a4d6</webElementGuid>
+      <webElementGuid>c39c9f19-0f1b-4a54-a8c1-ea4134a483f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>e33054f4-b5f8-46b8-923f-f186fed317b2</webElementGuid>
+      <webElementGuid>b958f26a-dc0e-423b-bf82-83e34a64b8a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-deskripsi&quot;)</value>
-      <webElementGuid>278db39c-f4e9-4872-a843-0655697c5aee</webElementGuid>
+      <webElementGuid>2f408313-7bcd-4580-9331-4c533b8acce2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='bantuan-deskripsi']</value>
-      <webElementGuid>36cf4e71-6c03-43c2-a91e-79f9c4d174df</webElementGuid>
+      <webElementGuid>5ae092ab-7d6c-445b-ba49-71648396004a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div/div/div/div[6]/div[2]/div/textarea</value>
+      <webElementGuid>06376d99-9093-4039-b2f9-ba7db8aba6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>92a8ad15-b1ff-4e36-9b10-f4fb36d98b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'bantuan-deskripsi' and @name = 'Bantuan[deskripsi]']</value>
+      <webElementGuid>6c2d7191-9595-4880-b481-a3ed5ef6d17f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,21 +110,5 @@
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div/div/div/div[3]/div[2]/div/textarea</value>
       <webElementGuid>3a167b6f-bba9-409c-a0ef-e064b4d95fdb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>93d36106-8f21-4a31-93db-2c2bf2cdf901</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//textarea[@id = 'bantuan-deskripsi' and @name = 'Bantuan[deskripsi]']</value>
-      <webElementGuid>140070e9-c7d4-48f8-9e85-696e6c157cc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

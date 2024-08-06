@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-008 - Melakukan pengajuan menggunakan template</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f9531f2-a135-4f8b-9cfd-f620312aaa25</testCaseGuid>
+</TestCaseEntity>

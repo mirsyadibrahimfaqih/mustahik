@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-003 - Mengecek detail usulan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79f41bbb-c90b-4b9e-97e7-a32c61bc92c2</testCaseGuid>
+</TestCaseEntity>

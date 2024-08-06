@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-bank_rekening_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eb2b395d-6f71-48f6-afff-b4cfa73e04fc</webElementGuid>
+      <webElementGuid>86ff52af-a8e2-4380-b696-569b04edb943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c3a8119d-dca2-4fea-b34b-2feb1073d7d4</webElementGuid>
+      <webElementGuid>1a0ddd0d-975d-4d91-8513-720f92ba6631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-bank_rekening_pengaju</value>
-      <webElementGuid>22e6c56f-c6e0-4e63-9196-ce9adc060dcc</webElementGuid>
+      <webElementGuid>45dcceef-6836-4189-8e0d-0c9ea04b123d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f6695b6c-7660-49fa-beee-99b613d7c6dd</webElementGuid>
+      <webElementGuid>427f3e82-056b-4a10-84b7-d6c8c3b15db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[bank_rekening_pengaju]</value>
-      <webElementGuid>2ed0e01c-e3ef-403e-bf47-d1df6e23a18e</webElementGuid>
+      <webElementGuid>cd3d23d2-d31b-41dc-b6b0-d246844fcec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>f02d3ed7-f19a-42fc-a09c-e43de6dc0397</webElementGuid>
+      <webElementGuid>1f0624b2-5f75-4e75-9553-553f72ed8e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-bank_rekening_pengaju&quot;)</value>
-      <webElementGuid>ad0bfa07-2f8f-4277-84f0-eb8bdb1be89b</webElementGuid>
+      <webElementGuid>7d2fc71a-52db-4259-b621-7c6cf4f4de74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-bank_rekening_pengaju']</value>
-      <webElementGuid>d7b79860-9eda-426e-9089-66e418eb1eb4</webElementGuid>
+      <webElementGuid>03095d0c-0e92-46ab-95de-b6f0c79f4d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div[6]/div[2]/div/input</value>
+      <webElementGuid>8767415c-c348-459d-9d5c-c30b88548faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/input</value>
+      <webElementGuid>6a29678e-0d14-496f-b89b-6b030c555205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-bank_rekening_pengaju' and @name = 'Bantuan[bank_rekening_pengaju]']</value>
+      <webElementGuid>2176ea9c-49cd-4707-a654-2fb1089bb5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,13 +126,5 @@
       <type>Main</type>
       <value>//div[2]/div/div/div[6]/div[2]/div/input</value>
       <webElementGuid>6f41c816-3995-4c50-81f5-bf771743f74e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-bank_rekening_pengaju' and @name = 'Bantuan[bank_rekening_pengaju]']</value>
-      <webElementGuid>f37ccd77-cb98-430d-8590-9bcf91e8fb64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

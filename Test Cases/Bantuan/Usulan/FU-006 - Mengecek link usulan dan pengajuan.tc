@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-006 - Mengecek link usulan dan pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31a8c1d1-6ae9-4f0f-a9cd-4a395016bb31</testCaseGuid>
+</TestCaseEntity>

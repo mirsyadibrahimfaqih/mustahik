@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-telepon_referensi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5f4dd506-6e72-4331-9bcd-df15c4cab806</webElementGuid>
+      <webElementGuid>6b9fe059-4118-4058-a007-33c870827da7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>56733029-ed36-4513-812a-2ddaf8e8d9b4</webElementGuid>
+      <webElementGuid>3e6b0271-9ba4-4b8b-b3c7-9cd612cf3861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-telepon_referensi</value>
-      <webElementGuid>8262e41c-8a2f-45f7-9610-880a7774e90b</webElementGuid>
+      <webElementGuid>49cd7ef8-3d8b-4c09-8817-d3ed5432ba37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>cbf2387a-bc28-4936-8831-8d4fb3e9a33c</webElementGuid>
+      <webElementGuid>804d6594-be5c-4049-9402-898ed9119c42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[telepon_referensi]</value>
-      <webElementGuid>444e2b9b-1200-4c7f-9d11-53ea9ac8e9f0</webElementGuid>
+      <webElementGuid>bcef8cd8-36c9-4ddc-a3eb-96424773861e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>a116a23d-6f0d-4517-a991-613bdc6f8696</webElementGuid>
+      <webElementGuid>2eb37cbb-cdb5-441d-80ff-a6ac39dde75e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-telepon_referensi&quot;)</value>
-      <webElementGuid>a45f9e0b-e517-4160-8b43-0bfedc887635</webElementGuid>
+      <webElementGuid>b5005ec6-fba5-4f6c-9423-2da40b34f55c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-telepon_referensi']</value>
-      <webElementGuid>9065695d-f47b-45d6-8f6d-437ba926e264</webElementGuid>
+      <webElementGuid>7b05738d-b7a2-4034-b795-5ae9502f2a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div[10]/div[2]/div/input</value>
+      <webElementGuid>2cba10b3-0519-4e83-9b39-69ebb2baecd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[10]/div[2]/div/input</value>
+      <webElementGuid>a52d032d-b461-4db4-9100-0aaf17ad5825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-telepon_referensi' and @name = 'Bantuan[telepon_referensi]']</value>
+      <webElementGuid>900d83ca-307b-4a6e-a9cd-d320f3bd6928</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,21 +118,5 @@
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div[2]/div/div/div[10]/div[2]/div/input</value>
       <webElementGuid>2744a233-90ba-4297-aedf-af8570bf4ba8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/div[10]/div[2]/div/input</value>
-      <webElementGuid>3a1de2f5-2f6e-469d-a9ba-f0af26352f31</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-telepon_referensi' and @name = 'Bantuan[telepon_referensi]']</value>
-      <webElementGuid>641cc16e-7d3a-4920-b1c9-2b6ab1564ac5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

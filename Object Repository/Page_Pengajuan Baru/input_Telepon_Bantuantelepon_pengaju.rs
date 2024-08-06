@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-telepon_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ba518ce7-24b2-425f-8f84-0f5ff7c0b4f0</webElementGuid>
+      <webElementGuid>59230cfb-e76b-43ad-a795-21b119052a6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>196230b1-1521-43c9-a61d-8d1b70dac442</webElementGuid>
+      <webElementGuid>9b7318f5-591e-48b2-8569-130856d2d93a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-telepon_pengaju</value>
-      <webElementGuid>4bdb93f1-8892-4e5b-817b-3d17d4f7f410</webElementGuid>
+      <webElementGuid>87143093-08d8-42db-a999-4ef7b88c822c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>bcb755ae-01ca-4655-b71b-495f9bbdcba7</webElementGuid>
+      <webElementGuid>a9f98ecb-67f0-47ed-9960-a897bc251f48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[telepon_pengaju]</value>
-      <webElementGuid>e0a50ff4-d22d-4f59-8ea1-46901c28d411</webElementGuid>
+      <webElementGuid>f0a3cc20-dcc4-4ecb-ad55-904eb16a9c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>0cc3639a-6f54-4db3-9c67-e6ce88c2405b</webElementGuid>
+      <webElementGuid>11d1b74c-524f-4448-b8ac-0f6a62de8b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-telepon_pengaju&quot;)</value>
-      <webElementGuid>7fe713b1-baac-49a4-ac4b-be0396168bef</webElementGuid>
+      <webElementGuid>62c7d65c-fdda-4d89-ba4b-3746739ec452</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-telepon_pengaju']</value>
-      <webElementGuid>773b079c-bb35-4438-b08f-d254711d37cf</webElementGuid>
+      <webElementGuid>4120746a-8a8b-40a1-9d38-9347623ffff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div-perorangan']/div[4]/div[2]/div/input</value>
-      <webElementGuid>190a96fb-af65-4a7d-9494-06d1d3e3f16d</webElementGuid>
+      <webElementGuid>59316646-a0ee-40c8-9445-a67aaafa129f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[4]/div[2]/div/input</value>
-      <webElementGuid>2f347e63-011d-479c-8410-1768341fc9a4</webElementGuid>
+      <webElementGuid>d768f748-f6d6-4734-adc3-07633a9ad7ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'bantuan-telepon_pengaju' and @name = 'Bantuan[telepon_pengaju]']</value>
-      <webElementGuid>6bb851fd-6c19-46f7-9810-e878af96b5aa</webElementGuid>
+      <webElementGuid>442a13db-5b7d-4fce-ba42-e1668f142004</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

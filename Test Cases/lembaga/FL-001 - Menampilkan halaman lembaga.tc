@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FL-001 - Menampilkan halaman lembaga</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9879f0df-f7ec-4545-8a35-90efff2cb495</testCaseGuid>
+</TestCaseEntity>

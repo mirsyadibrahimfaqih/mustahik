@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-006 - Mengecek link realisasi, usulan dan pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24ea9bad-6c9e-45df-924a-2dc373c1bb23</testCaseGuid>
+</TestCaseEntity>

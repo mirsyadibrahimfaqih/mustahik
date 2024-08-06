@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAU-001 - Menampilkan halaman approval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>676dc29a-8236-47de-a509-ff49955cac7c</testCaseGuid>
+</TestCaseEntity>

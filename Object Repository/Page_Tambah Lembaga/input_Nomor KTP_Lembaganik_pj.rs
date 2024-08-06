@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-nik_pj</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>23a00d47-c669-449e-812f-503e2d3accf7</webElementGuid>
+      <webElementGuid>d3c6b77f-26ad-43bc-91e3-5ffa9f5f2189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bfce67a1-4612-4e67-ac10-3a7941314d53</webElementGuid>
+      <webElementGuid>1e3a5f22-08d5-4071-8ef6-f9c3e03285eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-nik_pj</value>
-      <webElementGuid>37fab9ab-020e-457f-9299-e55f6486535f</webElementGuid>
+      <webElementGuid>e917c278-19fa-4a8f-a816-f91ef154fde4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b952b3d1-151d-4065-a59d-0835b6ff6c20</webElementGuid>
+      <webElementGuid>3d85b91e-1afd-4082-b0d1-dad0c8b465ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[nik_pj]</value>
-      <webElementGuid>0fa1c31e-8041-49af-9e9f-746b267d503c</webElementGuid>
+      <webElementGuid>65a2c759-4a2d-434b-b31c-21960981a2c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>2c3fa45d-5e59-4e98-a7ff-c9b3e854f9ed</webElementGuid>
+      <webElementGuid>03ea350f-f627-4651-95ea-99bba81786ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-nik_pj&quot;)</value>
-      <webElementGuid>9dc00330-550e-4c44-94cf-cb1cf1e3cf21</webElementGuid>
+      <webElementGuid>4ddcb0a1-1925-4c3d-8583-935bc750f768</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lembaga-nik_pj']</value>
-      <webElementGuid>f5f99ad3-d09e-4fbd-8549-0e178cbfee9e</webElementGuid>
+      <webElementGuid>7c359ae8-ecb9-4416-914c-6fe810b84ffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div[2]/div[2]/div[2]/div/input</value>
-      <webElementGuid>e47d1d97-fb8b-4612-b431-36e7f19640a8</webElementGuid>
+      <webElementGuid>6ec4a588-5071-4201-a7c1-12a87df5dfe4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/div/input</value>
-      <webElementGuid>15972e87-9218-43f1-80a7-19cdf0ccc763</webElementGuid>
+      <webElementGuid>9be0f88c-c7c5-4b97-b8f0-38600d54f416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'lembaga-nik_pj' and @name = 'Lembaga[nik_pj]']</value>
-      <webElementGuid>2476da23-397c-4435-9b48-231b13eeb823</webElementGuid>
+      <webElementGuid>e3e94994-348c-433b-b394-c99f3e716b7e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

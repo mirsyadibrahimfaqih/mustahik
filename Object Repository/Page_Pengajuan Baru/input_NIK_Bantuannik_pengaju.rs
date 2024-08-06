@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-nik_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8ca6ecd1-4d09-4048-ad37-973438dc550e</webElementGuid>
+      <webElementGuid>735ecd72-6fec-405c-a6f5-ead6a403dcf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1fadf7a6-e86d-45ba-b5a2-824266a39135</webElementGuid>
+      <webElementGuid>7eba9a41-0fff-4319-96ed-68ff2e300a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-nik_pengaju</value>
-      <webElementGuid>960ab256-958a-4829-aac1-f901c2655e06</webElementGuid>
+      <webElementGuid>9a38c885-23f3-4c58-82b4-1a7e7e148653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>767f8e49-e73c-4b15-a87e-7f83c52ecceb</webElementGuid>
+      <webElementGuid>90e441ce-e7f3-449b-84a8-14c71351843c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[nik_pengaju]</value>
-      <webElementGuid>6ac23e3a-0679-46e6-9006-b962a525b705</webElementGuid>
+      <webElementGuid>bcff6e8b-bb29-40bf-a268-a9b22f433bbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>3ce30d4b-bb75-4826-9364-5dc927698cac</webElementGuid>
+      <webElementGuid>282e2a53-e690-4e12-a91a-d6d6bb85456c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-nik_pengaju&quot;)</value>
-      <webElementGuid>8609ab38-0799-499d-b6db-07962ae3fec3</webElementGuid>
+      <webElementGuid>8c1bca6d-2902-407d-9566-0a687960b39b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-nik_pengaju']</value>
-      <webElementGuid>a454c8e0-696e-4607-81e6-b9f9a0109752</webElementGuid>
+      <webElementGuid>4bd29e97-ccec-483e-ada8-7502afaf9803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div-perorangan']/div[3]/div[2]/div/input</value>
-      <webElementGuid>2ed8e050-bc3a-4629-ae8a-731f74337d29</webElementGuid>
+      <webElementGuid>5ecc45e6-459d-4ed7-8292-3b2df5956668</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]/div[2]/div/input</value>
-      <webElementGuid>c0d3894c-06f9-452e-b525-1f3b546522b6</webElementGuid>
+      <webElementGuid>7cf59391-12ef-465c-bf41-8c7ee7c4a7fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'bantuan-nik_pengaju' and @name = 'Bantuan[nik_pengaju]']</value>
-      <webElementGuid>4aa33896-d95d-4ff9-af6f-45d3b8fdc6d3</webElementGuid>
+      <webElementGuid>7c06205a-88ce-447f-8edf-63795cbea3ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lembaga&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d90df32d-22c4-4d29-8b63-f50b3ea3fd0a</webElementGuid>
+      <webElementGuid>ccce208b-fb12-4f74-af08-7e902821e15b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>73020a2b-efd9-4c3f-b3b7-3f2f64d56186</webElementGuid>
+      <webElementGuid>e3d18487-5ef5-4c2d-b352-3866baf44d82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d4e174a5-fb22-429b-88a5-07746ad3006c</webElementGuid>
+      <webElementGuid>c5f7f0ae-5a6c-46a1-b746-a085d607f657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +56,7 @@
                                         
                                         Lembaga
                                     </value>
-      <webElementGuid>a1ab4fbd-7b0e-4276-b285-067d30a2438b</webElementGuid>
+      <webElementGuid>182fbc7c-0417-4226-97ee-a7f93d35ef2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-open&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar sidebar-dark-primary elevation-1&quot;]/div[@class=&quot;sidebar&quot;]/nav[@class=&quot;mt-2&quot;]/ul[@class=&quot;nav nav-pills nav-sidebar flex-column&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>a737cf90-2b2f-435e-86f9-495fa54a1136</webElementGuid>
+      <webElementGuid>d55b2f2e-fa03-4e41-94f3-3dc2c79a90e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,15 +72,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[1]/following::a[6]</value>
-      <webElementGuid>18700abd-5948-48e2-8b68-8cb0acf75555</webElementGuid>
+      <webElementGuid>5c59c99a-94de-44c6-8379-c67e23af62a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program'])[1]/following::a[6]</value>
-      <webElementGuid>2fd3f990-9215-43c3-9524-c8c281741c73</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program1'])[1]/following::a[6]</value>
+      <webElementGuid>1f2162b4-4328-4e51-a0b4-1ac998101b2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Mustahik YBM PLN'])[2]/preceding::a[10]</value>
-      <webElementGuid>24d0bae2-15ab-4b23-a052-07c6bbdf0bc7</webElementGuid>
+      <webElementGuid>95b0d9d3-fbe7-439a-9c72-cedcb94f86c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grafik Mustahik Provinsi'])[1]/preceding::a[10]</value>
-      <webElementGuid>16aebffb-7de6-4ebc-9fb0-c40ef5699347</webElementGuid>
+      <webElementGuid>a7681de3-69a8-4f5a-a4b5-c4465b69eb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +104,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[5]</value>
-      <webElementGuid>1ae08ff0-166b-4605-8cec-ce633d80a4e0</webElementGuid>
+      <webElementGuid>b9a85fa0-0cd7-445f-95bb-c533a971b934</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>d62346b9-7843-4699-88a1-d569e5cc84c9</webElementGuid>
+      <webElementGuid>38b1322c-c796-4e16-8ae1-6e0a479f3e4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +126,14 @@
                                         
                                         Lembaga
                                     ')]</value>
-      <webElementGuid>d3843a44-45cc-4bee-8ab3-cbab81ce2c0b</webElementGuid>
+      <webElementGuid>a629c2b0-0802-42a2-ab99-b1b2160c5086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program'])[1]/following::a[6]</value>
+      <webElementGuid>2fd3f990-9215-43c3-9524-c8c281741c73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

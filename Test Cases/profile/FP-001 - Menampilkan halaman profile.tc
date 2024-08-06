@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-001 - Menampilkan halaman profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c683a35-b999-4c80-a12a-dc98e38c9c28</testCaseGuid>
+</TestCaseEntity>

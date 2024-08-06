@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Judul bantuan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1d1f4a6a-8de8-46ed-9266-96a0b9abb85b</webElementGuid>
+      <webElementGuid>5f59d149-8f97-4375-9671-32474c0d4250</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bd315347-507a-4d5a-9262-caf296339800</webElementGuid>
+      <webElementGuid>103aeef3-85f6-4147-9931-e9e6db1db16e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>judul</value>
-      <webElementGuid>e0ac4903-17fd-4b13-bb9e-1efcd91fb74d</webElementGuid>
+      <webElementGuid>f7e61071-fa19-48f6-a685-df9f6db04af1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>judul</value>
-      <webElementGuid>4dc3eb7e-4885-4bf1-b56c-cfb6d202335d</webElementGuid>
+      <webElementGuid>030f8958-aba1-4e20-97a8-6db27706aef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>7944bbbc-86fe-44cc-a73a-29c0ae46ea4b</webElementGuid>
+      <webElementGuid>221efc0e-b1de-4f36-8edc-ee2f9380f2fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Judul bantuan</value>
-      <webElementGuid>ee5ac678-1041-48d1-82f3-cefa7ffa1a80</webElementGuid>
+      <webElementGuid>ccb15f59-b61c-4689-8431-a080fee99177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;judul&quot;)</value>
-      <webElementGuid>41235047-8d14-4b6a-a1ab-3a57202a0ce4</webElementGuid>
+      <webElementGuid>1b92a1aa-e454-4c8a-a61d-d5c0f49bcd3b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='judul']</value>
-      <webElementGuid>41b4f71f-16dc-4c2d-a5f1-687229ed0c23</webElementGuid>
+      <webElementGuid>901f3a8d-1093-47ac-b6ea-6e01e5c3ddbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div/div/dl/dd[2]/input</value>
-      <webElementGuid>4e1bc08e-1b1c-4246-bdb7-0b7488e25812</webElementGuid>
+      <webElementGuid>287c7fb8-c129-49a6-83bd-4f3d4a24f1f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//dd[2]/input</value>
-      <webElementGuid>09d063ad-5756-408a-83e7-bf1fa4c5f40a</webElementGuid>
+      <webElementGuid>b72dc006-5c5f-4ed4-922c-8e629f7a7af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'judul' and @name = 'judul' and @placeholder = 'Judul bantuan']</value>
-      <webElementGuid>8e3ed892-9d02-45d3-8a27-db4ed38f2c37</webElementGuid>
+      <webElementGuid>5380f6d4-ea75-4201-a121-38524126af07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

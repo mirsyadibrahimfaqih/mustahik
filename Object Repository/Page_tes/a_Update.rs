@@ -11,10 +11,17 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.btn.btn-primary.mr-1</value>
+         <value>a.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Update&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6312ebad-da10-4c0a-94c8-4cbdc3bb1fb3</webElementGuid>
+      <webElementGuid>ae16e044-a643-483a-9824-0e6117976c8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary mr-1</value>
-      <webElementGuid>026b8944-cdd3-4828-893a-f8bda4577cf4</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>d8ac34d7-d217-4e09-a86f-052edc4769df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/backend/web/index.php?r=kategori%2Fupdate&amp;id=125</value>
-      <webElementGuid>10e0ea9e-ee4f-4292-87fc-27a69e55d195</webElementGuid>
+      <value>/backend/web/index.php?r=lembaga%2Fupdate&amp;id=520</value>
+      <webElementGuid>b62f800c-b727-4c24-affb-a558ae62c8cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +53,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Update</value>
-      <webElementGuid>9f0b17c4-1f2b-41cf-91f3-fe31ff20d130</webElementGuid>
+      <webElementGuid>9551a0c6-6712-4256-be51-7a35de014ad7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/header[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;filter-block pull-right float-right&quot;]/a[@class=&quot;btn btn-primary mr-1&quot;]</value>
-      <webElementGuid>8cc7c4d1-b72c-40e1-ac6a-ce0ccb3ade1d</webElementGuid>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/header[@class=&quot;card-header&quot;]/div[@class=&quot;filter-block pull-right&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>d16270c1-add4-467b-a3ca-eb7ff1e7ee46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,71 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Update')]</value>
-      <webElementGuid>7b6b98ba-558c-424b-8c28-f41e87d8fb6e</webElementGuid>
+      <webElementGuid>596a3f3d-aeca-4c19-a0cf-cbc9d8330f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes'])[3]/following::a[1]</value>
+      <webElementGuid>9861f6cb-baf9-432f-a8cb-88a4dda9c4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga'])[3]/following::a[1]</value>
+      <webElementGuid>68e35869-12ea-49a1-a4ac-ae6ae7b3020c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[1]</value>
+      <webElementGuid>e370cc05-4be3-4a20-9df6-c436baf19384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Unit'])[1]/preceding::a[2]</value>
+      <webElementGuid>1dd71f50-1f1a-417d-b5b2-67c67ed4325a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
+      <webElementGuid>3e099303-5f03-4b11-9944-e7fc7c28fd6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=lembaga%2Fupdate&amp;id=520')]</value>
+      <webElementGuid>d6af4c28-fd52-4584-822c-15b1afca3d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/a</value>
+      <webElementGuid>fb47ea5e-faad-4d5d-a25d-2bf375e249df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=lembaga%2Fupdate&amp;id=520' and (text() = ' Update' or . = ' Update')]</value>
+      <webElementGuid>e904018a-aaa4-4f2f-bcbb-2da240df7b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +141,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Sub Program'])[1]/following::a[1]</value>
-      <webElementGuid>7c3ebe3e-1f32-4d86-9aca-50d931d70580</webElementGuid>
+      <webElementGuid>a266b80f-d68b-4ab2-acbe-1e73ffbe2c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sosial Kemanusiaan1'])[1]/following::a[2]</value>
+      <webElementGuid>35e78dc5-5603-4aef-83c1-15ad01330384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::a[1]</value>
+      <webElementGuid>e0c04624-4ab1-4b2e-8af0-b7e6eca5892c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[2]</value>
+      <webElementGuid>63a8f93b-6308-451b-a805-ea7446210dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fupdate&amp;id=133')]</value>
+      <webElementGuid>0f700286-eb73-4069-8edf-6e1b20e68445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>0f659d91-2501-4c68-95a6-b497f6b04306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=kategori%2Fupdate&amp;id=133' and (text() = ' Update' or . = ' Update')]</value>
+      <webElementGuid>61313baf-34c2-41c7-93cf-a319e13d9fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,42 +202,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::a[1]</value>
-      <webElementGuid>2e84aa01-6a75-46f6-a946-9eae9490addd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[2]</value>
-      <webElementGuid>a2ba1072-a33f-4368-a869-3cbed3d0485c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>0b65c7e5-8509-42e3-9831-d5dbf2b96ee4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fupdate&amp;id=125')]</value>
       <webElementGuid>a5fc0b5c-2713-4751-b967-a7c85a6902f2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/a[2]</value>
-      <webElementGuid>e7a9c102-40c8-4aea-a8a3-ff33d5c6d54d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

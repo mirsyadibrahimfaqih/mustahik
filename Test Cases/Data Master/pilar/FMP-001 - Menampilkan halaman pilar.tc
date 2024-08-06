@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FMP-001 - Menampilkan halaman pilar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54977f76-7b72-4d1a-973f-4e55a0e8f416</testCaseGuid>
+</TestCaseEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-lokasi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>6a1b28bd-801c-440f-94af-523246607b09</webElementGuid>
+      <webElementGuid>c1a27336-c1b4-42c4-aa6f-6c349a993027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-lokasi</value>
-      <webElementGuid>b98e1665-ab6e-408a-ba48-3e4105f1bab2</webElementGuid>
+      <webElementGuid>02e04fa1-6247-418b-9be7-40419ee33892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>6bf4ee40-b882-4d21-88b6-09c9621ebe53</webElementGuid>
+      <webElementGuid>b309ee9f-38ea-49e7-a229-52c83c569d76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[lokasi]</value>
-      <webElementGuid>f9230c53-bbce-4f0d-b853-3042d921b261</webElementGuid>
+      <webElementGuid>4c838612-09ec-4923-818f-0abee1d97dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>74ec163b-f1cd-4fc4-969a-347fa3aca600</webElementGuid>
+      <webElementGuid>ce9f8538-9721-4cd8-ad8d-c3dd92b1e023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-lokasi&quot;)</value>
-      <webElementGuid>120fa7a4-816c-4867-89ff-94033b229cfc</webElementGuid>
+      <webElementGuid>97e9f58f-4649-4338-a2b3-d8768ebb018b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='bantuan-lokasi']</value>
-      <webElementGuid>5ac40527-8415-4262-a9ec-e9f16fe9623a</webElementGuid>
+      <webElementGuid>2759c9b6-281a-4b3c-9571-8c52c7e14e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div/div/div/div[7]/div[2]/div/textarea</value>
+      <webElementGuid>92e5983b-5410-43d0-ad26-72fe8c5570ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/textarea</value>
+      <webElementGuid>e3ed84ad-1ed4-4f5f-96be-e94c77e573aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'bantuan-lokasi' and @name = 'Bantuan[lokasi]']</value>
+      <webElementGuid>8bd3d5d0-47b1-4f16-bcc5-738a32dc12c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,13 +118,5 @@
       <type>Main</type>
       <value>//div[4]/div[2]/div/textarea</value>
       <webElementGuid>5ff38d11-3dad-4b6a-989c-47a588581ca2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//textarea[@id = 'bantuan-lokasi' and @name = 'Bantuan[lokasi]']</value>
-      <webElementGuid>49852932-91fa-4b22-b51a-257bc2b16f92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-nama</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>143411e7-5ff7-4c6b-9471-2dae2883226f</webElementGuid>
+      <webElementGuid>5fa219cf-5689-43bc-95a7-5f57ca0e26b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>606f74e7-4bc2-4b66-972a-d553e997695a</webElementGuid>
+      <webElementGuid>a889cc8f-5001-49ba-a65f-b39a441ed9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-nama</value>
-      <webElementGuid>9d037b1c-16e0-4437-b838-dcc590d222b3</webElementGuid>
+      <webElementGuid>d64497a8-02f6-459b-876a-c05cb0293f30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4058f1a6-6a3d-4f9d-a5af-51238590425a</webElementGuid>
+      <webElementGuid>7b032e28-6356-40f9-b9a2-8f21fa7060bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[nama]</value>
-      <webElementGuid>a8c9cd46-c80d-4aa2-95e8-b5daeabe9f3d</webElementGuid>
+      <webElementGuid>f8515aba-da2c-4f8f-afb1-b0dcea9a8b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>04561797-0a50-4342-b57b-d5f455451367</webElementGuid>
+      <webElementGuid>2f54c1d4-0c66-4455-8daf-66cae971c1d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-nama&quot;)</value>
-      <webElementGuid>eaa1e9c0-6ded-486d-b4e0-270a2a7dc63c</webElementGuid>
+      <webElementGuid>324832a8-3348-4a0a-ac52-2446fa314551</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lembaga-nama']</value>
-      <webElementGuid>6cb7067a-ad71-458b-a157-0dda35f9e6fc</webElementGuid>
+      <webElementGuid>c10391ec-d13a-460d-bd13-587cdabb0af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[3]/div[2]/div/input</value>
-      <webElementGuid>589d1b15-eaa0-405d-a2e2-1b281791eba0</webElementGuid>
+      <webElementGuid>dae4ce89-9faa-48ce-9e32-3fdeee9f9ee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/input</value>
-      <webElementGuid>f6ba4e87-8f52-491e-a2d1-dd590b24db61</webElementGuid>
+      <webElementGuid>4f7c06b8-c1e5-4092-9571-1609f88dc569</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'lembaga-nama' and @name = 'Lembaga[nama]']</value>
-      <webElementGuid>3681363f-a929-4b6e-94aa-79240b05c0c9</webElementGuid>
+      <webElementGuid>2416c10f-4555-42fd-9998-861fdc276807</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

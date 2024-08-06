@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-desa_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>fe6779aa-cd48-4138-8a54-37050ff3064e</webElementGuid>
+      <webElementGuid>d53d29d9-b93b-43c9-ad64-23442ae8aec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-desa_id</value>
-      <webElementGuid>289c96f8-4706-4af0-843a-797b2a185094</webElementGuid>
+      <webElementGuid>ca131070-a008-4fc8-8b41-2fb375a7d61e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>fd1dfdb2-cd0d-4305-9c34-3ce4845e5427</webElementGuid>
+      <webElementGuid>6e63ab65-49b3-4b25-9b0a-5850cfd640a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[desa_id]</value>
-      <webElementGuid>7d5b8398-2a36-4967-ab0a-b16b9fde34d6</webElementGuid>
+      <webElementGuid>6fc1ae15-4932-440a-93be-2cf267b5588e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Pilih Kelurahan/Desa --BANJAR DOWOCANDI MULYODAPUR KEJAMBONDENANYARJABONJELAKOMBOJOMBANGJOMBATANKALIWUNGUKEPANJENKEPATIHANMOJONGAPITPLANDIPLOSOGENENGPULO LORSAMBONG DUKUHSENGONSUMBERJOTAMBAK REJOTUNGGORONO</value>
-      <webElementGuid>332aa8b1-9afd-4afa-9ddc-234db3e4adb9</webElementGuid>
+      <webElementGuid>fc5ecc2c-1701-4cf4-9c44-a5d594e6f1a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-desa_id&quot;)</value>
-      <webElementGuid>77bcb3e7-8000-4862-9680-f6330ca63666</webElementGuid>
+      <webElementGuid>04a1635b-6e3a-4756-9047-da0c37951c90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-desa_id']</value>
-      <webElementGuid>85b5ef3d-7b1e-4a3f-9765-26638cb06215</webElementGuid>
+      <webElementGuid>316ada27-31fb-49a8-a709-7161dc5190fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[9]/div[2]/div/select</value>
-      <webElementGuid>18b89ee0-336a-4132-88c6-dd35e9fec8cd</webElementGuid>
+      <webElementGuid>fa753444-e3a9-4eb4-8e80-a62cc75e8a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa'])[1]/following::select[1]</value>
-      <webElementGuid>ba4ed568-a3ce-4e8a-a235-d5254e6b10c1</webElementGuid>
+      <webElementGuid>a3f7fdfc-309a-427d-8c7d-84930cc7fcb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/following::select[2]</value>
-      <webElementGuid>32020eeb-50fb-4ab4-b184-9af80b41ffe9</webElementGuid>
+      <webElementGuid>068902dd-b638-4274-8bdc-7e2f06719092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/preceding::select[1]</value>
-      <webElementGuid>dc2abfc8-b1ee-4f6a-8845-b653eff9f7de</webElementGuid>
+      <webElementGuid>ab0b937a-9fe5-4c4f-98ab-fc0db9168354</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Penanggung Jawab'])[1]/preceding::select[1]</value>
-      <webElementGuid>140fc81b-6fe4-4241-ba87-c79faed63f21</webElementGuid>
+      <webElementGuid>c212ce1c-b98c-45af-8da7-e5e6eb48b211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div/select</value>
-      <webElementGuid>14fe0bc7-b77b-42d0-89a7-6873dd006cf7</webElementGuid>
+      <webElementGuid>b509cbf3-1d77-4734-84ca-2d4d248a8635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'lembaga-desa_id' and @name = 'Lembaga[desa_id]' and (text() = '-- Pilih Kelurahan/Desa --BANJAR DOWOCANDI MULYODAPUR KEJAMBONDENANYARJABONJELAKOMBOJOMBANGJOMBATANKALIWUNGUKEPANJENKEPATIHANMOJONGAPITPLANDIPLOSOGENENGPULO LORSAMBONG DUKUHSENGONSUMBERJOTAMBAK REJOTUNGGORONO' or . = '-- Pilih Kelurahan/Desa --BANJAR DOWOCANDI MULYODAPUR KEJAMBONDENANYARJABONJELAKOMBOJOMBANGJOMBATANKALIWUNGUKEPANJENKEPATIHANMOJONGAPITPLANDIPLOSOGENENGPULO LORSAMBONG DUKUHSENGONSUMBERJOTAMBAK REJOTUNGGORONO')]</value>
-      <webElementGuid>cb241156-2adc-40d7-91e2-6477dd8d3c91</webElementGuid>
+      <webElementGuid>20feea6c-a00c-4ca0-ba90-6256735839b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

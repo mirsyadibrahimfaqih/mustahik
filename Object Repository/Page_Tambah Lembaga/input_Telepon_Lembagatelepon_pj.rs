@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-telepon_pj</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d5a65535-81b5-413d-8dd7-15a9de3cccf4</webElementGuid>
+      <webElementGuid>3ad33672-00e6-481c-9a2e-0a5b90df4450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e704c90f-cc9b-4f5d-ba0a-0371c7fd3eae</webElementGuid>
+      <webElementGuid>687df326-47e5-45e7-b404-fad2717dc32c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-telepon_pj</value>
-      <webElementGuid>3e829fc5-c7bd-4f97-8877-8d3714a6794e</webElementGuid>
+      <webElementGuid>8ea12a02-431c-44c1-a162-23d6dedd01a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>fa3cc994-c2ba-4ee2-a361-98b47990e5fb</webElementGuid>
+      <webElementGuid>65c48af5-4d7f-4fd6-bac7-0cafbdb83715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[telepon_pj]</value>
-      <webElementGuid>ad57d6f1-97ad-4297-80e6-3a282c0173c7</webElementGuid>
+      <webElementGuid>6de08607-807d-4ba1-920f-1bed5ec54bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>5af90f67-a72c-4a3c-807c-61f22276d334</webElementGuid>
+      <webElementGuid>95d800ea-6785-4f1d-a45c-9f402b871a7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-telepon_pj&quot;)</value>
-      <webElementGuid>4bfd883b-cf06-42ac-8cc4-14993cb9b5fa</webElementGuid>
+      <webElementGuid>3cd27b39-0b93-478b-a077-7d5b8141e344</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lembaga-telepon_pj']</value>
-      <webElementGuid>623c4d3a-878a-4bdc-870c-b566ee55d069</webElementGuid>
+      <webElementGuid>aba77bee-9ec9-4749-85a5-c3f0c078df7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div[2]/div[4]/div[2]/div/input</value>
-      <webElementGuid>afb8097e-36dc-493c-8b0e-c42ca4f3ef34</webElementGuid>
+      <webElementGuid>ade830ba-c645-4c09-965f-d1b40755d2ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/input</value>
-      <webElementGuid>ee4b1039-33d0-4fb6-b578-c0785160d021</webElementGuid>
+      <webElementGuid>6cab2424-8f06-4427-9e27-b7a5fe9a9a77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'lembaga-telepon_pj' and @name = 'Lembaga[telepon_pj]']</value>
-      <webElementGuid>5c0aabc3-e08f-4bd4-97d1-e4b566d1a323</webElementGuid>
+      <webElementGuid>9e9c3eb6-ee3b-457b-8960-7ca1bd27ef47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

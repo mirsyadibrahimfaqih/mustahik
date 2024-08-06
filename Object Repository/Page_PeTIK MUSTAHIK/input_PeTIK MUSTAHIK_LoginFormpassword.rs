@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7783950e-5cca-42f4-8b26-06221b1e262e</webElementGuid>
+      <webElementGuid>83c482d9-c45a-4654-8336-8f09e2c746b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>2a75d5d6-354c-4a89-bcba-536f5dfc8c1d</webElementGuid>
+      <webElementGuid>3a0609a0-b83d-469b-957f-680e4a05016c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>loginform-password</value>
-      <webElementGuid>80dd9447-730f-4d6d-b7c9-633b9ed63c55</webElementGuid>
+      <webElementGuid>92d1dd55-8b55-4bbc-969d-7f18dd04fd9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>10028f33-e792-4c85-8d35-c08d552f711e</webElementGuid>
+      <webElementGuid>08f4b90f-fde0-4462-942c-cc6a249bff82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>LoginForm[password]</value>
-      <webElementGuid>520bdabc-b88f-4277-9dd2-a5a171b45780</webElementGuid>
+      <webElementGuid>cc1dbdf1-2d65-40a0-afcf-9bf56cff1498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>181d2a95-4eca-4873-b79b-e91a594a6fe4</webElementGuid>
+      <webElementGuid>6afc1be2-dae8-4b3f-8c6e-7d479cc0c68f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e9c2fdd4-f8b2-4547-a67b-659fff358cd8</webElementGuid>
+      <webElementGuid>af9c35ed-f605-4b32-aa99-ce7e9b0506ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginform-password&quot;)</value>
-      <webElementGuid>1657fc38-6334-4ffc-a488-50c9510cb124</webElementGuid>
+      <webElementGuid>97ce5a78-2c7b-4daa-b028-e652410802c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='loginform-password']</value>
-      <webElementGuid>6b7e8167-f388-422f-a802-16c7c49e4df7</webElementGuid>
+      <webElementGuid>b8f069f0-5e17-4b52-8dfb-af371aa96458</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/div[2]/input</value>
-      <webElementGuid>df19eee9-fd10-47e6-843f-3d19b0a509cf</webElementGuid>
+      <webElementGuid>9c4e994f-8e3b-4777-857c-947515339ba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>7fe0165d-1cd8-4757-a3de-a243548c9fee</webElementGuid>
+      <webElementGuid>578cd4ea-6552-4e0c-bf12-3a6b1eb902f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'loginform-password' and @name = 'LoginForm[password]' and @placeholder = 'Password']</value>
-      <webElementGuid>e2be5af9-5f5e-47e7-83f2-12f8f4d03b82</webElementGuid>
+      <webElementGuid>58f777d4-0acc-4949-954f-1cc84eda6fe4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

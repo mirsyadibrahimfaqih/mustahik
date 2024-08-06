@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-kategori_penerima</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>0c6acf98-8b24-4d4b-ad49-a34284aabbbb</webElementGuid>
+      <webElementGuid>2625ee04-cf71-4ad6-b1c8-18fc26a66445</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-kategori_penerima</value>
-      <webElementGuid>2f8c0dc6-5498-4568-91b4-2bb16ff02ebc</webElementGuid>
+      <webElementGuid>999b7e8a-702c-495d-ac4c-480ecd8e4e18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ab42be85-43e5-4436-b7d0-99375f6ab294</webElementGuid>
+      <webElementGuid>cd93129b-d874-4e51-a3d6-f3c1afd7ac8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[kategori_penerima]</value>
-      <webElementGuid>a65f5dd2-aeeb-4969-917e-3daf3b0b419c</webElementGuid>
+      <webElementGuid>cbd15223-d6b2-4e19-a442-0c1db61c1391</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +65,7 @@
 PERORANGAN
 LEMBAGA
 </value>
-      <webElementGuid>4ee94fb1-0d9d-41aa-b507-399ddc9182f7</webElementGuid>
+      <webElementGuid>2faa5341-fd3b-4bc2-af51-47f542446b5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +73,7 @@ LEMBAGA
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-kategori_penerima&quot;)</value>
-      <webElementGuid>c9758a80-3b91-4bf7-a314-03e571a4f6b2</webElementGuid>
+      <webElementGuid>5f236355-91e7-4a89-bbad-2fd8cb773b2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,15 +81,15 @@ LEMBAGA
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='bantuan-kategori_penerima']</value>
-      <webElementGuid>76ff4a00-9a30-487c-8a54-8707d2a38a2c</webElementGuid>
+      <webElementGuid>be48ccc0-7977-4044-9076-9b47d610d096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='w0']/div[2]/div[2]/div/div/div/div[2]/div/select</value>
-      <webElementGuid>873aca7b-0341-4a1e-bcbf-de609080ae7e</webElementGuid>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div/div[2]/div/select</value>
+      <webElementGuid>84b7ebf3-5aab-4bf4-b519-a5f8255df77c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +97,7 @@ LEMBAGA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Kategori Pengaju'])[1]/following::select[1]</value>
-      <webElementGuid>7239448c-d332-4ba8-9d35-10f44ed0df26</webElementGuid>
+      <webElementGuid>39d25dae-2734-4bae-babc-e6ae4248d544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +105,7 @@ LEMBAGA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pengaju'])[1]/following::select[1]</value>
-      <webElementGuid>359fce9d-8199-40a8-bdda-f32dd9ee9f23</webElementGuid>
+      <webElementGuid>1491c934-1618-4507-86d8-a1f2c366a208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +113,7 @@ LEMBAGA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Pilih Lembaga'])[1]/preceding::select[1]</value>
-      <webElementGuid>3e191460-cad9-46fc-8a04-4c2a1d308783</webElementGuid>
+      <webElementGuid>0ca443c6-68e4-49ec-95f4-a13c2aae3d6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +121,7 @@ LEMBAGA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Kategori Lembaga'])[1]/preceding::select[2]</value>
-      <webElementGuid>278b81d8-d56a-4043-8855-d605562b4b5f</webElementGuid>
+      <webElementGuid>a1aeb9b2-61bf-4eae-809b-88bec24bba7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +129,7 @@ LEMBAGA
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/select</value>
-      <webElementGuid>cc0f1c1d-bd72-4794-985f-88969ecedd53</webElementGuid>
+      <webElementGuid>70afaa8b-9089-4ab3-a4dd-7a7fe9fe7c6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +145,14 @@ LEMBAGA
 PERORANGAN
 LEMBAGA
 ')]</value>
-      <webElementGuid>ef7807e9-ada9-49bf-9968-16b64a0834a5</webElementGuid>
+      <webElementGuid>e5260599-307c-4890-ac74-40f1a5799489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/div[2]/div/div/div/div[2]/div/select</value>
+      <webElementGuid>873aca7b-0341-4a1e-bcbf-de609080ae7e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

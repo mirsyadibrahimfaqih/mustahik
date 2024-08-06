@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-kategori</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>69f58bbb-68d3-48dd-a95d-f4a380e5422c</webElementGuid>
+      <webElementGuid>29e33478-1532-425a-96f7-bef04d177e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-kategori</value>
-      <webElementGuid>b67078b8-b077-4d94-938d-d379f51d185d</webElementGuid>
+      <webElementGuid>a8ec064e-210e-43db-b3f2-d011a51f8d6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>71cfa4e4-62fb-488d-91af-e17513c464d4</webElementGuid>
+      <webElementGuid>a739563a-10b9-430c-bfaa-a8af8aa56021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[kategori]</value>
-      <webElementGuid>c0e06ee2-e68a-4817-bd85-12bf74e0c71e</webElementGuid>
+      <webElementGuid>0923e6ae-61b4-423c-9b36-5f4206705d11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +65,7 @@ MITRA BINAAN
 MITRA EKSTERNAL
 NON MITRA
 </value>
-      <webElementGuid>381fda86-27db-4397-a1a1-8608e886f37b</webElementGuid>
+      <webElementGuid>27c11a69-86a7-4771-99c6-705c43d1e387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +73,7 @@ NON MITRA
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-kategori&quot;)</value>
-      <webElementGuid>ffd863e2-0484-47cd-8315-db78cc7e4f04</webElementGuid>
+      <webElementGuid>02e3825b-2f76-4b6a-81aa-11841e3ab143</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +81,7 @@ NON MITRA
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-kategori']</value>
-      <webElementGuid>426863b6-6acc-42b2-a366-995baa5412fd</webElementGuid>
+      <webElementGuid>14d25513-4220-4708-afa8-b9f4d75bd66f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +89,7 @@ NON MITRA
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[4]/div[2]/div/select</value>
-      <webElementGuid>88210603-407a-4751-bb0c-80cd351ea300</webElementGuid>
+      <webElementGuid>7534ff07-26da-416d-b2bd-3555c87c534d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +97,7 @@ NON MITRA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[1]</value>
-      <webElementGuid>a1f3bea5-abdb-4fd1-9b1b-800898d40c0f</webElementGuid>
+      <webElementGuid>7acf4a90-e800-4e56-8647-804b7ea72211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +105,7 @@ NON MITRA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lembaga'])[1]/following::select[1]</value>
-      <webElementGuid>9134b31c-f639-47af-b054-6834cd457deb</webElementGuid>
+      <webElementGuid>c408cd81-94aa-4f55-a14d-f5e5d0643e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +113,7 @@ NON MITRA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Legalitas'])[1]/preceding::select[1]</value>
-      <webElementGuid>dc3e3b61-92de-46b9-8fd2-d1e0f4c4dae0</webElementGuid>
+      <webElementGuid>a361350e-8271-425d-add4-92c08158e13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +121,7 @@ NON MITRA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lembaga'])[1]/preceding::select[2]</value>
-      <webElementGuid>ef56227d-d98e-493f-9e5d-7b7893699f01</webElementGuid>
+      <webElementGuid>9a6fcc0f-9c4b-417e-a87e-917315401d40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +129,7 @@ NON MITRA
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>557b5d18-a396-4974-8d6a-1bf40beb8006</webElementGuid>
+      <webElementGuid>eebec9db-abc7-4ef1-81ed-9b6126d0c226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +145,6 @@ MITRA BINAAN
 MITRA EKSTERNAL
 NON MITRA
 ')]</value>
-      <webElementGuid>f244725d-3d7a-4556-ac88-8dbbaecd5215</webElementGuid>
+      <webElementGuid>7f49e784-7160-4857-9bda-a9a36b8a0d96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

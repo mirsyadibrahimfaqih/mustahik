@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#toggle-sidebar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1a89c99d-0379-451c-bf6b-a313845d97a2</webElementGuid>
+      <webElementGuid>03341c6f-f184-4f31-ae6a-85b64008ab2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>toggle-sidebar</value>
-      <webElementGuid>17c2a4ab-2ee5-4c85-8a7b-e5f2fe4ea18b</webElementGuid>
+      <webElementGuid>30e138ca-2520-4300-b219-6934b63037a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>813404c3-0123-4a03-ada1-7a766f9d7227</webElementGuid>
+      <webElementGuid>f81459ea-6c8f-4e0d-a8d2-389f1638b384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>data-widget</name>
       <type>Main</type>
       <value>pushmenu</value>
-      <webElementGuid>c4a77ed4-75c6-4ead-a890-ff8091ea62e1</webElementGuid>
+      <webElementGuid>997b0a80-ab2d-4e2b-ba32-f7ad2fcd9c07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>10d8e39f-901f-4aa8-a831-5bb90769477f</webElementGuid>
+      <webElementGuid>c6d054a4-2049-4ef1-b9f4-9f47f0845974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8ccfc890-586a-4105-9cd0-534fd67310f4</webElementGuid>
+      <webElementGuid>431d2682-719c-47b3-8931-677cf229efde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;toggle-sidebar&quot;)</value>
-      <webElementGuid>e707e998-06c8-4d35-bc53-2992a5107838</webElementGuid>
+      <webElementGuid>c24143d9-2a3a-4748-a63c-6fac7d69f74a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='toggle-sidebar']</value>
-      <webElementGuid>51c75980-9650-4397-acc2-d21732ac971e</webElementGuid>
+      <webElementGuid>0dde29a0-bdd3-43c9-b5d2-3e71dec528b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>5ca2390d-7fa6-4733-b272-6ace288524ac</webElementGuid>
+      <webElementGuid>83e4d716-ad0e-4918-89c6-d096ae792337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>bb4c1359-5337-4c1a-87b3-0b09bd7a2e6a</webElementGuid>
+      <webElementGuid>2a5dc652-3962-4b57-a4a1-bb3c42c4c493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'toggle-sidebar' and @href = '#']</value>
-      <webElementGuid>bb779196-5a49-420c-a426-febe7fac975d</webElementGuid>
+      <webElementGuid>09d66769-7427-4e30-9cef-33748c5de444</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cari&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a7ac94b8-5bbe-4c35-a400-6ce52b399d0c</webElementGuid>
+      <webElementGuid>50c5d298-4314-443b-93df-e65f5a79df2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a0c70bf3-98f1-4a09-b32b-8a867c925974</webElementGuid>
+      <webElementGuid>d6b3aec4-da9c-4272-b48f-acfb2f94c5ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>f4d8377a-ec14-46ab-86b4-88d2aa1c7e1a</webElementGuid>
+      <webElementGuid>5c869734-0ed4-474f-9bf5-acc2c4c0012c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Cari</value>
-      <webElementGuid>eb492c09-e6d1-40db-9048-48e1d7f6ee66</webElementGuid>
+      <webElementGuid>a811c452-a2e2-4912-885d-5e4f9b4778c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/button[@class=&quot;btn btn-info&quot;]</value>
-      <webElementGuid>0fb091c2-d1e4-4a57-a2ee-f1992690e4f5</webElementGuid>
+      <webElementGuid>b6f10410-85d9-4fec-b278-9e42103f3a81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>3ef594d4-b20a-4091-b03d-d38cae100356</webElementGuid>
+      <webElementGuid>46afb69a-7587-459e-9d15-b01d2e560205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/button</value>
-      <webElementGuid>fd1f383e-2cb0-48fe-a577-a216f79330f1</webElementGuid>
+      <webElementGuid>4ce3dbc3-b128-4a59-987f-60ea045c1a72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilar'])[4]/following::button[1]</value>
-      <webElementGuid>b46b5cfc-c848-4bdd-a4b5-e78a1abfc0ea</webElementGuid>
+      <webElementGuid>20a9de6e-cae8-4151-aa89-679ea972ac4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[1]</value>
-      <webElementGuid>760f934c-10ad-4b31-bf25-a7a0c672cb40</webElementGuid>
+      <webElementGuid>415671c8-3ea5-4611-9d37-914ea87836e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilar'])[5]/preceding::button[1]</value>
-      <webElementGuid>2409c718-58a4-4e0f-b184-433789e0503c</webElementGuid>
+      <webElementGuid>76c42fd9-7100-4bf7-b8be-bf356cf54f21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cari']/parent::*</value>
-      <webElementGuid>fcad03ea-ad92-45c0-b0fa-5b1ecbd66821</webElementGuid>
+      <webElementGuid>4522639b-9b09-4b52-be11-db2fc182b9ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>2c221aef-c975-4aa2-8a49-ae797c77889b</webElementGuid>
+      <webElementGuid>52cdd198-7ed9-46fe-899c-38b0d0dbed5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Cari' or . = ' Cari')]</value>
-      <webElementGuid>ec0c849a-cea1-40c7-bdda-b80cad55d77d</webElementGuid>
+      <webElementGuid>30c907db-b2a5-4ba0-9536-1abce6dc975c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

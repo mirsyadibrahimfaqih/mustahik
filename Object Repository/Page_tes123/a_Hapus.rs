@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hapus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>05a53a9c-db78-44a3-ad19-354ec7ec9caa</webElementGuid>
+      <webElementGuid>f88cad0f-a038-4e23-b79e-fdb97963ab7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger mr-1</value>
-      <webElementGuid>9e990ba6-4790-4e85-9562-593ba06bd716</webElementGuid>
+      <webElementGuid>6e1dd9b0-94f1-4fed-a666-d5d8d70e2d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/backend/web/index.php?r=kategori%2Fdelete&amp;id=125</value>
-      <webElementGuid>cafc3295-54cc-4cd9-8162-4d856001786e</webElementGuid>
+      <value>/backend/web/index.php?r=kategori%2Fdelete&amp;id=133</value>
+      <webElementGuid>735e9ac3-08c5-46f4-88da-02c05a9f775c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return confirm(&quot;Yakin hapus program ini?&quot;);</value>
-      <webElementGuid>33303985-e91d-4a4d-8270-c542f1d6ff96</webElementGuid>
+      <webElementGuid>c4052e79-965d-4d9b-976f-f150f5b7f21f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Hapus</value>
-      <webElementGuid>267aef61-8b09-4138-a830-b6b79fdd7aa9</webElementGuid>
+      <webElementGuid>0518cc68-c3c0-4118-b14c-19cc1f28e97f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/header[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;filter-block pull-right float-right&quot;]/a[@class=&quot;btn btn-danger mr-1&quot;]</value>
-      <webElementGuid>6a455b0d-19fd-4166-934f-ff154ec4ccf3</webElementGuid>
+      <webElementGuid>3525bbda-e6de-4888-9da3-af369b528597</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='return confirm(&quot;Yakin hapus program ini?&quot;);']</value>
-      <webElementGuid>3e9f7c5e-1b83-4027-933a-2f9260f8722c</webElementGuid>
+      <webElementGuid>30f7ccfe-7d28-480c-8e6f-76b773a1dda6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Hapus')]</value>
-      <webElementGuid>149d2d1b-ef4d-4039-9f08-e5d52c947f11</webElementGuid>
+      <webElementGuid>0f63e1bd-ce0e-4d48-aed8-3538b1762489</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::a[1]</value>
-      <webElementGuid>98709ffd-f88e-4659-a3d6-8c7583cb635e</webElementGuid>
+      <webElementGuid>95c04981-89a0-4e6c-b3ff-59d2bcb42412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Sub Program'])[1]/following::a[2]</value>
-      <webElementGuid>5df28a16-2300-4f46-810d-a918f4d7d38e</webElementGuid>
+      <webElementGuid>e3abfc62-d09e-4e38-9192-ff5403106ccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
-      <webElementGuid>81162272-f73b-4fd7-8768-1b033f5a756b</webElementGuid>
+      <webElementGuid>33427a4a-01ea-4712-b7e9-d926eddf9faf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Sub Program'])[1]/preceding::a[1]</value>
-      <webElementGuid>507a5ef9-1da0-4751-8003-9dca4d6f94e2</webElementGuid>
+      <webElementGuid>cc778737-0b2d-4543-b741-d35821b7c5db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
-      <webElementGuid>4ded272d-8870-4c61-91c5-c242fe9d2672</webElementGuid>
+      <webElementGuid>2ab74f83-74fe-4245-9c95-16640b5d19b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fdelete&amp;id=133')]</value>
+      <webElementGuid>9fe3077e-d4d7-44a1-9586-cd702b4da1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>83632880-ae66-41fd-a619-c8b123bfe328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=kategori%2Fdelete&amp;id=133' and (text() = ' Hapus' or . = ' Hapus')]</value>
+      <webElementGuid>77655fb4-32e3-47ee-bd4b-6a0e45d797b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,14 +158,6 @@
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=kategori%2Fdelete&amp;id=125')]</value>
       <webElementGuid>273c97f7-312c-4995-b3b8-3d621873d934</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a[3]</value>
-      <webElementGuid>5472d3d4-85b8-4985-8fac-efda46fcc16a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

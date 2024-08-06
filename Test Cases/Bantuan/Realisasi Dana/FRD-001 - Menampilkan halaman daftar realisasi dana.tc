@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRD-001 - Menampilkan halaman daftar realisasi dana</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e81f8a92-26ec-4ce8-9364-9052faa7669e</testCaseGuid>
+</TestCaseEntity>

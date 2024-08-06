@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nama lembaga&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>85ac461a-a70e-42b4-98a3-4280b5b5cd54</webElementGuid>
+      <webElementGuid>0d0784de-21b6-4a4c-a2fa-235826f0f78f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>04b4159a-11bf-4683-933b-daa3d84f407b</webElementGuid>
+      <webElementGuid>a1acc96b-f310-4b4f-887b-c927f0181ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nama</value>
-      <webElementGuid>e95ad587-57fe-4a1a-ad4c-a68cb2bab351</webElementGuid>
+      <webElementGuid>ebeca3c3-1f77-45c2-a3f6-3c8fe43116a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>nama</value>
-      <webElementGuid>e5ab8ef6-b0c7-4dfb-8079-ca54a5dac3ec</webElementGuid>
+      <webElementGuid>58c5a71e-21ba-4fd2-8065-d1a59190c60b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>10d7fbb6-337d-4897-b7c5-7433b8c2d145</webElementGuid>
+      <webElementGuid>999a9bbe-065d-4d03-b514-680db78ee29e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nama lembaga</value>
-      <webElementGuid>9f4330db-5bfd-4190-a97b-1e5d563a7afe</webElementGuid>
+      <webElementGuid>1f75c43e-4ee4-4590-ac5c-9d730682d4a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nama&quot;)</value>
-      <webElementGuid>196c0278-597a-413d-9c2b-27dc2a2b2222</webElementGuid>
+      <webElementGuid>96d46994-80bd-465e-9618-4dab41f1eb78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='nama']</value>
-      <webElementGuid>9ba20da4-aabc-4823-9690-330b8bffa387</webElementGuid>
+      <webElementGuid>5cc90de8-48a8-4fa8-abcf-dc1e29f28059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div/div/dl/dd/input</value>
-      <webElementGuid>03465097-4592-4fa2-a5d9-d8370f043a17</webElementGuid>
+      <webElementGuid>bc596801-9274-437b-94db-de62eeb3fb40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//dd/input</value>
-      <webElementGuid>673c2e20-2a69-43e8-9b3d-235fea67aeb5</webElementGuid>
+      <webElementGuid>7ae0f8ef-827a-47f3-a75b-eaed7c0c5f5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'nama' and @name = 'nama' and @placeholder = 'Nama lembaga']</value>
-      <webElementGuid>7880e939-616f-4146-8e8f-12023ae4a05c</webElementGuid>
+      <webElementGuid>048cf573-3445-42e4-8162-ae9f0cc6549c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

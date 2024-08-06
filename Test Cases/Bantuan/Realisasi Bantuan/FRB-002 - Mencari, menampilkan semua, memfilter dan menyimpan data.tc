@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-002 - Mencari, menampilkan semua, memfilter dan menyimpan data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a982a3f7-92fe-4d98-81ef-6b8a0a960686</testCaseGuid>
+</TestCaseEntity>

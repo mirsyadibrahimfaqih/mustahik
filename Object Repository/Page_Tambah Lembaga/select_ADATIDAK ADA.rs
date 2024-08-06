@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-legalitas</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5768c59d-d5d3-4cb3-980a-77d465825dd0</webElementGuid>
+      <webElementGuid>dd642008-dbf7-4ea9-b140-7564bb76b837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-legalitas</value>
-      <webElementGuid>918439dc-112e-48c8-8497-1ed656d2c6d6</webElementGuid>
+      <webElementGuid>555dc57f-0dbe-4115-8afd-51a11e324ed1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>02a4faf4-e48c-4d4a-b3ac-d978ecc6ee46</webElementGuid>
+      <webElementGuid>a3fa57df-6fd9-4055-9542-3a58992bf53a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[legalitas]</value>
-      <webElementGuid>53f11e7b-03a5-4f6f-aed4-d893785e17fc</webElementGuid>
+      <webElementGuid>0c75e754-acfa-49fe-b24d-6ceb05d3cfa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +64,7 @@
 ADA
 TIDAK ADA
 </value>
-      <webElementGuid>6d72d9b4-4f78-4a9e-8362-87c1deec2633</webElementGuid>
+      <webElementGuid>f55591c3-efdd-4f97-a248-04a63c122fd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +72,7 @@ TIDAK ADA
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-legalitas&quot;)</value>
-      <webElementGuid>3468991b-b06b-4b8b-a348-45808331bc8a</webElementGuid>
+      <webElementGuid>89a977ac-b767-4daf-a42e-4c8780787d9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +80,7 @@ TIDAK ADA
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-legalitas']</value>
-      <webElementGuid>957eba2c-1d39-4915-9c12-8a52484e8b90</webElementGuid>
+      <webElementGuid>4e343a02-7ec8-4737-ba75-8f293e7ef9e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +88,7 @@ TIDAK ADA
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[5]/div[2]/div/select</value>
-      <webElementGuid>8215d44e-715e-42b6-ab75-82e5319b2878</webElementGuid>
+      <webElementGuid>8ee3f302-8c57-435d-b92e-bd0ea5856254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +96,7 @@ TIDAK ADA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Legalitas'])[1]/following::select[1]</value>
-      <webElementGuid>956bb023-a751-445f-b8aa-fdd0581befe1</webElementGuid>
+      <webElementGuid>f9cbf4ce-0f1c-4e6c-a35d-ad7aae20307a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +104,7 @@ TIDAK ADA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[2]</value>
-      <webElementGuid>ae29592b-777a-4a4c-83c8-6eaf26c474d3</webElementGuid>
+      <webElementGuid>d3ef0676-4eef-4978-8c38-1a710b387997</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +112,7 @@ TIDAK ADA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lembaga'])[1]/preceding::select[1]</value>
-      <webElementGuid>184b8324-edd0-47aa-916c-3ca02263d9bc</webElementGuid>
+      <webElementGuid>618b199a-cbcd-410b-acd0-0fa6a6b90d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +120,7 @@ TIDAK ADA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/preceding::select[1]</value>
-      <webElementGuid>730f7abd-be10-42bf-a194-7002a5f20a75</webElementGuid>
+      <webElementGuid>749baa3a-f757-4c6d-b188-d14bff5af87f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +128,7 @@ TIDAK ADA
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/select</value>
-      <webElementGuid>fbc5ee49-5d23-4dca-bd44-d693a54e436e</webElementGuid>
+      <webElementGuid>adfd5b72-9931-4015-80e7-3da47b8b9576</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +142,6 @@ TIDAK ADA
 ADA
 TIDAK ADA
 ')]</value>
-      <webElementGuid>ce49ae4e-6634-4ad1-a439-bbf96948ef88</webElementGuid>
+      <webElementGuid>3af9e0da-aa06-466a-a128-1fd8f31cf9ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

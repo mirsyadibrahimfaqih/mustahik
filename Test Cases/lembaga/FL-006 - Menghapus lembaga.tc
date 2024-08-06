@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FL-006 - Menghapus lembaga</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1e89dd4-78c7-4554-bffd-75d751113124</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-007 - Melakukan pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93cd97a1-0c42-4877-8bcf-4da9faefb672</testCaseGuid>
+</TestCaseEntity>

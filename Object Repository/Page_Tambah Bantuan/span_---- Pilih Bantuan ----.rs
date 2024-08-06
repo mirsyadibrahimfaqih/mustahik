@@ -7,14 +7,21 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='judul']/div/span/span/span</value>
+         <value>//span[@id='select2-bantuan-judul-container']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.select2-selection.select2-selection--single</value>
+         <value>#select2-bantuan-judul-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#select2-bantuan-judul-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>64ef8c90-a9b0-41ef-83b8-7d4f8616e959</webElementGuid>
+      <webElementGuid>c8d9ac9d-6ac2-4cca-92f1-de7291b5ca65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection select2-selection--single</value>
-      <webElementGuid>5f470c5c-6be3-4bc6-a54b-d17e61e1cf8c</webElementGuid>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>6728a251-eb2e-433a-bf42-6636b99107f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>combobox</value>
-      <webElementGuid>b586cda2-ff22-428e-9432-9332f30581c8</webElementGuid>
+      <value>textbox</value>
+      <webElementGuid>b05d898e-d65f-42ce-ad64-c4d53065c441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,18 +109,82 @@
       <name>text</name>
       <type>Main</type>
       <value>---- Pilih Bantuan ----</value>
-      <webElementGuid>cf7800e4-7ad3-4630-b308-f05ccca26c78</webElementGuid>
+      <webElementGuid>a7ee3c80-5d1c-4ba4-a674-bcd3fa892dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;judul&quot;)/div[@class=&quot;form-group field-bantuan-judul&quot;]/span[@class=&quot;select2 select2-container select2-container--krajee-bs3 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
-      <webElementGuid>6d3c3871-0f25-43df-b7cb-4b229c79f0c2</webElementGuid>
+      <value>id(&quot;select2-bantuan-judul-container&quot;)</value>
+      <webElementGuid>44343ff1-2f4c-4854-b75d-65df467347c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-bantuan-judul-container</value>
+      <webElementGuid>ab960b62-bbd9-4204-9567-beaf0dc4bfc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ebb4c77c-01f9-430f-8cd3-d12fbc553e18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-bantuan-judul-container']</value>
+      <webElementGuid>690f12e4-7fb7-474d-80a8-4f9aa8732b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='judul']/div/span/span/span/span</value>
+      <webElementGuid>0c1d4f9f-3654-4035-859d-6e24fe9f4aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Bantuan'])[1]/following::span[4]</value>
+      <webElementGuid>fd1025fe-11f0-43ab-bbd3-414e87f15217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::span[4]</value>
+      <webElementGuid>166a7636-ed86-4d0c-81e9-8043bfeb8111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>c8394001-628e-4424-8897-64c7a6ad830c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-bantuan-judul-container' and (text() = '---- Pilih Bantuan ----' or . = '---- Pilih Bantuan ----')]</value>
+      <webElementGuid>369f3c6d-83b4-4b2e-8635-d5163ad54a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

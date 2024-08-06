@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-009 - Menghapus data mustahik</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75741698-9457-447d-becf-0a052a8e6004</testCaseGuid>
+</TestCaseEntity>

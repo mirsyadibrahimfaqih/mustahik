@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sidebar-overlay</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2e3f3b6a-eb7a-44e1-83d5-165b8f2a3095</webElementGuid>
+      <webElementGuid>1253aded-d7ec-43ab-91e8-bca1d159bf1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sidebar-overlay</value>
-      <webElementGuid>f16cedc4-8642-4e83-b47e-afcd90e6596e</webElementGuid>
+      <webElementGuid>504d2480-4c01-4ea1-a1a2-c50c04a34b76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-overlay&quot;)</value>
-      <webElementGuid>70d6bef2-35cf-4c4c-b58a-27e4468b9915</webElementGuid>
+      <webElementGuid>b1d25b7a-1406-4d7e-a19e-15b218f837b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +53,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='sidebar-overlay']</value>
-      <webElementGuid>0565339b-2d20-4f6a-9f15-ff74bc650a67</webElementGuid>
+      <webElementGuid>38c8d716-1db0-4fbd-9c03-8ebd3094eacd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>64e77bb3-1950-4d8d-aab0-e31ad5493f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'sidebar-overlay']</value>
+      <webElementGuid>ad601f80-c91b-4ab6-ad29-7abfd72da0cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,13 +78,5 @@
       <type>Main</type>
       <value>//div/div[2]</value>
       <webElementGuid>478d9133-f29e-4706-a78a-8a898f89b6b3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[@id = 'sidebar-overlay']</value>
-      <webElementGuid>82c4dbc9-309c-403e-bcf1-c651e3fc57f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

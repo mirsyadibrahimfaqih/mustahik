@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FHH-001 - Menampilkan halaman home</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2994b34-edc0-495b-86f4-2201c1c1dc47</testCaseGuid>
+</TestCaseEntity>

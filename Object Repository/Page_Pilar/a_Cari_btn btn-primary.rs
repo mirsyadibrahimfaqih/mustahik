@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:has-text=&quot;Pilar HOME Pilar Pencarian: Cari #PilarOlehProgramJumlah PenyaluranAction 1Sosia&quot;i >> internal:role=link >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fd247b3d-00a0-4e70-a6bf-bf217c93c08e</webElementGuid>
+      <webElementGuid>801e900b-0e7d-4410-b40a-34212408497f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>ee5ff059-f83f-4e30-84fd-906be4a73503</webElementGuid>
+      <webElementGuid>b109a1bc-5e13-452b-8aae-eded238d171b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=kategori%2Findex</value>
-      <webElementGuid>0b89491b-a28b-4098-a892-6825544d72ec</webElementGuid>
+      <webElementGuid>7c357283-3c68-4c29-8228-14944e4a3d29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-closed sidebar-collapse&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card-tools float-right&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>86b0aa09-9ed1-4adb-ab15-feefe5d1bcfd</webElementGuid>
+      <webElementGuid>bfb97648-b3f1-42fc-ab45-66c870bdd5d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::a[1]</value>
-      <webElementGuid>243fbb38-f184-4173-99b9-e93abf30c767</webElementGuid>
+      <webElementGuid>29368dc2-b977-42be-95db-a3c1073e8d34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
-      <webElementGuid>b9304ef9-96c0-4035-a1bf-077ace37b1dd</webElementGuid>
+      <webElementGuid>f6ba1b63-b27e-4782-9a1f-d283e36b175b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilar'])[5]/preceding::a[1]</value>
-      <webElementGuid>9db53845-b344-4169-aadb-7795f761be02</webElementGuid>
+      <webElementGuid>be79d28f-87a7-4a08-ac51-cb2bfc3d5442</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/backend/web/index.php?r=kategori%2Findex')])[2]</value>
-      <webElementGuid>9f66c19d-a34e-4bf5-ae0c-fb65bc6235b2</webElementGuid>
+      <webElementGuid>e63ed601-cba1-4912-af67-c07d25629621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>6d66c7a1-85b8-400d-bd98-684ece363fd7</webElementGuid>
+      <webElementGuid>3e2d7514-3397-4078-b5bc-b4f8acdb468a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=kategori%2Findex']</value>
-      <webElementGuid>b6637003-9c41-4d0c-aaf9-837a832d56f0</webElementGuid>
+      <webElementGuid>206359d7-1689-45c1-9971-53f3a9ea98fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

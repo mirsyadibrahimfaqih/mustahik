@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Load dari Template&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ee3cdbfd-251f-433c-a92c-eab9ff8801f0</webElementGuid>
+      <webElementGuid>353175b7-98cd-48b3-af31-d9cdf51838b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>28bd842f-ea06-465b-b1c1-e8b9bacc5714</webElementGuid>
+      <webElementGuid>797160c6-7562-4722-a9ad-294dabcb566b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=bantuan%2Fload-template</value>
-      <webElementGuid>4b2865fc-aff3-4c95-8a68-7a2571b2135a</webElementGuid>
+      <webElementGuid>9318a45f-dcd0-484a-b064-f8713b3a6ce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Load dari Template</value>
-      <webElementGuid>24ede522-f7bf-43ed-9983-d60f6ec3bbba</webElementGuid>
+      <webElementGuid>b4682e55-c8e0-4d37-bc40-4024bccc69fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 d-flex justify-content-end&quot;]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>f622ecd5-d026-4f85-b902-881c335b1105</webElementGuid>
+      <webElementGuid>a4d5a684-c098-4432-b967-3c1078c4c966</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[2]/div/div/div[2]/div/a[2]</value>
-      <webElementGuid>73183c5f-b3db-4d0e-8c64-4f0b51eb6c78</webElementGuid>
+      <webElementGuid>63b2697f-3024-4c01-82a2-d50e7834a0d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Load dari Template')]</value>
-      <webElementGuid>c0dbc9f6-7850-4426-a90a-c83336a1bcb7</webElementGuid>
+      <webElementGuid>40d35d59-e8d8-482d-9e7c-27b871ae3f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::a[1]</value>
-      <webElementGuid>db9de5c2-78b6-4bb4-93ab-552bb8363073</webElementGuid>
+      <webElementGuid>e7692c5d-a41f-4bbf-b6cb-77d6467d02f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SUBMITTED'])[1]/following::a[2]</value>
-      <webElementGuid>7d8e2fcd-13c2-4dc3-824e-b15de32a7fe5</webElementGuid>
+      <webElementGuid>9f233fbd-14b5-4b8a-93e6-1377afd579ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Pengajuan'])[1]/preceding::a[1]</value>
-      <webElementGuid>a88c959f-3a78-4a22-a43b-1201f79d5c8c</webElementGuid>
+      <webElementGuid>15043192-6027-42de-93f9-0d4bf8c0a5d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Mustahik'])[2]/preceding::a[1]</value>
-      <webElementGuid>3a7bea65-3d98-41e1-b25a-6b873a868ce3</webElementGuid>
+      <webElementGuid>f4c6cad5-8d8c-48ad-b5b9-021d08e09d0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Load dari Template']/parent::*</value>
-      <webElementGuid>27340f48-17de-4270-bcc1-cd1307e33624</webElementGuid>
+      <webElementGuid>92dbc43f-d42c-498c-aa8d-b201ee3ed700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=bantuan%2Fload-template')]</value>
-      <webElementGuid>d6d8c251-8f05-49fd-9c2f-33c28cf56e5b</webElementGuid>
+      <webElementGuid>d7e0640b-a12f-4a0b-a49b-17028a31938a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>82f270ab-a3a2-4e7e-8466-651e21a2a7f5</webElementGuid>
+      <webElementGuid>48f4f641-6f99-4ca0-b07f-9c5ca0706a02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=bantuan%2Fload-template' and (text() = ' Load dari Template' or . = ' Load dari Template')]</value>
-      <webElementGuid>aa69a960-1950-44af-bc79-24ee2a67abe0</webElementGuid>
+      <webElementGuid>bb68235e-19b4-40ca-9aa9-da499f361983</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

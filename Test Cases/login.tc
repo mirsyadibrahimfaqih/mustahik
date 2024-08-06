@@ -4,5 +4,41 @@
    <name>login</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>2adab977-0e76-461f-b5ec-0d6216399460</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c51beff2-da6b-4915-a16e-05bb0b970935</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/CSV data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c51beff2-da6b-4915-a16e-05bb0b970935</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>271dcb26-1b29-421d-9f5d-7e87edcbb187</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c51beff2-da6b-4915-a16e-05bb0b970935</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>2986c504-821b-4923-bd5e-a81de4403e79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>271dcb26-1b29-421d-9f5d-7e87edcbb187</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2986c504-821b-4923-bd5e-a81de4403e79</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>

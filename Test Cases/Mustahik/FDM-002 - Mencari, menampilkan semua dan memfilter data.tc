@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-002 - Mencari, menampilkan semua dan memfilter data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>881a3c35-20fb-4744-8d15-df5b57c6e649</testCaseGuid>
+</TestCaseEntity>

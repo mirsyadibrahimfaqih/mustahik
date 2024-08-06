@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-judul</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>efb4eddd-8c28-4637-a6e8-234b83ae3e76</webElementGuid>
+      <webElementGuid>82e5dded-623b-4659-ba48-6bd5e63994da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0e88060c-33a0-42f4-a1de-354877f1315e</webElementGuid>
+      <webElementGuid>181badfd-f06b-4399-b175-b239eff56716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-judul</value>
-      <webElementGuid>45f24c0b-bfee-4b4e-af46-739f63e4f707</webElementGuid>
+      <webElementGuid>2146ef63-66ed-4d1a-9ea6-3eb5307f7908</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d5ddffa9-3ea0-4b6c-a53a-46e95f6a069b</webElementGuid>
+      <webElementGuid>f4e6a94d-8a31-4919-b624-9ba991f923ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[judul]</value>
-      <webElementGuid>fa59db31-0190-4c49-ba5c-908e394deb4d</webElementGuid>
+      <webElementGuid>7a5b48e3-0eb7-4f31-a048-9d9408a45105</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-judul&quot;)</value>
-      <webElementGuid>7e666f8f-ad78-43af-93a9-71c2be581335</webElementGuid>
+      <webElementGuid>98584f49-265a-4182-a9cd-ab243375bb40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-judul']</value>
-      <webElementGuid>86df97ae-71aa-487f-8892-55c0e0de082a</webElementGuid>
+      <webElementGuid>8816a9b8-9758-463a-8b75-8c2ba3c6517b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div/div/div/div[4]/div[2]/div/input</value>
+      <webElementGuid>92de8b06-c19a-4124-9ca4-8fe4acbd1967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>b7dfda8e-0d77-4dbb-9d76-6d0adee7ca9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-judul' and @name = 'Bantuan[judul]']</value>
+      <webElementGuid>9c3a21ed-9cdb-44d4-bb20-06814bff26e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,13 +118,5 @@
       <type>Main</type>
       <value>//div/input</value>
       <webElementGuid>4364e132-d469-4aef-9765-34dde7881fb9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-judul' and @name = 'Bantuan[judul]']</value>
-      <webElementGuid>2cc38008-d175-49c6-b371-4ccda2e7f19b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

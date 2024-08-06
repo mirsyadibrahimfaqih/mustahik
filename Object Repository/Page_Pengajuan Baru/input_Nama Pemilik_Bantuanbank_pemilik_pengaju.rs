@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bantuan-bank_pemilik_pengaju</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ef53acd-5cf9-4cd7-992a-9b1de362aea3</webElementGuid>
+      <webElementGuid>89640f95-f0c6-4c6a-9cfa-17375ca87319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>af10567d-40ba-42b1-8b09-3ffd2dd16e0c</webElementGuid>
+      <webElementGuid>5b9fbbd6-9231-42c9-9d3f-7738ccf7910f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bantuan-bank_pemilik_pengaju</value>
-      <webElementGuid>d2322f37-d6bd-42bb-a825-725f0ccdee27</webElementGuid>
+      <webElementGuid>2c74a15e-0308-40e1-b5ad-03ea75dc9f6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d8e41c14-ab1f-4817-b684-c90007cb9821</webElementGuid>
+      <webElementGuid>1dc50bb0-2f11-4c5a-b0aa-13e09d3d47a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Bantuan[bank_pemilik_pengaju]</value>
-      <webElementGuid>0f583174-fe3a-4215-8800-58aab8499ab6</webElementGuid>
+      <webElementGuid>ae6def45-1f87-4a3a-a9b8-62e9a73fb0d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>56cf38ee-1753-49d9-90a7-0fdddd256c45</webElementGuid>
+      <webElementGuid>7d593c19-43de-4f01-9e39-23e449da22e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bantuan-bank_pemilik_pengaju&quot;)</value>
-      <webElementGuid>a9c33642-4cd0-4392-aa05-02ef5a3a27c8</webElementGuid>
+      <webElementGuid>d6f16be2-1f29-40a0-bb58-816aa00dbf67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bantuan-bank_pemilik_pengaju']</value>
-      <webElementGuid>96184c68-0e3f-4362-a7b8-455fe0eb5e0d</webElementGuid>
+      <webElementGuid>261ba465-1440-4894-8c60-9486bc007f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div[2]/div/div/div[5]/div[2]/div/input</value>
+      <webElementGuid>fafee39c-64ef-41e9-9283-3571b76fb6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/input</value>
+      <webElementGuid>5560cb57-b244-4f56-b1f3-c68269ef2645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'bantuan-bank_pemilik_pengaju' and @name = 'Bantuan[bank_pemilik_pengaju]']</value>
+      <webElementGuid>9612ec8e-df2b-498b-af6f-6f50da167a85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,13 +126,5 @@
       <type>Main</type>
       <value>//div[2]/div/div/div[5]/div[2]/div/input</value>
       <webElementGuid>83dc1c5a-2a3c-4695-a653-a56db4d3629d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'bantuan-bank_pemilik_pengaju' and @name = 'Bantuan[bank_pemilik_pengaju]']</value>
-      <webElementGuid>abe81aaf-b3cb-4bc5-84ba-97b5f32ea3d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

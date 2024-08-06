@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Nominal Maksimal&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5c4c5996-7894-48d2-a3db-f16dda6d15f8</webElementGuid>
+      <webElementGuid>90a4bba8-01c9-4a2a-ae4e-aba700aeed54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>d1e7ac71-6458-4413-86b4-560072ee7b9f</webElementGuid>
+      <webElementGuid>8ede8669-01a2-4fec-b40f-5e19afb83b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>unitapproval-nominal_maksimal</value>
-      <webElementGuid>eb6a561f-4426-479c-abe4-bb1c87b7b3a7</webElementGuid>
+      <webElementGuid>63e5962c-74f9-47bf-8476-6c6d3449478d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>87bc0a14-e17f-4836-8403-fe4a4ab247d2</webElementGuid>
+      <webElementGuid>db7eef06-b170-411c-b544-a3434db83361</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>UnitApproval[nominal_maksimal]</value>
-      <webElementGuid>f1450aca-f957-4d09-bba7-4638abf64120</webElementGuid>
+      <webElementGuid>ca99ecc9-946e-4360-8416-76d42370817e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>5000000</value>
-      <webElementGuid>2cdd996a-e0a6-4139-b795-8f84cca050c1</webElementGuid>
+      <webElementGuid>9afd1f19-6b8f-4576-a940-4caa3f806a30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;unitapproval-nominal_maksimal&quot;)</value>
-      <webElementGuid>87958c08-7e31-46b1-8da0-93a9b47edaa6</webElementGuid>
+      <webElementGuid>46e549ce-1053-4839-ae0e-9e373f131a29</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='unitapproval-nominal_maksimal']</value>
-      <webElementGuid>f8c20557-5223-40d0-bad2-4f45ea137514</webElementGuid>
+      <webElementGuid>678b0c37-5c52-4968-a7c8-4d6afa07e742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div[4]/input</value>
-      <webElementGuid>120e73e0-ec2c-4684-b4f0-a49a5f5edbf1</webElementGuid>
+      <webElementGuid>431f10f1-2a33-4bf1-921a-e2ea19f56e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>07c05eda-2107-4a4b-8e03-268d8ff01e42</webElementGuid>
+      <webElementGuid>fdcff3ce-0aea-45f5-9b79-cc653eb644cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @id = 'unitapproval-nominal_maksimal' and @name = 'UnitApproval[nominal_maksimal]']</value>
-      <webElementGuid>c0c6091a-c697-40a7-8b7b-c23ff5f79af2</webElementGuid>
+      <webElementGuid>e160d113-b939-4a5d-8bc8-a05506663abf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

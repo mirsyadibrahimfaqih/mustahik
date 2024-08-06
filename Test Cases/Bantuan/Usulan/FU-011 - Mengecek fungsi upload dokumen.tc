@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-011 - Mengecek fungsi upload dokumen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd9bf95e-3839-4c07-8685-db06f7b5b486</testCaseGuid>
+</TestCaseEntity>

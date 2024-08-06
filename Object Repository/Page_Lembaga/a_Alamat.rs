@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Alamat&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>131e41b9-4ee1-4f55-9fd2-03655094d214</webElementGuid>
+      <webElementGuid>018f9469-6689-47d3-ba4e-668c6be1a60d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=lembaga%2Findex&amp;sort=alamat</value>
-      <webElementGuid>6fa0f526-d2fa-44fe-b6fc-71699a6c4ab6</webElementGuid>
+      <webElementGuid>7938196f-62c7-4ba6-866d-d6aaff4f2ad0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>data-sort</name>
       <type>Main</type>
       <value>alamat</value>
-      <webElementGuid>6a9802ae-5ab3-4ab8-a304-3437a48d0917</webElementGuid>
+      <webElementGuid>85c38deb-14e7-4e1c-ab90-a36c4408f6c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Alamat</value>
-      <webElementGuid>81d4bd0e-9d14-430a-b04a-20fcb8f23a7e</webElementGuid>
+      <webElementGuid>5a042907-82ac-4e04-af56-f8aefb1be3d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;data&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/thead[1]/tr[1]/th[4]/a[1]</value>
-      <webElementGuid>a2105313-83f7-4769-8752-2f09083e17af</webElementGuid>
+      <webElementGuid>e365dcc5-f4fb-494a-a819-78d15e7ab27c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='data']/table/thead/tr/th[4]/a</value>
-      <webElementGuid>61acd060-4ca7-4a8b-b98e-8c2352277939</webElementGuid>
+      <webElementGuid>808a40ef-d9f1-4b88-86f3-e59ca20123a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Alamat')]</value>
-      <webElementGuid>8e62eacf-75f2-420e-906b-9c8a8ddbc4ee</webElementGuid>
+      <webElementGuid>013ae71f-b613-42eb-94b8-6936ccc871ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>f547ab48-fa85-427c-b612-ecabce99812b</webElementGuid>
+      <webElementGuid>3c35c852-7c88-44dd-9c7e-95aed2b854a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lembaga'])[1]/following::a[2]</value>
-      <webElementGuid>5f8f3003-124d-4e9c-8129-5949ce14e0ef</webElementGuid>
+      <webElementGuid>1e8d507b-444d-43cd-ace6-0deaa9a24d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[2]/preceding::a[1]</value>
-      <webElementGuid>90d2d7a5-924b-49fe-8117-502af5833ae8</webElementGuid>
+      <webElementGuid>9c6912be-2b4d-4633-b83a-f27e721dc753</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[2]/preceding::a[1]</value>
-      <webElementGuid>04ddc274-dd43-484f-ba5f-4f6df9c160d1</webElementGuid>
+      <webElementGuid>7a40027f-3a82-42f6-a3d2-15a8b80ee47c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/backend/web/index.php?r=lembaga%2Findex&amp;sort=alamat')]</value>
-      <webElementGuid>5660918c-4248-4445-beb7-cd4992739e09</webElementGuid>
+      <webElementGuid>4752f3be-0c76-4798-b49f-3c0dcff965b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/a</value>
-      <webElementGuid>40cd4b3b-0d55-4eb4-a2ee-35a98eda2923</webElementGuid>
+      <webElementGuid>19f09d04-0364-4024-b347-e97b82447de6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=lembaga%2Findex&amp;sort=alamat' and (text() = 'Alamat' or . = 'Alamat')]</value>
-      <webElementGuid>97e877e5-e54c-4fda-8bc1-5d15e4e225ef</webElementGuid>
+      <webElementGuid>c0b96f3e-2f0c-4b5b-b7e6-5dd651e56e80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

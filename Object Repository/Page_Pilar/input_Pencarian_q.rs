@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nama pilar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fad9b596-d5ea-484a-9526-361fe098a443</webElementGuid>
+      <webElementGuid>490525be-0ca3-47d3-a48e-104d4143d91d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>64f77db8-be54-4539-8267-02b6b5a73e93</webElementGuid>
+      <webElementGuid>d25a8955-a4cb-4fdb-b275-780d7d32ee63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>4ba78e85-e4da-43e0-90f2-694b0732fd76</webElementGuid>
+      <webElementGuid>f1c25349-34a9-43dc-a128-84a170b0ad1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>ed8b4791-8fbe-4890-94f5-8607712618bd</webElementGuid>
+      <webElementGuid>264d26cf-0d52-471e-90ae-4e358eef790f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>901b7e6a-db31-4904-a498-731b72e227cd</webElementGuid>
+      <webElementGuid>f48464ff-2592-4edf-af82-2210a9584b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nama pilar</value>
-      <webElementGuid>200f0f8b-90f1-4286-9264-11ed22b1165c</webElementGuid>
+      <webElementGuid>c645878c-1896-4756-b629-a91636db2218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;q&quot;)</value>
-      <webElementGuid>ae65d439-a117-455b-ad37-2dc10d37140c</webElementGuid>
+      <webElementGuid>c57d8685-f300-40d6-b216-85dcad70b106</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='q']</value>
-      <webElementGuid>9216ad01-acfb-475a-8441-89e6df60569f</webElementGuid>
+      <webElementGuid>361558c5-1a53-4e8b-9346-ff10fb596a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/input</value>
-      <webElementGuid>4788c3b0-87c9-4a3a-af9d-d8271c0b5891</webElementGuid>
+      <webElementGuid>97259413-315a-4834-b9d9-632bd88a0abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>5d08cf82-fc9d-4d01-8991-ce2566536acd</webElementGuid>
+      <webElementGuid>eeede735-8532-4e40-be3c-159e205f6f16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'q' and @name = 'q' and @placeholder = 'Nama pilar']</value>
-      <webElementGuid>44704ae7-42b9-4db2-bcdc-62f04565337b</webElementGuid>
+      <webElementGuid>e4d0b572-cf59-4a05-a148-77cace565834</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

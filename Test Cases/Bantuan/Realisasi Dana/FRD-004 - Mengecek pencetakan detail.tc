@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRD-004 - Mengecek pencetakan detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44107c07-2338-45ea-9639-307a7f9346db</testCaseGuid>
+</TestCaseEntity>

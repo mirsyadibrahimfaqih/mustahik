@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-010 - Menampilkan halaman riwayat bantuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b81227f-52d3-41b4-8bf9-a16e608ddfde</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-002 - Mencari, menampilkan semua, memfilter dan menyimpan data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1722b660-780f-4fc7-bcb8-ad58bd4e5f3e</testCaseGuid>
+</TestCaseEntity>

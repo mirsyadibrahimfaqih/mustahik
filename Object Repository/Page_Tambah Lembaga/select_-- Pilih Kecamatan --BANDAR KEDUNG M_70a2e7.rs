@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-kecamatan_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2f60d8c8-8927-40fd-8f74-4f2f70eb6b6a</webElementGuid>
+      <webElementGuid>935e82ed-fea1-4b5b-ab81-19d432c3cd2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-kecamatan_id</value>
-      <webElementGuid>aafdc09d-99bd-420a-9e19-f2efb316b270</webElementGuid>
+      <webElementGuid>9fdfb377-f91a-49d4-9d46-d541e2d3fdb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>1f1bba80-ecfa-4a3d-94e2-41805715f69b</webElementGuid>
+      <webElementGuid>56b87130-62e7-435c-a4c2-b0c1461c9a0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[kecamatan_id]</value>
-      <webElementGuid>3d4ba25e-e662-4274-bd8c-7ea31ec6b488</webElementGuid>
+      <webElementGuid>d38f8aad-7f6f-4776-94af-546b9d697b5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +67,7 @@
                                     }
                                 );
                                 </value>
-      <webElementGuid>842d45ef-5b95-4a79-9726-e73eaa233c8a</webElementGuid>
+      <webElementGuid>a79bd170-f4db-4ec7-a706-23089ef06d58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +75,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM</value>
-      <webElementGuid>dd3d6767-e726-42b0-afa6-89b2af8f155b</webElementGuid>
+      <webElementGuid>79061c72-4898-492f-a5b6-52d12e6453ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +83,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-kecamatan_id&quot;)</value>
-      <webElementGuid>08a85fd6-3de0-488f-9496-2d58666eed31</webElementGuid>
+      <webElementGuid>7debda1a-79c9-4648-a140-4a39b975f399</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +91,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-kecamatan_id']</value>
-      <webElementGuid>9c0d2370-ee18-40b7-aa76-c1156aeafe2a</webElementGuid>
+      <webElementGuid>a3e646bd-0427-4690-9c09-7cc33d794eb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +99,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[8]/div[2]/div/select</value>
-      <webElementGuid>4ca9ce6b-ab0f-42a4-8cdf-6d708956786f</webElementGuid>
+      <webElementGuid>127df085-7848-439a-88ad-ffab9bbdcbff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/following::select[1]</value>
-      <webElementGuid>74262917-1e68-461b-896f-e8d4994ded75</webElementGuid>
+      <webElementGuid>2dba8a44-550f-4108-b6b7-21a74b18f5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/following::select[2]</value>
-      <webElementGuid>a3eb0783-8eed-47e5-b69b-d96d2c0aae6f</webElementGuid>
+      <webElementGuid>5f6e70f7-0ce8-4bbc-984c-efd453ab2f8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa'])[1]/preceding::select[1]</value>
-      <webElementGuid>ab59402d-58a9-4af2-bf1f-67954f96268d</webElementGuid>
+      <webElementGuid>bbb02274-e9b2-4285-bd5f-44f2fe6d980f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/preceding::select[2]</value>
-      <webElementGuid>8ba15cdb-9846-43c1-b84a-1fbbc40f50d8</webElementGuid>
+      <webElementGuid>73c98e80-d859-46bc-ace5-f5816961b03d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +139,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div[2]/div/select</value>
-      <webElementGuid>66964217-d394-420d-b8c0-33c514b68fde</webElementGuid>
+      <webElementGuid>578d9ccf-414e-45c9-a2f2-9fb310536793</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +147,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'lembaga-kecamatan_id' and @name = 'Lembaga[kecamatan_id]' and (text() = '-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM' or . = '-- Pilih Kecamatan --BANDAR KEDUNG MULYOBARENGDIWEKGUDOJOGO ROTOJOMBANGKABUHKESAMBENKUDUMEGALUHMOJOAGUNGMOJOWARNONGORONGUSIKANPERAKPETERONGANPLANDAANPLOSOSUMOBITOTEMBELANGWONOSALAM')]</value>
-      <webElementGuid>2ee7edd9-3bd8-49f0-af07-ec49e308d07a</webElementGuid>
+      <webElementGuid>1c142763-cd9c-4070-a912-fa7b71320015</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

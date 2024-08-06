@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-009 - Mengecek fungsi tombol kembali</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ecb45ee5-e081-46b1-9e3a-ab2a4569387c</testCaseGuid>
+</TestCaseEntity>

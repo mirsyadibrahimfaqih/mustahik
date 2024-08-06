@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-bank_nama</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>aeabb16f-e894-466b-a2bd-272f84a40df7</webElementGuid>
+      <webElementGuid>5727bd2d-fae1-4b24-b2c3-eeb459cd3905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-bank_nama</value>
-      <webElementGuid>fccba9a5-6fde-4e44-8a2b-cfb1306d01e5</webElementGuid>
+      <webElementGuid>4eb9747a-647a-4749-a967-ea869036ea75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>67e6dfda-c38d-40a9-bc59-8f513410a6cc</webElementGuid>
+      <webElementGuid>bb37529c-acef-43fe-9b35-c320f3d5f3a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[bank_nama]</value>
-      <webElementGuid>ad511e9f-9a05-4221-8dde-9facf1d1c836</webElementGuid>
+      <webElementGuid>c6e37bd8-7aa5-47b1-8a2c-435a63669ac6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -162,7 +169,7 @@ STANDARD CHARTERED BANK
 DEUTSCHE BANK AG
 BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
 </value>
-      <webElementGuid>6551b6bc-bfd3-4c01-88e5-6304e2473dbf</webElementGuid>
+      <webElementGuid>a021b5bf-3b8c-40ec-af6e-a5d0aeabbd19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -170,7 +177,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-bank_nama&quot;)</value>
-      <webElementGuid>cf7fc3c9-89fd-4224-acd8-bad3443ba4f8</webElementGuid>
+      <webElementGuid>d33f9254-f8a6-43f7-bd43-dca50bec637c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -178,7 +185,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-bank_nama']</value>
-      <webElementGuid>587d6a45-25bf-4484-9432-733db517c8b0</webElementGuid>
+      <webElementGuid>796dbf7b-003a-41b5-880e-d066b9d17fc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -186,7 +193,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div[2]/div[5]/div[2]/div/select</value>
-      <webElementGuid>c6597aa8-0b27-4009-ba61-528724c7327e</webElementGuid>
+      <webElementGuid>75628197-5754-4275-8142-ba47e9506c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -194,7 +201,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Bank'])[1]/following::select[1]</value>
-      <webElementGuid>bac2acec-053e-4249-b2dc-10a4a90f3503</webElementGuid>
+      <webElementGuid>53f5930f-8f22-4c8b-b8c4-9ea93db9febc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -202,7 +209,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Rekening'])[1]/following::select[1]</value>
-      <webElementGuid>01408497-5faf-4d57-adf8-fc3322a4313e</webElementGuid>
+      <webElementGuid>8dd16d4b-f82d-4040-90ed-dd8637c3ff4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -210,7 +217,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Atas Nama'])[1]/preceding::select[1]</value>
-      <webElementGuid>4da58a0c-9d28-4958-a20f-11b63b13a00d</webElementGuid>
+      <webElementGuid>a1fbe592-9f31-4d5f-86e0-cc7a70139810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -218,7 +225,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Rekening'])[1]/preceding::select[1]</value>
-      <webElementGuid>d7e7cd4a-fcbd-40c9-8e7d-a39483166e25</webElementGuid>
+      <webElementGuid>c3d7abb3-6697-48ee-b5d6-7bc6a98c82d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -226,7 +233,7 @@ BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[5]/div[2]/div/select</value>
-      <webElementGuid>9c157bef-2097-4214-99b5-ec6cc43dd3e5</webElementGuid>
+      <webElementGuid>d3fd5b19-f761-4487-a942-49b73f8963a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -450,6 +457,6 @@ STANDARD CHARTERED BANK
 DEUTSCHE BANK AG
 BANK OF CHINA (HONG KONG) LIMITED CABANG JAKARTA
 ')]</value>
-      <webElementGuid>70455ed1-60a6-4cd4-a724-b8898feaa718</webElementGuid>
+      <webElementGuid>55b4e814-57d1-4361-a15b-d768d78c0b6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

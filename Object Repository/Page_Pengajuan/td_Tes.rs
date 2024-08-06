@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(4) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>d7ca8b20-4a55-472d-aef9-0279871e9f93</webElementGuid>
+      <webElementGuid>e20b63f5-15ce-41bf-9e67-0df5b1d67cf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tes</value>
-      <webElementGuid>40936a09-9701-4629-a2ca-b2846ae33dcb</webElementGuid>
+      <webElementGuid>bf8b9219-e978-4503-bf8a-f89e4e3e324f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[4]</value>
-      <webElementGuid>a9d93698-0f31-4937-b20b-7f21fb84240f</webElementGuid>
+      <webElementGuid>8d4ed3d9-0d9f-4ce3-ade5-613fe1b05943</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +53,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='data']/table/tbody/tr/td[4]</value>
-      <webElementGuid>e8f6af5c-aea5-4372-b16a-e079983d169d</webElementGuid>
+      <webElementGuid>b96ff4d4-7f48-4924-ab9c-b70df6b1d046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PB-1906/U10/EKOPEN/VIII/2024'])[1]/following::td[1]</value>
+      <webElementGuid>d3fe25f2-37ff-42e4-9106-898d42569da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRAFT'])[2]/following::td[2]</value>
+      <webElementGuid>9240acbf-c930-46a9-a71d-1c14f0b2f241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 1'])[1]/preceding::td[2]</value>
+      <webElementGuid>c48dcabc-2436-475c-9534-88b30de5cdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDIDIKAN'])[2]/preceding::td[3]</value>
+      <webElementGuid>b0a2a32e-1bd2-41fd-94da-11474ce6bd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tes']/parent::*</value>
+      <webElementGuid>b9239f6c-ac54-4657-9562-5e705427126a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>9228b981-e814-4d1f-8a3d-073b388f7914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tes' or . = 'Tes')]</value>
+      <webElementGuid>a537a1f1-7932-4d42-a934-7dad52e9a123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,47 +124,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRAFT'])[2]/following::td[2]</value>
-      <webElementGuid>eb4af1cf-db82-434b-bdcf-9b4ee8ffdd37</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 0'])[1]/preceding::td[2]</value>
       <webElementGuid>bfd60293-92f9-457a-8890-a7f776de5cad</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDIDIKAN'])[2]/preceding::td[3]</value>
-      <webElementGuid>53c08b01-cf7e-4c0b-a411-28ba41cde6ad</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tes']/parent::*</value>
-      <webElementGuid>41f46b2c-e78b-469f-942b-c3c68fa8af1e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[4]</value>
-      <webElementGuid>f526560f-508a-454c-9ee7-397dbc8fd722</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Tes' or . = 'Tes')]</value>
-      <webElementGuid>9e4d9fc3-4490-4913-b714-a082b7e32b6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAU-003 - Memperbarui approval usulan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e202550-cd33-477f-939c-36cb42901f18</testCaseGuid>
+</TestCaseEntity>

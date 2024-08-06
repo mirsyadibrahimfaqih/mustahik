@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0df85739-616c-44f6-a3de-f483989fe954</webElementGuid>
+      <webElementGuid>6443dcf5-5473-458c-a253-7325a5bd7251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>44f9c6ab-f25c-451c-bd8b-9de9e7bad809</webElementGuid>
+      <webElementGuid>f0fc50c0-871b-4fe9-bd8a-ebf87ef3be51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>4de0c9d6-99f4-4afb-9bfa-3f910aedd296</webElementGuid>
+      <webElementGuid>b0f15259-8922-4136-bc73-764e1b0ad25b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Simpan</value>
-      <webElementGuid>eb50be99-77f9-47bb-b1e1-318c4c44e686</webElementGuid>
+      <webElementGuid>b1117e21-367b-4c3f-b4db-316881136bc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>343378d7-8076-4196-80cf-e03927bfcd14</webElementGuid>
+      <webElementGuid>4da0cdfe-3bea-4312-a18a-b93871d62184</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>f59e4cc5-828c-48c4-9ff3-eaac10edd9a7</webElementGuid>
+      <webElementGuid>5fad9295-9a77-44ef-bd0a-baaa076e9687</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div[2]/div[9]/button</value>
-      <webElementGuid>c7f83704-14dd-4998-aa2f-0ed48ce7c954</webElementGuid>
+      <webElementGuid>568486c1-eb4a-45f8-9bd7-4825e5e9960e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[1]/following::button[1]</value>
-      <webElementGuid>dbc57860-0140-4897-bec6-0ef4d185d000</webElementGuid>
+      <webElementGuid>afad447a-ddbb-4177-8aac-5d054748884b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen'])[1]/following::button[1]</value>
-      <webElementGuid>69fb73ba-b1fc-4706-adf0-c060367bd270</webElementGuid>
+      <webElementGuid>78564cfe-7df9-4054-be41-e97a878c1e5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PeTIK Jombang'])[1]/preceding::button[1]</value>
-      <webElementGuid>fbf2ce9c-0e02-45f1-beea-13b20b607121</webElementGuid>
+      <webElementGuid>e6432517-0953-4c77-8063-61a0b48beb44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
-      <webElementGuid>9a33dc9b-d5c5-43f4-8e91-6b63d8a99ddb</webElementGuid>
+      <webElementGuid>e9f4038a-d158-43ba-9eed-1012b5d8638e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>7246af89-9a40-46cc-bf1f-b8cddddbaec2</webElementGuid>
+      <webElementGuid>da49a62c-509f-4345-82b4-7efbfca2d763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Simpan' or . = ' Simpan')]</value>
-      <webElementGuid>42587cbe-128a-49f5-841a-6b0c5bd13b20</webElementGuid>
+      <webElementGuid>86ed6b1e-dc6a-484c-a42c-2d373415ad3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

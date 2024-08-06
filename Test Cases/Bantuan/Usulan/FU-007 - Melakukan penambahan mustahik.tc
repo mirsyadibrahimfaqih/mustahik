@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-007 - Melakukan penambahan mustahik</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad14179d-5345-4dbe-86c2-8266db9fe26a</testCaseGuid>
+</TestCaseEntity>

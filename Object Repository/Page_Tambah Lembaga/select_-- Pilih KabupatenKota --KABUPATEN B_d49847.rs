@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-kota_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>64654042-3deb-446b-b10d-073c61a8a5d6</webElementGuid>
+      <webElementGuid>d9e1c1c1-2961-47bc-9003-072c45548036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-kota_id</value>
-      <webElementGuid>7f4f4059-1308-4ff7-8762-eca142d2574a</webElementGuid>
+      <webElementGuid>156704c3-1c6d-4b92-b2f6-5d854e5e3989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>43ce6af9-dc1b-4156-9084-53b08ae42780</webElementGuid>
+      <webElementGuid>423e6a69-93c1-4ddc-b57f-db4031284889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[kota_id]</value>
-      <webElementGuid>d0424eaa-6c9d-4f9c-ae25-515aed785929</webElementGuid>
+      <webElementGuid>e023c003-592e-48fa-9629-d532fef32a10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +67,7 @@
                                     }
                                 );
                                                     </value>
-      <webElementGuid>5fb65aed-ce66-4fbd-b98b-4382a1f84589</webElementGuid>
+      <webElementGuid>f645e97d-cdb5-4b23-a2ec-6e29e80cc122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +75,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA</value>
-      <webElementGuid>3f7e1b73-4572-411d-93bd-a272ff7205c6</webElementGuid>
+      <webElementGuid>5e96c36b-6e5a-4635-a2f3-58256175239d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +83,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-kota_id&quot;)</value>
-      <webElementGuid>0c007482-3fa9-4e8a-b369-e882e300e504</webElementGuid>
+      <webElementGuid>d8620fd5-5f82-4b82-a82f-c671ef33a24a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +91,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='lembaga-kota_id']</value>
-      <webElementGuid>68f52dfc-e029-4c41-a5ff-c4ee323461ee</webElementGuid>
+      <webElementGuid>9ca461e6-237f-4667-947d-23415e5ad3cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +99,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div/div[7]/div[2]/div/select</value>
-      <webElementGuid>64670dd5-4fbf-42df-91b0-d8793e9a1dae</webElementGuid>
+      <webElementGuid>849fc106-ed0c-4640-a0b3-5f85ec855332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/following::select[1]</value>
-      <webElementGuid>c2e61c68-5b38-47ce-9d8f-b713c2c3ebc2</webElementGuid>
+      <webElementGuid>717d3c18-b372-4c96-ba22-0bf0fb373e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/following::select[2]</value>
-      <webElementGuid>62403d8c-a674-49a1-8c4d-e13502fca394</webElementGuid>
+      <webElementGuid>97666e0d-30ef-44d6-b628-8d8ea5749c04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/preceding::select[1]</value>
-      <webElementGuid>106d85fc-2f6b-46ce-9f7e-85e2da9c0987</webElementGuid>
+      <webElementGuid>e3891c0b-a845-4c65-a77b-dfba8850c1c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa'])[1]/preceding::select[2]</value>
-      <webElementGuid>8d3d03bd-d046-41c6-82a5-027d7a6b623e</webElementGuid>
+      <webElementGuid>f4f46d85-7420-4048-ab77-f291343b63fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +139,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div/select</value>
-      <webElementGuid>9b68e4a4-3d80-4476-85c8-1628c18d34be</webElementGuid>
+      <webElementGuid>8e812d38-50ee-4874-9468-3cbc339fa307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +147,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'lembaga-kota_id' and @name = 'Lembaga[kota_id]' and (text() = '-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA' or . = '-- Pilih Kabupaten/Kota --KABUPATEN BANGKALANKABUPATEN BANYUWANGIKABUPATEN BLITARKABUPATEN BOJONEGOROKABUPATEN BONDOWOSOKABUPATEN GRESIKKABUPATEN JEMBERKABUPATEN JOMBANGKABUPATEN KEDIRIKABUPATEN LAMONGANKABUPATEN LUMAJANGKABUPATEN MADIUNKABUPATEN MAGETANKABUPATEN MALANGKABUPATEN MOJOKERTOKABUPATEN NGANJUKKABUPATEN NGAWIKABUPATEN PACITANKABUPATEN PAMEKASANKABUPATEN PASURUANKABUPATEN PONOROGOKABUPATEN PROBOLINGGOKABUPATEN SAMPANGKABUPATEN SIDOARJOKABUPATEN SITUBONDOKABUPATEN SUMENEPKABUPATEN TRENGGALEKKABUPATEN TUBANKABUPATEN TULUNGAGUNGKOTA BATUKOTA BLITARKOTA KEDIRIKOTA MADIUNKOTA MALANGKOTA MOJOKERTOKOTA PASURUANKOTA PROBOLINGGOKOTA SURABAYA')]</value>
-      <webElementGuid>3f7f5622-2c2a-4577-84f2-f81d4e352379</webElementGuid>
+      <webElementGuid>bef595bf-a0b6-475f-941b-a149c238d034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

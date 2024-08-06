@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Data Master&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4dc740f7-2c94-48e1-960d-6323215e6c19</webElementGuid>
+      <webElementGuid>d5040e05-2341-41e3-911c-5d27a1f62248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>f6876c49-3b1b-4b92-999d-6daf2ada0d37</webElementGuid>
+      <webElementGuid>1821e101-02a3-44ca-9476-27fddf7972df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>3f094aae-a7e0-486f-91a9-7f510853db44</webElementGuid>
+      <webElementGuid>bd365fcc-7698-4410-84b8-bdb0ec5650ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +56,7 @@
                                         
                                         Data Master
                                     </value>
-      <webElementGuid>7d4ae67d-d300-435d-82be-5656c38fce01</webElementGuid>
+      <webElementGuid>f48bcc71-1358-49d3-b08a-d7f9ebdba81e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;sidebar-mini sidebar-open&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar sidebar-dark-primary elevation-1&quot;]/div[@class=&quot;sidebar&quot;]/nav[@class=&quot;mt-2&quot;]/ul[@class=&quot;nav nav-pills nav-sidebar flex-column&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>bc897e4d-f607-4e3b-91fe-f8e0e8050596</webElementGuid>
+      <webElementGuid>f1fad293-ed04-4d47-97d0-99b4b36f127a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,15 +72,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit PLN Pusat'])[1]/following::a[2]</value>
-      <webElementGuid>39619980-5720-47ef-8386-ea896fbd9186</webElementGuid>
+      <webElementGuid>0ef9142c-53c1-4df8-a615-1b578963ff16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program'])[1]/following::a[2]</value>
-      <webElementGuid>fbdda293-e81c-4547-bc71-296c3cdff2c5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program1'])[1]/following::a[2]</value>
+      <webElementGuid>9f9f0162-40d3-483e-8247-2cf21c74e015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Mustahik YBM PLN'])[2]/preceding::a[14]</value>
-      <webElementGuid>49392e2c-3e02-42e1-9a12-2c3841032b48</webElementGuid>
+      <webElementGuid>7a1cf4d2-4679-4249-a437-35a7cd77298d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grafik Mustahik Provinsi'])[1]/preceding::a[14]</value>
-      <webElementGuid>a89f1fc2-a443-4181-9ef3-f301a4fa2591</webElementGuid>
+      <webElementGuid>f4f56978-3eba-44a0-bc75-cf277b300174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +104,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>4bfa351a-0294-4a81-b47b-741094c2136d</webElementGuid>
+      <webElementGuid>7853c73c-883c-43ba-b4eb-309f0b1a0a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/div/nav/ul/li[2]/a</value>
-      <webElementGuid>f6f566b0-cb04-4057-923d-332d19c65e4b</webElementGuid>
+      <webElementGuid>83d6f09b-0ca6-4dad-aa6c-fc1147d671d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +126,14 @@
                                         
                                         Data Master
                                     ')]</value>
-      <webElementGuid>ca2609be-f261-4f53-a7da-1e2290bd837b</webElementGuid>
+      <webElementGuid>49b559ba-fec2-4d7a-bc3f-05a0828eaf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Program'])[1]/following::a[2]</value>
+      <webElementGuid>fbdda293-e81c-4547-bc71-296c3cdff2c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

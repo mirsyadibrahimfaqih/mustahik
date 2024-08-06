@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tampilkan Semua&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c7de64a6-d401-4e21-b7d9-ab063f93bd0c</webElementGuid>
+      <webElementGuid>2a240b7f-a57e-452e-a51e-d473f93f0729</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>3a5317ee-2d3e-4d14-93de-d3b978355db7</webElementGuid>
+      <webElementGuid>faad9f7d-9905-4f92-8af8-1533bc407d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/backend/web/index.php?r=lembaga%2Findex</value>
-      <webElementGuid>b044b56b-b6ae-4eb3-a385-47dc4dee50a1</webElementGuid>
+      <webElementGuid>a0b9256e-8834-4f4c-bd4a-abe70a372cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tampilkan Semua</value>
-      <webElementGuid>9238845b-d39d-4276-9fdd-2d09bb72c70b</webElementGuid>
+      <webElementGuid>acc2c932-1062-4186-a041-6d11ca7e2eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w0&quot;)/div[@class=&quot;card-header p-2&quot;]/a[@class=&quot;btn btn-info&quot;]</value>
-      <webElementGuid>28d6da00-1492-4e76-95fd-158d3849f6ef</webElementGuid>
+      <webElementGuid>ad67bbe0-5e72-4a1f-a3c2-19ba59af54a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/a</value>
-      <webElementGuid>452807d3-18e2-453a-9030-223d99bfcabe</webElementGuid>
+      <webElementGuid>25ce3884-6976-40fa-a97d-dd200c18f2c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tampilkan Semua')]</value>
-      <webElementGuid>d69b11f8-8295-4f72-ada7-6afc60e1b32a</webElementGuid>
+      <webElementGuid>d6117996-5fd5-4392-9162-71aacc624e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan Pencarian'])[1]/following::a[1]</value>
-      <webElementGuid>4abfcfff-0ed5-46ae-8247-8d7c00722bd5</webElementGuid>
+      <webElementGuid>181360da-03cc-4039-a53b-7d5d49ac50ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga'])[5]/following::a[1]</value>
-      <webElementGuid>6f523278-b07d-4404-9085-52ed355a5b0a</webElementGuid>
+      <webElementGuid>99f96443-e9a1-44e4-9210-b565ef494464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Lembaga'])[1]/preceding::a[1]</value>
-      <webElementGuid>85f08bc6-7d22-4ba3-b669-c236f41ab205</webElementGuid>
+      <webElementGuid>40b57ffe-0612-44d6-ab52-0a358487f34a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::a[2]</value>
-      <webElementGuid>a8844f2d-9657-4e96-ba59-0153f5ec2e3e</webElementGuid>
+      <webElementGuid>4a72c725-ae56-4ef8-9071-1fd7851adc9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tampilkan Semua']/parent::*</value>
-      <webElementGuid>b19625a9-9678-4fb5-9add-53b86e2dbea3</webElementGuid>
+      <webElementGuid>acf3aa8a-5da9-4c0d-918a-970747fa4e5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/backend/web/index.php?r=lembaga%2Findex')])[2]</value>
-      <webElementGuid>2e5a89e5-2b0a-4c1d-853c-462a6fbc2792</webElementGuid>
+      <webElementGuid>56edd289-3354-4b12-bda9-7bcb125a834c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/a</value>
-      <webElementGuid>48c27f89-4d39-4847-af28-d44123d0efc3</webElementGuid>
+      <webElementGuid>199259e4-9260-48ff-8ec6-74e2034d2eb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/backend/web/index.php?r=lembaga%2Findex' and (text() = ' Tampilkan Semua' or . = ' Tampilkan Semua')]</value>
-      <webElementGuid>f7eebb58-1dff-41ea-b44a-8fc2417a3eeb</webElementGuid>
+      <webElementGuid>9642f92e-6ef7-4a05-ae86-634ae8b0d6f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

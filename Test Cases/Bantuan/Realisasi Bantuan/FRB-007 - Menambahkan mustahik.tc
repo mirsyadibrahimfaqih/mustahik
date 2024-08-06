@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-007 - Menambahkan mustahik</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e81c0e3f-f064-45bd-92a5-a23e44dae20b</testCaseGuid>
+</TestCaseEntity>

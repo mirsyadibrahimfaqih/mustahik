@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Kategori&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a09b2dc1-2f3f-44dd-8082-27306bf51c12</webElementGuid>
+      <webElementGuid>ada24d79-6e16-4b13-a49c-9228f973651c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cb84cd18-e808-4dca-8127-03d09bdd578b</webElementGuid>
+      <webElementGuid>49c6defa-9736-4ade-9958-8f4b8fdf1400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kategori-nama</value>
-      <webElementGuid>185f23e7-1135-42aa-8606-e301f6e3b2e9</webElementGuid>
+      <webElementGuid>7d7d2998-5707-44a9-8ead-136c7fc7b2b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>32e94ca8-dbef-492e-8bb0-c96880cdb680</webElementGuid>
+      <webElementGuid>63ca2de3-fc10-4761-9911-617529bea302</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Kategori[nama]</value>
-      <webElementGuid>5c1b4cd7-e02f-4388-9ee9-064146bfe79f</webElementGuid>
+      <webElementGuid>c06c99a3-969c-49c7-b8fe-652271d966ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>563a9960-61dc-4180-88b4-3c8c9ce47f57</webElementGuid>
+      <webElementGuid>49b201b9-32bd-4f8a-ad44-e9212a64a898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kategori-nama&quot;)</value>
-      <webElementGuid>32b7f552-7c37-4aa5-a9cf-9444c7ae44da</webElementGuid>
+      <webElementGuid>4bcc9248-24ca-453e-a6cc-22586241aaca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='kategori-nama']</value>
-      <webElementGuid>ac9571d5-c23a-4241-8697-679a4bf3b997</webElementGuid>
+      <webElementGuid>1b9f7f3a-a672-4b45-a916-b8d05708b1ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/input</value>
-      <webElementGuid>35ffeeb0-aa26-4040-bcb3-384a8dd63755</webElementGuid>
+      <webElementGuid>b734d659-5d86-4fd5-97af-1b1b9b88e87b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>467b574e-18f3-40e6-a7b4-0447b92a4a20</webElementGuid>
+      <webElementGuid>fc31c516-9897-4844-9110-bb42f8bd8d8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'kategori-nama' and @name = 'Kategori[nama]']</value>
-      <webElementGuid>c783f802-6edb-4380-8037-9df50a41d868</webElementGuid>
+      <webElementGuid>00cbc0fd-ed39-4770-8c8e-ecdc797ca696</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

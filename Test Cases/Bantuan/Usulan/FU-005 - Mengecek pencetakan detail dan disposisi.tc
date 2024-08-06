@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-005 - Mengecek pencetakan detail dan disposisi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8ec485e-95ca-4836-abe7-79f246296f7f</testCaseGuid>
+</TestCaseEntity>

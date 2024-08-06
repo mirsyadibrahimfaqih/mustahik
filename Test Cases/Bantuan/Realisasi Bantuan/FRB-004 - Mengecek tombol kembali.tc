@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRB-004 - Mengecek tombol kembali</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a5b32ae-1ae2-4d38-a548-38ecf3b815ec</testCaseGuid>
+</TestCaseEntity>

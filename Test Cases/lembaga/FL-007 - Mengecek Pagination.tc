@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FL-007 - Mengecek Pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db3e4e66-f1cc-45a2-aa4d-ff47c9d4b184</testCaseGuid>
+</TestCaseEntity>

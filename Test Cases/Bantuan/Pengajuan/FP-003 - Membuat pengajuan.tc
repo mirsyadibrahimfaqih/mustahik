@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-003 - Membuat pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>610c4352-cbf8-4569-a485-933f04ca59cc</testCaseGuid>
+</TestCaseEntity>

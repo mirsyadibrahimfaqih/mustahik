@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRD-006 - Menampilkan halaman approval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22da4767-6419-4608-8740-6091b7ebda2e</testCaseGuid>
+</TestCaseEntity>

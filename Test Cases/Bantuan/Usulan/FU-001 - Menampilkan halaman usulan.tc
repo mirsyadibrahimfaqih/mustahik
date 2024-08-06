@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-001 - Menampilkan halaman usulan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d80c54f-2bcf-44f4-90ca-e55923df8470</testCaseGuid>
+</TestCaseEntity>

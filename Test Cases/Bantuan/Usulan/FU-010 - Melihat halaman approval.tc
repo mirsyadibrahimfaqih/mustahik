@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FU-010 - Melihat halaman approval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38134cc7-2e82-45bd-9a39-7a7fe0da5624</testCaseGuid>
+</TestCaseEntity>

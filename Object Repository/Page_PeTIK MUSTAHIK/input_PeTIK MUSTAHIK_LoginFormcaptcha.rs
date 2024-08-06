@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#loginform-captcha</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5b0cc78f-3dd7-40f0-9bb2-d4b652975f33</webElementGuid>
+      <webElementGuid>0c241c08-abae-4a74-9f21-37884eb1e9de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d156b2bb-9290-4db1-8cd6-50cf47d49343</webElementGuid>
+      <webElementGuid>73a3a43c-be00-4b82-baf2-33f1d708fc81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>loginform-captcha</value>
-      <webElementGuid>26ed6d09-9804-404b-925a-0c0139cfa657</webElementGuid>
+      <webElementGuid>f579230f-01c3-4c7c-ac3f-76ef028f7b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>394b70a1-ea9e-4af7-8ced-a40cbf05796b</webElementGuid>
+      <webElementGuid>36e1dedd-c20e-4568-a599-92f1eeca9f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>LoginForm[captcha]</value>
-      <webElementGuid>afb0e092-1303-467b-aacb-bdb104a603f3</webElementGuid>
+      <webElementGuid>3de33a4c-444a-4927-9288-7ceb181ef6c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>32d1418c-0549-44b9-a8a0-74f7c8da7662</webElementGuid>
+      <webElementGuid>eb2d03b3-a245-470d-9197-a3ad4733548d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2232f218-bf88-44d2-bcd2-a34c0c7b638a</webElementGuid>
+      <webElementGuid>986117cf-4aca-4fe6-aac4-9b6603668de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +85,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>3d4ca439-22a9-4e0e-a348-c68958e2044b</webElementGuid>
+      <webElementGuid>50cc6f05-32ca-4327-8d77-030bdb3821bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginform-captcha&quot;)</value>
-      <webElementGuid>8dda1497-1b4e-433b-8b16-645ed2ac8c1d</webElementGuid>
+      <webElementGuid>f0c108d1-3821-4254-b613-80566772591f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='loginform-captcha']</value>
-      <webElementGuid>899906c8-9445-4f65-aaba-02607d0c13c0</webElementGuid>
+      <webElementGuid>3591593c-ddef-4a66-b9c1-342145b61856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/div[3]/input</value>
-      <webElementGuid>023b70dd-a170-4245-98e7-61907085a4ec</webElementGuid>
+      <webElementGuid>9fdc6186-bd25-455a-82a5-4969a9d9efe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>beffb76f-e856-45f0-9572-a31bbb0ac7e5</webElementGuid>
+      <webElementGuid>6c6d0739-edc5-4fb1-9bec-656ea77cc72e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'loginform-captcha' and @name = 'LoginForm[captcha]']</value>
-      <webElementGuid>c9724631-9c23-41f2-8ed2-b991bd85b604</webElementGuid>
+      <webElementGuid>59ac8f9c-521e-42b5-84f4-a982b3c19456</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

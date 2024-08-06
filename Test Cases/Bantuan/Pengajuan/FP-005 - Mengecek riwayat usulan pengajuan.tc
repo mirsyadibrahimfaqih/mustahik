@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FP-005 - Mengecek riwayat usulan pengajuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa43b4f0-f36b-435d-8d95-ebbeab73a497</testCaseGuid>
+</TestCaseEntity>

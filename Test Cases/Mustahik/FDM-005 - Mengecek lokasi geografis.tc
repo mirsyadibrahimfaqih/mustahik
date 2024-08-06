@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FDM-005 - Mengecek lokasi geografis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8a6914b-7d50-4586-8f6f-d6793de104e8</testCaseGuid>
+</TestCaseEntity>

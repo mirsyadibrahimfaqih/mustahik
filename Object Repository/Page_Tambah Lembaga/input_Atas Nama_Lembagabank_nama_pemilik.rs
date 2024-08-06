@@ -15,6 +15,13 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#lembaga-bank_nama_pemilik</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4bcf3e06-4892-4e46-b938-ee4c1fc8b08c</webElementGuid>
+      <webElementGuid>82611d6c-e6c1-40ba-be59-461f625de669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b8ba055e-30c3-459d-b9c2-485f57561115</webElementGuid>
+      <webElementGuid>b12e3ff2-6cae-4e21-a0a9-c98b866c2836</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lembaga-bank_nama_pemilik</value>
-      <webElementGuid>53a11776-a5ca-41f9-a641-a4124791ece8</webElementGuid>
+      <webElementGuid>6117ba28-6002-44ef-8563-5197251bbb9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>8bac7b5f-ca29-4169-bb26-c3b98c4399cb</webElementGuid>
+      <webElementGuid>97698729-42a0-437c-99a7-cf8f2f7338c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Lembaga[bank_nama_pemilik]</value>
-      <webElementGuid>49fe8095-9ef0-4257-bc06-d30fc5844261</webElementGuid>
+      <webElementGuid>afd05f05-f250-4307-84f7-9ba96e97f3e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>2a257466-2efd-4505-a6a6-afd06d3695c1</webElementGuid>
+      <webElementGuid>e9dbe70b-c674-4010-a572-8e514a9b3ed9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lembaga-bank_nama_pemilik&quot;)</value>
-      <webElementGuid>c10483d1-0e1a-41d4-89ac-b141753e629c</webElementGuid>
+      <webElementGuid>9bb8561b-7713-4e84-8047-a301189e3d45</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lembaga-bank_nama_pemilik']</value>
-      <webElementGuid>eb2d10f2-938b-4613-93c7-368fe74252e7</webElementGuid>
+      <webElementGuid>210e6842-ccd5-429e-9f50-b0fc02deb3e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div/div/div[2]/div[6]/div[2]/div/input</value>
-      <webElementGuid>d73ed440-1436-4231-afa7-c1e9dc770d84</webElementGuid>
+      <webElementGuid>952026b3-9dfc-413f-accc-762a5ffa4e45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/div/input</value>
-      <webElementGuid>d12c70bb-cb51-4240-a113-e884e8566105</webElementGuid>
+      <webElementGuid>3265004e-218a-4b17-8d99-b954d7825fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'lembaga-bank_nama_pemilik' and @name = 'Lembaga[bank_nama_pemilik]']</value>
-      <webElementGuid>eaa1823c-aafa-4369-b119-a789539d2a92</webElementGuid>
+      <webElementGuid>a60f189b-5881-4bee-8b2e-b23038dcb0c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
